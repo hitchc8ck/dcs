@@ -9,16 +9,17 @@ all public information - sources ( P-816.pdf, ATP-3.3.4.2 )
 ## 1.6  Pipeline/checkrides/nugget tour
 
 ## 2.0 Carrier Departure Procedures 
-## 2.1 CASE I Departure 
+### 2.1 CASE I Departure 
 Line up at the Catapult and Launch
 After Launch from the Catapult CASE I
-## 2.2 CASE II Departure
+<https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case_i_departure.png>
+### 2.2 CASE II Departure
 Line up at the Catapult and Launch
 After Launch from the Catapult CASE II
-## 2.3 CASE III Departure
+### 2.3 CASE III Departure
 Line up at the Catapult and Launch
 After Launch from the Catapult CASE III
-## 3.0 Carrier Recovery Procedures
+### 3.0 Carrier Recovery Procedures
 
 
 ## 3.1 ARRIVAL AND RECOVERY
