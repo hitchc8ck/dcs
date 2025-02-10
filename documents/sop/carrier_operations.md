@@ -26,7 +26,6 @@ Launch Frequencies: Aircraft shall normally launch on the departure frequency th
 ![alt text](https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case_i_departure_1.png)
 
 ### Case II Departure 
-
 For departure, visual conditions at the ship may exist down to a ceiling of 1,000 feet and visibility of 5 miles. Launch
 shall be on departure control frequency.
 
@@ -90,7 +89,6 @@ The flight leader shall provide the following information when checking in with 
 may affect recovery
 
 ## CASE I Recovery: 
-
 Case I recoveries are used to the maximum extent possible, provided the weather is better than 3,000/5.
 
 Overhead (Port) Holding 
@@ -153,7 +151,6 @@ Youtube Tutorial
 https://www.youtube.com/watch?v=lm-M3VUy-_I
 
 ## Case II Recovery:
-
 Case II recoveries will be used when weather conditions are such that a flight may encounter IMC during the descent to the VFR pattern. The minimum weather requirements are 1,000 feet ceiling and 5 NM visibility. During Case II recoveries, formation flights are limited to two aircraft. Formations larger than two aircraft will have to be separated into smaller flights. During Case II, Case III procedures are used outside 10 NM and Case I procedures are used inside 10 NM, or after reporting “see you.” This approach will be flown until the ship is in sight, at which point, the flight will contact tower and proceed inbound as if Case I. If the flight does not see the ship by 5 NM, the aircraft will be vectored into the bolter/waveoff pattern and instructions will be given for a Case III recovery.
 
 Marshal Holding -  If Marshal directs a Case II recovery, the flight will proceed to Case II/III marshal pattern holding fix. Ideally, the holding fix will be on the 180 radial relative to BRC. Weather and airspace considerations may not allow for this. Generally, the holding radial will be within 30 degrees of the 180 radial. Aircraft will hold on the assigned radial at a distance equal to 1 NM for every 1,000 feet of altitude plus 15. In other words, the distance of the holding fix is determined by adding 15 to the assigned holding altitude in angels. For example, if instructed to hold on the 220 radial at angels 8, the fix would be determined as follows: 
@@ -162,17 +159,13 @@ i. Distance = Angels + 15 = 8 +15 = 23
 
 Therefore, hold on the 220 radial at 23 DME at 8,000 feet. Image below  illustrates the Case II/III Marshal pattern. The lowest altitude for assignment is 6,000 feet for turboprop and jet aircraft.
 
-
 ## Case II/III Marshal Holding
-
-
 The holding pattern is a six-minute left-hand pattern. Unless otherwise briefed, the pattern will be flown at max conserve fuel flow or NATOPS holding airspeed. Twominute turns and one-minute legs are normally used for the pattern. Aircraft must be established at assigned holding altitudes by 10 NM from the Marshal “stack.” Aircraft in the stack will be separated by 1,000 feet vertically. Strict management of the holding pattern is required to arrive at the fix, at the assigned approach time (push time). For example, arriving in holding at time 16 with a push time of 27, one 6-minute pattern and one 5-minute pattern could be used. But regardless of how the pattern is managed, aircraft must arrive at the holding fix on airspeed (250 kts) and ready to commence the approach at the Expected Approach Time (EAT) plus or minus 10 seconds. If unable to do this, notify Marshal so that timing adjustments to the landing interval can be made.
 
 Approach -  Aircraft push times will normally be separated by one minute. Upon commencing the approach, aircraft will establish a 4,000 feet per minute rate of descent at 250 KIAS. At 5,000 feet (platform), the rate of descent will be reduced to 2,000 feet per minute. This will be maintained until reaching the level-off altitude of 1,200 feet. Aircraft will proceed inbound at 1,200 feet and report a “see me” when the ship is in sight. Marshal will switch the flight to Tower frequency for a normal Case I recovery. If the ship is not in sight by 10 NM, a descent to 800 feet is authorized. If the ship is still not in sight at 5 NM, notify Marshal for further instructions and vectors into the bolter/waveoff pattern for an instrument approach. The Case II approach profile is shown in image illustrated below.
 
 
 ## CASE II/III Approach
-
 Communications - For Case II recoveries, Marshal will provide the following information upon check in:
 
 Current weather and altimeter
