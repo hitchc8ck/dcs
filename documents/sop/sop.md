@@ -12,7 +12,7 @@ all public information - sources ( P-816.pdf, ATP-3.3.4.2 )
 ### 2.1 CASE I Departure 
 Line up at the Catapult and Launch
 After Launch from the Catapult CASE I
-<https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case_i_departure.png>
+![alt text](https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case_i_departure.png)
 ### 2.2 CASE II Departure
 Line up at the Catapult and Launch
 After Launch from the Catapult CASE II
