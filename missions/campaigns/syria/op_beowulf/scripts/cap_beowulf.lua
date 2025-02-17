@@ -10,7 +10,7 @@ detection_red = DETECTION_AREAS:New(detection_group_red, 120000)
 A2ADispatcher_red = AI_A2A_DISPATCHER:New(detection_red)
 
 -- Enable the tactical display panel.
-A2ADispatcher_red:SetTacticalDisplay(true)
+A2ADispatcher_red:SetTacticalDisplay(false)
 
 -- Initialize the dispatcher, setting up a border zone. This is a polygon, 
 -- which takes the waypoints of a late activated group with the name Red Border as the boundaries of the border area.
