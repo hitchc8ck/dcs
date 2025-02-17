@@ -66,8 +66,8 @@ redIADS:addRadioMenu()
 redIADS:activate()	
 
 --add the jammer
-local jammer = SkynetIADSJammer:create(Unit.getByName('jammer-emitter'), redIADS)
-jammer:masterArmOn()
+-- local jammer = SkynetIADSJammer:create(Unit.getByName('jammer-emitter'), redIADS)
+-- jammer:masterArmOn()
 
 --setup blue IADS:
 -- blueIADS = SkynetIADS:create('BLUE IADS')
