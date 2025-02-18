@@ -25,8 +25,8 @@ A2ADispatcher_red:SetDisengageRadius(150000)
 
 
 -- Setup the squadrons.
-A2ADispatcher_red:SetSquadron( "Jirah", AIRBASE.Syria.Jirah, { "red_cap_north-1", "red_cap_north-2" }, 10 ) 
-A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_cap_south-1", "red_cap_south-2" }, 10 ) 
+A2ADispatcher_red:SetSquadron( "Jirah", AIRBASE.Syria.Jirah, { "red_air_cap_north-1", "red_air_cap_north-2", "red_air_cap_north-3" }, 10 ) 
+A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_air_cap_south-1", "red_air_cap_south-2", "red_air_cap_south-3" }, 10 ) 
 
 -- Setup the overhead
 A2ADispatcher_red:SetSquadronOverhead("Jirah", 0.5)
@@ -51,11 +51,11 @@ A2ADispatcher_red:SetDefaultCapTimeInterval(7000, 10000)
 -- FloorAltitude, CeilingAltitude, PatrolMinSpeed, PatrolMaxSpeed, EngageMinSpeed, EngageMaxSpeed, AltType
 -- The altitude type, which is a string "BARO" defining Barometric or "RADIO" defining radio controlled altitude.
 red_cap_airspace_south = ZONE_POLYGON:New("red_cap_airspace_south", GROUP:FindByName("red_cap_airspace_south"))
-A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_south, 8000, 10000, 500, 600, 600, 1200, "RADIO")
+A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_south, 6000, 8000, 500, 600, 600, 1200, "RADIO")
 A2ADispatcher_red:SetSquadronCapInterval("Palmyra", 1, 400, 800, 1)
 
 red_cap_airspace_north = ZONE_POLYGON:New("red_cap_airspace_north", GROUP:FindByName("red_cap_airspace_north"))
-A2ADispatcher_red:SetSquadronCap("Jirah", red_cap_airspace_north, 8000, 10000, 500, 600, 600, 1200, "RADIO")
+A2ADispatcher_red:SetSquadronCap("Jirah", red_cap_airspace_north, 6000, 8000, 500, 600, 600, 1200, "RADIO")
 A2ADispatcher_red:SetSquadronCapInterval("Jirah", 1, 400, 800, 1)
 
 --set.SquadronCapIntervall SquadronName, CapLimit, LowInterval, HighInterval, Probability
