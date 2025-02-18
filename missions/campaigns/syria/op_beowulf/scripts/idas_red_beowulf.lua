@@ -16,6 +16,7 @@ iadsDebug.harmDefence = false
 
 --add all units with unit name beginning with 'EW' to the IADS:
 redIADS:addEarlyWarningRadarsByPrefix('red_ew')
+redIADS:addEarlyWarningRadarsByPrefix('red_awacs')
 
 --add all groups begining with group name 'SAM' to the IADS:
 redIADS:addSAMSitesByPrefix('red_sam')
@@ -26,9 +27,6 @@ redIADS:addCommandCenter(commandCenter)
 
 commandCenter2 = StaticObject.getByName('red_cc_2')
 redIADS:addCommandCenter(commandCenter2)
-
----we add a K-50 AWACs, manually. This could just as well be automated by adding an 'EW' prefix to the unit name:
-redIADS:addEarlyWarningRadar('red_awacs')
 
 --all SA-10 sites shall act as EW sites, meaning their radars will be on all the time:
 redIADS:getSAMSitesByNatoName('SA-10'):setActAsEW(true)

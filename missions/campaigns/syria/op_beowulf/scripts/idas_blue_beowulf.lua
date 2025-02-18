@@ -16,19 +16,10 @@ iadsDebug.harmDefence = false
 
 --add all units with unit name beginning with 'EW' to the IADS:
 blueIADS:addEarlyWarningRadarsByPrefix('blue_ew')
+blueIADS:addEarlyWarningRadarsByPrefix('blue_awacs')
 
 --add all groups begining with group name 'SAM' to the IADS:
 blueIADS:addSAMSitesByPrefix('blue_sam')
-
---add a command center:
-commandCenter = StaticObject.getByName('blue_cc_1')
-blueIADS:addCommandCenter(commandCenter)
-
-commandCenter2 = StaticObject.getByName('blue_cc_2')
-blueIADS:addCommandCenter(commandCenter2)
-
----we add a K-50 AWACs, manually. This could just as well be automated by adding an 'EW' prefix to the unit name:
-blueIADS:addEarlyWarningRadar('blue_awacs')
 
 --all SA-10 sites shall act as EW sites, meaning their radars will be on all the time:
 blueIADS:getSAMSitesByNatoName('Patriot'):setActAsEW(true)
