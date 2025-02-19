@@ -3,7 +3,7 @@ blueIADS = SkynetIADS:create('blue_idas')
 
 ---debug settings remove from here on if you do not wan't any output on what the IADS is doing by default
 local iadsDebug = blueIADS:getDebugSettings()
-iadsDebug.IADSStatus = true
+iadsDebug.IADSStatus = false
 iadsDebug.radarWentDark = false
 iadsDebug.contacts = false
 iadsDebug.radarWentLive = false
@@ -16,13 +16,12 @@ iadsDebug.harmDefence = false
 
 --add all units with unit name beginning with 'EW' to the IADS:
 blueIADS:addEarlyWarningRadarsByPrefix('blue_ew')
-blueIADS:addEarlyWarningRadarsByPrefix('blue_awacs')
 
 --add all groups begining with group name 'SAM' to the IADS:
 blueIADS:addSAMSitesByPrefix('blue_sam')
 
---all SA-10 sites shall act as EW sites, meaning their radars will be on all the time:
-blueIADS:getSAMSitesByNatoName('Patriot'):setActAsEW(false)
+--all patriot sites shall act as EW sites, meaning their radars will be on all the time:
+blueIADS:getSAMSitesByNatoName('Patriot'):setActAsEW(true)
 
 --add a command center:
 blueCommandCenter = StaticObject.getByName('blue_cc_1')

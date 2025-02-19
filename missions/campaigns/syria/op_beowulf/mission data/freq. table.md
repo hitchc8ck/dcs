@@ -2,7 +2,7 @@
 
 | **Unit**               | **Callsign** | **Frequency (MHz)** | **Mode** | **Notes**                   |
 |------------------------|-------------|------------------|---------|--------------------------|
-| Carrier (CVN-XX)      | Overlord    | 127.500         | AM      | Carrier ATC              |
+| Carrier (CVN-75)      | Overlord    | 127.500         | AM      | Carrier ATC              |
 | Carrier (TACAN)       | -           | 74X             | TACAN   | Navigation Aid           |
 | Carrier (ICLS)        | -           | Channel 1       | ICLS    | Instrument Landing       |
 | AWACS (E-2D)          | Magic       | 251.000         | AM      | Airborne Control         |

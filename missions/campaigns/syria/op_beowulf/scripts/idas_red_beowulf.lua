@@ -3,7 +3,7 @@ redIADS = SkynetIADS:create('red_idas')
 
 ---debug settings remove from here on if you do not wan't any output on what the IADS is doing by default
 local iadsDebug = redIADS:getDebugSettings()
-iadsDebug.IADSStatus = true
+iadsDebug.IADSStatus = false
 iadsDebug.radarWentDark = false
 iadsDebug.contacts = false
 iadsDebug.radarWentLive = false
@@ -16,7 +16,7 @@ iadsDebug.harmDefence = false
 
 --add all units with unit name beginning with 'EW' to the IADS:
 redIADS:addEarlyWarningRadarsByPrefix('red_ew')
-redIADS:addEarlyWarningRadarsByPrefix('red_awacs')
+-- redIADS:addEarlyWarningRadarsByPrefix('red_awacs')
 
 --add all groups begining with group name 'SAM' to the IADS:
 redIADS:addSAMSitesByPrefix('red_sam')
