@@ -1,5 +1,5 @@
 local rus_transport_line_groups="red_transport-1", "red_transport-2" -- variables for groups
-local rus_transport_line_airports={"Sayqal", "Khalkhalah", "Shayrat", "Palmyra", "Tobqa", "Minakh", "Jirah", "Bassel_Al_Assad"} -- list of airports
+local rus_transport_line_airports={"Sayqal", "Khalkhalah", "Shayrat", "Palmyra", "Tabqa", "Minakh", "Jirah", "Bassel Al-Assad"} -- list of airports
 
 -- Create a RAT object 
 local rus_transport_line_1=RAT:New(rus_transport_line_groups) -- create a new rat object

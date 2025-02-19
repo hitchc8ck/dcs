@@ -50,13 +50,13 @@ A2ADispatcher_red:SetDefaultCapTimeInterval(7000, 10000)
 -- CAP Squadron execution.
 -- FloorAltitude, CeilingAltitude, PatrolMinSpeed, PatrolMaxSpeed, EngageMinSpeed, EngageMaxSpeed, AltType
 -- The altitude type, which is a string "BARO" defining Barometric or "RADIO" defining radio controlled altitude.
-red_cap_airspace_south = ZONE_POLYGON:New("red_cap_airspace_south", GROUP:FindByName("red_cap_airspace_south"))
-A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_south, 6000, 8000, 500, 600, 600, 1200, "RADIO")
-A2ADispatcher_red:SetSquadronCapInterval("Palmyra", 1, 400, 800, 1)
-
 red_cap_airspace_north = ZONE_POLYGON:New("red_cap_airspace_north", GROUP:FindByName("red_cap_airspace_north"))
 A2ADispatcher_red:SetSquadronCap("Jirah", red_cap_airspace_north, 6000, 8000, 500, 600, 600, 1200, "RADIO")
 A2ADispatcher_red:SetSquadronCapInterval("Jirah", 1, 400, 800, 1)
+
+red_cap_airspace_south = ZONE_POLYGON:New("red_cap_airspace_south", GROUP:FindByName("red_cap_airspace_south"))
+A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_south, 6000, 8000, 500, 600, 600, 1200, "RADIO")
+A2ADispatcher_red:SetSquadronCapInterval("Palmyra", 1, 400, 800, 1)
 
 --set.SquadronCapIntervall SquadronName, CapLimit, LowInterval, HighInterval, Probability
 A2ADispatcher_red:SetDefaultFuelThreshold(0.2)
