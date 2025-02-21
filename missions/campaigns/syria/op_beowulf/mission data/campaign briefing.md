@@ -1,4 +1,4 @@
-# NATO OPERATION BRIEFING: DEFENSE OF LEBANON
+# NATO OPERATION BRIEFING: OP BEOWULF
 
 ## **Mission Overview**
 
@@ -40,7 +40,7 @@ Syria is operating a mix of Soviet-era and modern aircraft from multiple airbase
 - **Jirah Airbase:** MiG-29, MiG-25, MiG-23, MiG-21, Su-24
 - **Tabqa Airbase:** Additional Su-24 strike aircraft
 
-Syrian pilots have been observed conducting aggressive flight maneuvers and intercepts along the border region, increasing the likelihood of direct engagements with NATO air forces.
+Syrian pilots have been observed conducting aggressive flight maneuvers and intercepts along the border region, increasing the likelihood of direct engagements with NATO air forces. At present, the Syrian Air Force maintains control over its airspace, posing a significant threat to NATO operations.
 
 ---
 
@@ -92,12 +92,15 @@ Lebanon is on **high alert** and has reinforced its border with multiple defensi
 ---
 
 ## **Mission Objectives**
-1. **Air Superiority:** Conduct SEAD operations to neutralize Syrian SAM threats.
+1. **Air Superiority:** Conduct SEAD operations to neutralize Syrian SAM threats and enforce NATO's no-fly zone over Syria.
 2. **Naval Dominance:** Secure the eastern Mediterranean to protect supply routes and provide air cover.
 3. **FOB Security & Reinforcement:** Ensure FOB Alpha and Bravo remain operational and fully supplied.
 4. **Counter-Offensive Preparation:** Establish a defensive line and prepare for counterattacks against Syrian forces.
 5. **Protect Lebanese Sovereignty:** Prevent Syrian forces from breaching Lebanese territory.
 6. **Monitor and Counter Insurgent Threats:** Be prepared for non-state actors attempting to exploit the conflict.
+
+### **No-Fly Zone Enforcement**
+NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syrian Air Force operations. However, Syrian forces continue to challenge this restriction, conducting flights from their airbases and maintaining aerial control over their own territory. **Mission-critical objectives include enforcing the NFZ, neutralizing Syrian air threats, and establishing NATO air superiority.** Carrier-based and land-based CAP (Combat Air Patrol) missions are being conducted to intercept and engage non-compliant Syrian aircraft when necessary.
 
 ---
 
@@ -106,6 +109,7 @@ Lebanon is on **high alert** and has reinforced its border with multiple defensi
 - **Avoid civilian casualties** and minimize collateral damage.
 - **Engagements within Lebanese airspace and territory** are authorized if hostile intent is confirmed.
 - **Cross-border strikes into Syria require authorization** from NATO command.
+- **Syrian aircraft violating the NATO No-Fly Zone are subject to engagement after warning protocols are exhausted.**
 
 ---
 
@@ -122,5 +126,6 @@ Lebanon is on **high alert** and has reinforced its border with multiple defensi
 - Syrian airpower is a mix of older Soviet-era jets with limited effectiveness against modern NATO aircraft.
 - A rapid response is required to prevent Syrian forces from gaining a foothold in Lebanon.
 - **Potential threats from non-state actors and insurgent groups require constant monitoring.**
+- **Enforcing the no-fly zone is essential to achieving NATO air superiority.**
 
 **END BRIEFING**
