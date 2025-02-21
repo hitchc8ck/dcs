@@ -25,8 +25,8 @@ A2ADispatcher_red:SetDisengageRadius(150000)
 
 
 -- Setup the squadrons.
-A2ADispatcher_red:SetSquadron( "Jirah", AIRBASE.Syria.Jirah, { "red_air_cap_north-1", "red_air_cap_north-2", "red_air_cap_north-3" }, 10 ) 
-A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_air_cap_south-1", "red_air_cap_south-2", "red_air_cap_south-3" }, 10 ) 
+A2ADispatcher_red:SetSquadron( "Jirah", AIRBASE.Syria.Jirah, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
+A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
 
 -- Setup the overhead
 A2ADispatcher_red:SetSquadronOverhead("Jirah", 0.5)
