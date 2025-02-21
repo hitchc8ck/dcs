@@ -15,16 +15,19 @@ Regional allies and neutral parties are closely monitoring the situation. There 
 
 ## **Enemy Forces (Syria)**
 
+### **Command and Control**
+- **Palmyra and Durayhim Military Base:** Primary Syrian command and control centers overseeing air and ground operations.
+- **Early Warning Radar Installations:** Located at **Durayhim, Palmyra, and Sayqal** to provide air defense tracking and target acquisition.
+
 ### **Air Defense Assets**
 Syria has deployed a formidable array of surface-to-air missile systems, including:
-- **SA-2**
-- **SA-3**
-- **SA-6**
-- **SA-10**
-- **SA-11**
-- **SA-15**
+- **SA-2** (Sayqal, Air Defense Academy)
+- **SA-6** (Army Vehicle Training Grounds, Grid 36 S YD 73297 68825, Minakh)
+- **SA-8, SA-9, SA-13, SA-15, SA-19** (Mobile, constantly repositioned)
+- **SA-10** (Chemical Weapons Storage Area near Palmyra, Durayhim Military Base)
+- **SA-11** (Khalkhalah, Grid 37 S BV 33996 14348)
 
-These systems create a layered air defense network requiring SEAD (Suppression of Enemy Air Defenses) operations before NATO can establish air superiority.
+NATO reconnaissance has observed that **some SA-15 systems provide point defense for key installations but are highly mobile.** Additionally, mobile **SA-8, SA-9, SA-13, SA-15, and SA-19 systems are frequently moved to avoid detection.** MANPADS (Man-Portable Air Defense Systems) are expected to be deployed throughout the operational area.
 
 ### **Ground Forces**
 Syria has mobilized hundreds of ground units, including:
@@ -74,20 +77,16 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
 
 ### **Forward Operating Bases (FOBs)**
 - **FOB Alpha** *(Grid: 36 S YC 55418 24537)*
-  - Staging base for air assault operations
+  - Staging base for air and ground assault operations
   - Equipped with:
     - **AH-64 Apache Attack Helicopters**
     - **OH-58 Kiowa Scouts**
     - **CH-47 Chinook Transports**
 
 - **FOB Bravo** *(Grid: 37 S BT 32677 74560)*
+  - Staging base for ground assault operations
   - Supply and logistics hub
   - Primary resupply point for rotary-wing aircraft and ground forces
-
----
-
-## **Lebanese Defense Forces**
-Lebanon is on **high alert** and has reinforced its border with multiple defensive positions. Light infantry units and small armored contingents are positioned along key border regions to delay and repel initial Syrian advances until NATO forces can fully deploy. Lebanese intelligence has reported Syrian reconnaissance teams infiltrating border areas, signaling potential hybrid warfare tactics.
 
 ---
 
@@ -104,22 +103,6 @@ NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syri
 
 ---
 
-## **Rules of Engagement (ROE)**
-- **Positive Identification (PID) required** before engaging targets.
-- **Avoid civilian casualties** and minimize collateral damage.
-- **Engagements within Lebanese airspace and territory** are authorized if hostile intent is confirmed.
-- **Cross-border strikes into Syria require authorization** from NATO command.
-- **Syrian aircraft violating the NATO No-Fly Zone are subject to engagement after warning protocols are exhausted.**
-
----
-
-## **Command & Control**
-- **NATO Command Center:** Coordinating all operations from Mediterranean Fleet HQ.
-- **Joint Air Operations Center (JAOC):** Based in Akrotiri, directing all air missions.
-- **FOB Alpha & Bravo Commanders:** Responsible for ground force movements and logistics.
-
----
-
 ## **Intel Summary**
 - Syrian forces are actively preparing for an invasion.
 - Air defenses are strong but outdated; NATO electronic warfare and SEAD assets will be critical.
@@ -127,5 +110,26 @@ NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syri
 - A rapid response is required to prevent Syrian forces from gaining a foothold in Lebanon.
 - **Potential threats from non-state actors and insurgent groups require constant monitoring.**
 - **Enforcing the no-fly zone is essential to achieving NATO air superiority.**
+- **Syria's mobile SAM systems pose a dynamic threat; intelligence gathering and real-time target updates are critical.**
+
+---
+
+## **Satellite Reconnaissance**
+NATO intelligence assets have provided satellite imagery of key strategic locations. These images will assist commanders in planning and executing operations effectively.
+
+### **Example Reconnaissance Entry**
+#### **Target: Palmyra Airbase**
+- **Coordinates:** 34.5624°N, 38.2808°E
+- **Strategic Importance:** Primary airbase for Syrian MiG-29, MiG-25, and Su-24 operations.
+- **Threat Assessment:**
+  - Hardened aircraft shelters detected.
+  - Multiple SA-6 and SA-10 SAM sites within a 10 km radius.
+  - Recent increase in aircraft activity, indicating possible upcoming sorties.
+- **Operational Plan:**
+  - Prioritize SEAD missions to neutralize air defenses.
+  - Conduct ISR (Intelligence, Surveillance, Reconnaissance) flights to confirm aircraft readiness.
+  - Consider long-range strike options to disable runways.
+
+*(Insert Satellite Image Here)*
 
 **END BRIEFING**
