@@ -13,7 +13,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Recent increase in aircraft activity, indicating possible upcoming sorties.
 - **Operational Plan:**
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Conduct ISR (Intelligence, Surveillance, Reconnaissance) flights to confirm aircraft readiness.
   - Consider long-range strike options to disable runways.
 
 *(Insert Satellite Image Here)*
@@ -47,7 +46,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - **SEAD (Suppression of Enemy Air Defenses)** to neutralize **SA-2** and **SA-15** threats.  
   - Target **EW radar** through electronic warfare or direct precision strike.  
-  - Conduct **ISR** flights to monitor aircraft readiness, vehicle movements, and high-value targets.  
   - Consider airstrikes on **fuel and ammunition depots** to cripple sustained air operations.  
   - Assess the feasibility of striking **power generators** to disrupt airbase operations.  
 
@@ -64,7 +62,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Potential presence of ground-based artillery and heavy infantry.  
 - **Operational Plan:**  
   - **SEAD** missions to target and neutralize SA-10 and EW radar systems.  
-  - Use **ISR** to gather intelligence on chemical storage locations and ground unit activity.  
   - **Airstrikes** targeting chemical weapons and critical infrastructure if deemed necessary.
 
 *(Insert Satellite Image Here)*
@@ -78,7 +75,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **Early Warning Radar** detected, with capabilities to detect incoming threats at long range.  
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
-  - Conduct **ISR** to monitor radar activity and any immediate threats.
 
 *(Insert Satellite Image Here)*
 
@@ -91,7 +87,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Increased activity of **Su-24 aircraft**, suggesting potential for upcoming strike missions.  
 - **Operational Plan:**  
   - **SEAD** missions targeting any air defense systems covering the base.  
-  - **ISR** to assess aircraft readiness and ground support equipment availability.  
   - Coordinate with ground forces for a possible **strike** mission if required.
 
 *(Insert Satellite Image Here)*
@@ -107,7 +102,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Neutralize the **SA-6 SAM system** through **SEAD** operations.  
   - Monitor **heliport** activities to identify potential air threats.  
-  - Conduct **ISR** to determine additional support units in the area.
 
 *(Insert Satellite Image Here)*
 
@@ -124,7 +118,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - **SEAD (Suppression of Enemy Air Defenses)** operations focused on neutralizing the SA-6 sites.  
   - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
-  - Conduct **ISR** to monitor vehicle movements and identify any high-value targets for strike.  
   - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/Army_Vehicle_Training_Ground.png)
@@ -143,7 +136,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **Convoy preparing to move**, likely transporting air defense assets, ammunition, or personnel to reinforce other sectors.  
 - **Operational Plan:**  
   - **SEAD (Suppression of Enemy Air Defenses)** operations targeting **SA-2, SA-6, and SA-15** systems.  
-  - Conduct **ISR** flights to monitor **convoy movements** and determine its deployment objective.  
   - Identify and assess **AAA and artillery positions** for potential strikes.  
   - Consider airstrikes on **logistical nodes** to disrupt resupply and force relocation of air defense assets.  
   - Monitor for **reinforcements or strategic redeployments** indicating changes in operational priorities.  
@@ -162,7 +154,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Possible **reinforcements or rapid deployment units** stationed within the base.  
 - **Operational Plan:**  
   - Prioritize **SEAD (Suppression of Enemy Air Defenses)** operations to neutralize the **SA-10 SAM system**.  
-  - Conduct **ISR (Intelligence, Surveillance, Reconnaissance)** to **pinpoint high-value targets** within the **Command and Control Center**.  
   - Consider precision strikes on **C2 infrastructure** to disrupt regional air defense coordination.  
   - Monitor for **troop movements and reinforcements**, as disabling this base could trigger defensive responses.  
 
@@ -180,7 +171,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Potential presence of **ground units** supporting air defense operations.  
 - **Operational Plan:**  
   - Conduct **SEAD** missions to suppress or neutralize the **SA-6 system**.  
-  - Perform **ISR** to determine the function of the **bunkers** and assess potential high-value targets.  
   - Monitor for **ground unit movements** that could indicate active operations or reinforcement of other locations.  
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/yd7368.png)
@@ -194,7 +184,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SA-11 SAM system** deployed with likely supporting ground defenses.  
 - **Operational Plan:**  
   - Focus **SEAD** efforts on the neutralization of the SA-11 site.  
-  - Monitor ground unit and vehicle movements with **ISR**.
 
 *(Insert Satellite Image Here)*
 
