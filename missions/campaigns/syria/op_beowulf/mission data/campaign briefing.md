@@ -13,6 +13,8 @@ Regional allies and neutral parties are closely monitoring the situation. There 
 
 ---
 
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/op_overview.png)
+
 ## **Enemy Forces (Syria)**
 
 ### **Command and Control**
