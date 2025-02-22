@@ -1,7 +1,5 @@
 # CAMAPGIN OPERATION BRIEFING: OP BEOWULF
-
 ## **Mission Overview**
-
 ### **Situation**
 Syria has initiated aggressive military preparations with the intent to annex Lebanon, claiming historical territorial rights. NATO forces have been deployed to support Lebanon in repelling this invasion and maintaining regional stability. The region is experiencing heightened tensions, with Syrian leadership making public statements justifying their expansionist goals, citing historical claims and perceived regional security threats. Diplomatic efforts have failed, and intelligence suggests that Syrian forces are mobilizing for a large-scale cross-border invasion.
 
@@ -14,7 +12,6 @@ Regional allies and neutral parties are closely monitoring the situation. There 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/op_overview.png)
 
 ## **Enemy Forces (Syria)**
-
 ### **Command and Control**
 - **Palmyra and Durayhim Military Base:** Primary Syrian command and control centers overseeing air and ground operations.
 - **Early Warning Radar Installations:** Located at **Durayhim, Palmyra, and Sayqal** to provide air defense tracking and target acquisition.
@@ -60,8 +57,7 @@ Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cypru
   - Launch **Tomahawk Missiles (TLAMs)** for **precision strikes**.  
   - Equipped with **Aegis combat system** for **air and missile defense**.  
 
-### **Air Operations**
-
+### **Air Assets**
 #### **NATO Air Bases**
 
 - **RAF Akrotiri (Cyprus):**
@@ -105,6 +101,14 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
   - Staging base for ground assault operations
   - Supply and logistics hub
   - Primary resupply point for rotary-wing aircraft and ground forces
+
+### **Air Defense Systems**
+- **Patriot Systems** deployed at:
+  - **Ramat David Airbase**
+  - **Prince Hassan Airbase**
+  - **Akrotiri Airbase** (Cyprus)  
+- **Hawk System** at:  
+  - **Grid 37 S BT 28756 90498**  
 
 ## **Mission Objectives**
 1. **Air Superiority:** Conduct SEAD operations to neutralize Syrian SAM threats and enforce NATO's no-fly zone over Syria.
