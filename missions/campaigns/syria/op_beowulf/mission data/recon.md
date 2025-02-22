@@ -33,6 +33,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Conduct **ISR** to monitor vehicle movements and identify any high-value targets for strike.  
   - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
 
-![Screenshot](images\Army_Vehicle_Training_Ground.png)
+![Screenshot](/images/Army_Vehicle_Training_Ground.png)
 
 ---
