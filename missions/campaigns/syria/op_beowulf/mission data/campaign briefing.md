@@ -96,6 +96,7 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
     - **AH-64 Apache Attack Helicopters**
     - **OH-58 Kiowa Scouts**
     - **CH-47 Chinook Transports**
+    - **NASSAM** (National Advanced Surface-to-Air Missile System) for **point defense** against incoming air threats.
 
 - **FOB Bravo** *(Grid: 37 S BT 32677 74560)*
   - Staging base for ground assault operations
@@ -107,8 +108,9 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
   - **Ramat David Airbase**
   - **Prince Hassan Airbase**
   - **Akrotiri Airbase** (Cyprus)  
+  - **Incirlik Airbase**
 - **Hawk System** at:  
-  - **Grid 37 S BT 28756 90498**  
+  - **Grid 37 S BT 28756 90498**
 
 ## **Mission Objectives**
 1. **Air Superiority:** Conduct SEAD operations to neutralize Syrian SAM threats and enforce NATO's no-fly zone over Syria.
