@@ -27,7 +27,7 @@ Syria has deployed a formidable array of surface-to-air missile systems, includi
 - **SA-10** (Chemical Weapons Storage Area near Palmyra, Durayhim Military Base)
 - **SA-11** (Khalkhalah, Grid 37 S BV 33996 14348)
 
-NATO reconnaissance has observed that **some SA-15 systems provide point defense for key installations but are highly mobile.** Additionally, mobile **SA-8, SA-9, SA-13, SA-15, and SA-19 systems are frequently moved to avoid detection.** MANPADS (Man-Portable Air Defense Systems) are expected to be deployed throughout the operational area.
+NATO reconnaissance has observed that **some SA-15 systems provide point defense for key installations but are highly mobile.** Additionally, mobile **SA-8, SA-9, SA-13, and SA-19 systems are frequently moved to avoid detection.** MANPADS (Man-Portable Air Defense Systems) are expected to be deployed throughout the operational area.
 
 ### **Ground Forces**
 Syria has mobilized hundreds of ground units, including:
@@ -54,6 +54,27 @@ Two NATO carrier battle groups (CBG-5 & CBG-8) are deployed north of Cyprus, pro
 - **F/A-18C Hornets**
 - **E-2A Hawkeyes** (Early Warning)
 
+### **Air Operations**
+#### **NATO Air Bases**
+- **RAF Akrotiri (Cyprus):**
+  - **F-16C**
+  - **F-15E Strike Eagle**
+  - **E-3A AWACS**
+
+#### **Israeli Air Force**
+- **Ramat David Airbase:**
+  - **F-16C**
+  - **F-15E Strike Eagle**
+
+### **Strategic Bomber Support**
+- **B-1B Lancer** and **B-52 Stratofortress** bombers are available for strategic airstrikes.
+- **Long-range precision strikes** include:
+  - **AGM-86 ALCM (Air-Launched Cruise Missile)**
+  - **AGM-84 Harpoon**
+  - **AGM-154 JSOW (Joint Standoff Weapon)**
+  - **JDAM (Joint Direct Attack Munition) precision bombing**
+  - **Cluster bombing and carpet bombing operations**
+
 ### **Ground Forces**
 NATO has landed reinforcements at the Port of Kiryat Motzkin, including:
 - **M1 Abrams Tanks**
@@ -62,18 +83,6 @@ NATO has landed reinforcements at the Port of Kiryat Motzkin, including:
 - **Humvees**
 
 These forces are moving towards forward operating bases (FOBs) to establish defensive and offensive staging points.
-
-### **Air Operations**
-#### **NATO Air Bases**
-- **RAF Akrotiri (Cyprus):**
-  - **F-16C**
-  - **F-15E Strike Eagle**
-  - **E-3A AWACS**
-
-#### **Israeli Air Force (Supporting CAP & Airstrikes)**
-- **Ramat David Airbase:**
-  - **F-16C**
-  - **F-15E Strike Eagle**
 
 ### **Forward Operating Bases (FOBs)**
 - **FOB Alpha** *(Grid: 36 S YC 55418 24537)*
@@ -111,25 +120,5 @@ NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syri
 - **Potential threats from non-state actors and insurgent groups require constant monitoring.**
 - **Enforcing the no-fly zone is essential to achieving NATO air superiority.**
 - **Syria's mobile SAM systems pose a dynamic threat; intelligence gathering and real-time target updates are critical.**
-
----
-
-## **Satellite Reconnaissance**
-NATO intelligence assets have provided satellite imagery of key strategic locations. These images will assist commanders in planning and executing operations effectively.
-
-### **Example Reconnaissance Entry**
-#### **Target: Palmyra Airbase**
-- **Coordinates:** 34.5624°N, 38.2808°E
-- **Strategic Importance:** Primary airbase for Syrian MiG-29, MiG-25, and Su-24 operations.
-- **Threat Assessment:**
-  - Hardened aircraft shelters detected.
-  - Multiple SA-6 and SA-10 SAM sites within a 10 km radius.
-  - Recent increase in aircraft activity, indicating possible upcoming sorties.
-- **Operational Plan:**
-  - Prioritize SEAD missions to neutralize air defenses.
-  - Conduct ISR (Intelligence, Surveillance, Reconnaissance) flights to confirm aircraft readiness.
-  - Consider long-range strike options to disable runways.
-
-*(Insert Satellite Image Here)*
 
 **END BRIEFING**
