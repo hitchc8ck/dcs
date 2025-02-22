@@ -19,6 +19,14 @@ Regional allies and neutral parties are closely monitoring the situation. There 
 - **Palmyra and Durayhim Military Base:** Primary Syrian command and control centers overseeing air and ground operations.
 - **Early Warning Radar Installations:** Located at **Durayhim, Palmyra, and Sayqal** to provide air defense tracking and target acquisition.
 
+### **Air Assets**
+Syria is operating a mix of Soviet-era and modern aircraft from multiple airbases:
+- **Palmyra Airbase:** MiG-29, MiG-25, MiG-23, MiG-21, Su-24
+- **Jirah Airbase:** MiG-29, MiG-25, MiG-23, MiG-21, Su-24
+- **Tabqa Airbase:** Additional Su-24 strike aircraft
+
+Syrian pilots have been observed conducting aggressive flight maneuvers and intercepts along the border region, increasing the likelihood of direct engagements with NATO air forces. At present, the Syrian Air Force maintains control over its airspace, posing a significant threat to NATO operations.
+
 ### **Air Defense Assets**
 Syria has deployed a formidable array of surface-to-air missile systems, including:
 - **SA-2** (Sayqal, Air Defense Academy)
@@ -36,14 +44,6 @@ Syria has mobilized hundreds of ground units, including:
 - **Support Vehicles:** Trucks, Cars
 - **Artillery:** Multiple artillery batteries positioned for cross-border bombardment
 - **Special Forces:** Units trained for sabotage, infiltration, and asymmetric operations
-
-### **Air Assets**
-Syria is operating a mix of Soviet-era and modern aircraft from multiple airbases:
-- **Palmyra Airbase:** MiG-29, MiG-25, MiG-23, MiG-21, Su-24
-- **Jirah Airbase:** MiG-29, MiG-25, MiG-23, MiG-21, Su-24
-- **Tabqa Airbase:** Additional Su-24 strike aircraft
-
-Syrian pilots have been observed conducting aggressive flight maneuvers and intercepts along the border region, increasing the likelihood of direct engagements with NATO air forces. At present, the Syrian Air Force maintains control over its airspace, posing a significant threat to NATO operations.
 
 ## **Friendly Forces (NATO & Allies)**
 
