@@ -53,6 +53,7 @@ Syrian pilots have been observed conducting aggressive flight maneuvers and inte
 Two NATO carrier battle groups (CBG-5 & CBG-8) are deployed north of Cyprus, providing air support with:
 - **F/A-18C Hornets**
 - **E-2A Hawkeyes** (Early Warning)
+- **S-3B Tanker**
 
 ### **Air Operations**
 #### **NATO Air Bases**
@@ -60,11 +61,15 @@ Two NATO carrier battle groups (CBG-5 & CBG-8) are deployed north of Cyprus, pro
   - **F-16C**
   - **F-15E Strike Eagle**
   - **E-3A AWACS**
+  - **KC-130 Tanker** (Basket)
+  - **KC-135 Tanker** (Basket/Boom)
 
 #### **Israeli Air Force**
 - **Ramat David Airbase:**
   - **F-16C**
   - **F-15E Strike Eagle**
+  - **KC-130 Tanker** (Basket)
+  - **KC-135 Tanker** (Basket/Boom)
 
 ### **Strategic Bomber Support**
 - **B-1B Lancer** and **B-52 Stratofortress** bombers are available for strategic airstrikes.
