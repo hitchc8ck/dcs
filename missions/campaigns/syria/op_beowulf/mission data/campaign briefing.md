@@ -47,11 +47,18 @@ Syrian pilots have been observed conducting aggressive flight maneuvers and inte
 
 ## **Friendly Forces (NATO & Allies)**
 
-### **Naval Assets**
-Two NATO carrier battle groups (CBG-5 & CBG-8) are deployed north of Cyprus, providing air support with:
-- **F/A-18C Hornets**
-- **E-2A Hawkeyes** (Early Warning)
-- **S-3B Tanker**
+### **Naval Operations**
+Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) are deployed **north of Cyprus**, providing air and missile support.  
+
+#### **Carrier Air Wing Assets**
+- **F/A-18C Hornets** – Multirole fighters for **SEAD, Strike, and CAP** missions.  
+- **E-2A Hawkeyes** – **Airborne Early Warning & Control (AEW&C)**.  
+- **S-3B Vikings** – Providing **aerial refueling and anti-submarine warfare**.  
+
+#### **Surface Combatants**
+- **Arleigh Burke-class destroyers** (part of CBG escort fleet):  
+  - Capable of launching **Tomahawk Land Attack Missiles (TLAMs)** for **long-range precision strikes**.  
+  - Equipped with **Aegis combat system** for integrated air and missile defense.  
 
 ### **Air Operations**
 #### **NATO Air Bases**
@@ -84,7 +91,6 @@ NATO has landed reinforcements at the Port of Kiryat Motzkin, including:
 - **M2 Bradley IFVs**
 - **MaxxPro MRAPs**
 - **Humvees**
-
 These forces are moving towards forward operating bases (FOBs) to establish defensive and offensive staging points.
 
 ### **Forward Operating Bases (FOBs)**
