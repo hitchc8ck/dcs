@@ -47,11 +47,6 @@ Syria has mobilized hundreds of ground units, including:
 
 ## **Friendly Forces (NATO & Allies)**
 
-### **Naval Operations**
-Two **US Carrier Battle Groups** (**CBG-5 & CBG-8**) are deployed **south of Cyprus**, providing air and missile support.  
-
-## **Friendly Forces (NATO & Allies)**
-
 ### **Naval Assets**
 Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cyprus**, providing air and missile support.
 
