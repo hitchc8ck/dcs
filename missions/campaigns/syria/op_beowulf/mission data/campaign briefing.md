@@ -11,8 +11,6 @@ Lebanese defenses are stretched thin, with their military relying on a combinati
 
 Regional allies and neutral parties are closely monitoring the situation. There is concern that Hezbollah or other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
 
----
-
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/op_overview.png)
 
 ## **Enemy Forces (Syria)**
@@ -46,8 +44,6 @@ Syria is operating a mix of Soviet-era and modern aircraft from multiple airbase
 - **Tabqa Airbase:** Additional Su-24 strike aircraft
 
 Syrian pilots have been observed conducting aggressive flight maneuvers and intercepts along the border region, increasing the likelihood of direct engagements with NATO air forces. At present, the Syrian Air Force maintains control over its airspace, posing a significant threat to NATO operations.
-
----
 
 ## **Friendly Forces (NATO & Allies)**
 
@@ -104,8 +100,6 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
   - Supply and logistics hub
   - Primary resupply point for rotary-wing aircraft and ground forces
 
----
-
 ## **Mission Objectives**
 1. **Air Superiority:** Conduct SEAD operations to neutralize Syrian SAM threats and enforce NATO's no-fly zone over Syria.
 2. **Naval Dominance:** Secure the eastern Mediterranean to protect supply routes and provide air cover.
@@ -116,8 +110,6 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
 
 ### **No-Fly Zone Enforcement**
 NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syrian Air Force operations. However, Syrian forces continue to challenge this restriction, conducting flights from their airbases and maintaining aerial control over their own territory. **Mission-critical objectives include enforcing the NFZ, neutralizing Syrian air threats, and establishing NATO air superiority.** Carrier-based and land-based CAP (Combat Air Patrol) missions are being conducted to intercept and engage non-compliant Syrian aircraft when necessary.
-
----
 
 ## **Intel Summary**
 - Syrian forces are actively preparing for an invasion.
