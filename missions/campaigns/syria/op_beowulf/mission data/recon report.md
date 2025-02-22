@@ -93,14 +93,20 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 #### **Target: Air Defence Academy**  
 - **Coordinates:** 35 N AL 20102 78457  
-- **Strategic Importance:** Training facility for air defense personnel; critical in preparing forces for SAM and artillery operations.  
+- **Strategic Importance:** Operational air defense hub actively deploying **SAM**, **AAA**, and **artillery** units for regional defense. Serves as a coordination center for mobile air defense assets.  
 - **Threat Assessment:**  
-  - **SA-2 SAM system** deployed around the academy for protection.  
-  - Ground units and **artillery** observed in the vicinity.  
+  - **SA-2 SAM system** providing long-range air defense coverage.  
+  - **SA-6 SAM system** deployed for medium-range air defense, covering critical assets.  
+  - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions.  
+  - **Anti-Aircraft Artillery (AAA)** positioned strategically to protect against air incursions.  
+  - **Artillery units** deployed for active support, potentially engaging ground or air targets.  
+  - **Convoy preparing to move**, likely transporting air defense assets, ammunition, or personnel to reinforce other sectors.  
 - **Operational Plan:**  
-  - Prioritize **SEAD** operations against the SA-2 system.  
-  - Assess ground unit positions and artillery effectiveness.  
-  - Monitor for any significant troop movements or training exercises.
+  - **SEAD (Suppression of Enemy Air Defenses)** operations targeting **SA-2, SA-6, and SA-15** systems.  
+  - Conduct **ISR** flights to monitor **convoy movements** and determine its deployment objective.  
+  - Identify and assess **AAA and artillery positions** for potential strikes.  
+  - Consider airstrikes on **logistical nodes** to disrupt resupply and force relocation of air defense assets.  
+  - Monitor for **reinforcements or strategic redeployments** indicating changes in operational priorities.  
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/air_defence_academy.png)
 
@@ -108,12 +114,15 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 #### **Target: Grid 36 S YD 73297 68825**  
 - **Coordinates:** 36 S YD 73297 68825  
-- **Strategic Importance:** Unnamed military installation likely housing air defense systems and ground support units.  
+- **Strategic Importance:** Military installation with a significant number of **bunkers** of unknown purpose, possibly used for storage, command operations, or protected assets. The presence of an **SA-6 SAM system** suggests the site is actively defended.  
 - **Threat Assessment:**  
-  - **SA-6 SAM system** detected in the area, with defensive posture expected.  
+  - **SA-6 SAM system** deployed, providing medium-range air defense.  
+  - Multiple **bunkers**, purpose unknown—possible **ammunition storage, command center, or protected assets**.  
+  - Potential presence of **ground units** supporting air defense operations.  
 - **Operational Plan:**  
-  - Conduct **SEAD** missions to suppress or neutralize the SA-6 system.  
-  - Gather intelligence on additional ground unit locations and movements through **ISR**.  
+  - Conduct **SEAD** missions to suppress or neutralize the **SA-6 system**.  
+  - Perform **ISR** to determine the function of the **bunkers** and assess potential high-value targets.  
+  - Monitor for **ground unit movements** that could indicate active operations or reinforcement of other locations.  
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/yd7368.png)
 
@@ -134,13 +143,18 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 #### **Target: Durayhim Military Base**  
 - **Coordinates:** 33 N BC 60517 44213  
-- **Strategic Importance:** Major military base with significant air defense and command functions.  
+- **Strategic Importance:** **High-value military installation** with a **Command and Control Center** (C2) coordinating **regional air defense and ground operations**. This facility plays a crucial role in strategic planning and air defense deployment.  
 - **Threat Assessment:**  
-  - **SA-10 SAM system** in use for regional defense.  
-  - **Command and Control Center** located within the base, controlling air and ground defense operations.  
+  - **SA-10 SAM system** deployed, providing **long-range air defense** and covering key military infrastructure.  
+  - **Command and Control Center (C2)** identified as a **primary target**, responsible for coordinating **air and ground defense** assets.  
+  - Presence of **military personnel, support vehicles, and infrastructure** indicating high operational activity.  
+  - Possible **reinforcements or rapid deployment units** stationed within the base.  
 - **Operational Plan:**  
-  - Focus **SEAD** operations on the SA-10 system and the Command Center.  
-  - Collect detailed **ISR** to identify high-value targets within the base.  
+  - Prioritize **SEAD (Suppression of Enemy Air Defenses)** operations to neutralize the **SA-10 SAM system**.  
+  - Conduct **ISR (Intelligence, Surveillance, Reconnaissance)** to **pinpoint high-value targets** within the **Command and Control Center**.  
+  - Consider precision strikes on **C2 infrastructure** to disrupt regional air defense coordination.  
+  - Monitor for **troop movements and reinforcements**, as disabling this base could trigger defensive responses.  
+
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/druayhim_military_base.png)
 
