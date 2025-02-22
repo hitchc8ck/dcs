@@ -2,6 +2,9 @@
 NATO intelligence assets have provided satellite imagery of key strategic locations. These images will assist commanders in planning and executing operations effectively.
 
 ### **Reconnaissance Entry**
+
+---
+
 #### **Target: Palmyra Airbase**
 - **Coordinates:** 37 S DU 37427 24267
 - **Strategic Importance:** Primary airbase for Syrian MiG-25, MiG-29, and Su-24 operations.
@@ -18,7 +21,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Army Vehicle Training Ground**  
 - **Coordinates:** 45 N AJ 28923 67540  
 - **Strategic Importance:** High-value training area for armored and mechanized units; critical to the readiness of ground forces.  
