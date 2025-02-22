@@ -54,19 +54,24 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-#### **Target: Sayqal**  
+#### **Target: Sayqal Airbase**  
 - **Coordinates:** 33 N DC 10537 24567  
-- **Strategic Importance:** Strategic air defense and communications site, critical for regional surveillance and control.  
+- **Strategic Importance:** Major airbase housing **Su-24 strike aircraft**, essential for regional bombing operations. Also serves as a key air defense and logistics hub.  
 - **Threat Assessment:**  
-  - **SA-2 SAM system** in defensive posture around the airfield.  
-  - **EW Radar** detected, providing early warning and tracking capabilities for surrounding airspace.  
-  - Possible ground defenses including infantry and anti-air units.  
+  - **SA-2 SAM system** deployed for long-range air defense.  
+  - **SA-15 SAM system** providing mobile short-range air defense against precision-guided munitions and low-flying threats.  
+  - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses.  
+  - **Fuel and Ammunition Depots** present, critical for sustained air operations.  
+  - **Generators** supporting radar and airbase infrastructure.  
+  - Possible **ground defenses**, including infantry and AAA (Anti-Aircraft Artillery) positions.  
 - **Operational Plan:**  
-  - **SEAD** operations focused on neutralizing SA-2 SAM system.  
-  - Neutralize **EW radar** through electronic warfare or direct strike.  
-  - Consider **ISR** flights to monitor radar activity and vehicle movements.  
+  - **SEAD (Suppression of Enemy Air Defenses)** to neutralize **SA-2** and **SA-15** threats.  
+  - Target **EW radar** through electronic warfare or direct precision strike.  
+  - Conduct **ISR** flights to monitor aircraft readiness, vehicle movements, and high-value targets.  
+  - Consider airstrikes on **fuel and ammunition depots** to cripple sustained air operations.  
+  - Assess the feasibility of striking **power generators** to disrupt airbase operations.  
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/sayqal_airbase.png)
 
 ---
 
@@ -97,7 +102,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Assess ground unit positions and artillery effectiveness.  
   - Monitor for any significant troop movements or training exercises.
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/air_defence_academy.png)
 
 ---
 
@@ -110,7 +115,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Conduct **SEAD** missions to suppress or neutralize the SA-6 system.  
   - Gather intelligence on additional ground unit locations and movements through **ISR**.  
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/yd7368.png)
 
 ---
 
@@ -137,7 +142,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Focus **SEAD** operations on the SA-10 system and the Command Center.  
   - Collect detailed **ISR** to identify high-value targets within the base.  
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/druayhim_military_base.png)
 
 ---
  
