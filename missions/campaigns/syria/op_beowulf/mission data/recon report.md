@@ -54,7 +54,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Sayqal**  
 - **Coordinates:** 33 N DC 10537 24567  
 - **Strategic Importance:** Strategic air defense and communications site, critical for regional surveillance and control.  
@@ -71,7 +70,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Palmyra**  
 - **Coordinates:** 34 N DA 68942 45621  
 - **Strategic Importance:** Key strategic location with close proximity to chemical weapons and storage sites.  
@@ -88,7 +86,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Air Defence Academy**  
 - **Coordinates:** 35 N AL 20102 78457  
 - **Strategic Importance:** Training facility for air defense personnel; critical in preparing forces for SAM and artillery operations.  
@@ -104,7 +101,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Grid 36 S YD 73297 68825**  
 - **Coordinates:** 36 S YD 73297 68825  
 - **Strategic Importance:** Unnamed military installation likely housing air defense systems and ground support units.  
@@ -118,7 +114,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Grid 37 S BV 33996 14348**  
 - **Coordinates:** 37 S BV 33996 14348  
 - **Strategic Importance:** Likely to be a defensive position supporting regional stability and air defense coverage.  
@@ -132,7 +127,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Durayhim Military Base**  
 - **Coordinates:** 33 N BC 60517 44213  
 - **Strategic Importance:** Major military base with significant air defense and command functions.  
@@ -146,8 +140,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 *(Insert Satellite Image Here)*
 
 ---
-
-### **Reconnaissance Entry**  
+ 
 #### **Target: Jirah**  
 - **Coordinates:** 36 N GD 82312 18347  
 - **Strategic Importance:** Critical early warning radar station, vital for air defense operations in the region.  
@@ -161,7 +154,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Tabaq Airbase**  
 - **Coordinates:** 35 N DX 93821 51984  
 - **Strategic Importance:** Primary base for **Su-24 strike aircraft**, a key asset for precision bombing and ground attacks.  
@@ -176,7 +168,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-### **Reconnaissance Entry**  
 #### **Target: Minakh**  
 - **Coordinates:** 36 N DC 90812 62791  
 - **Strategic Importance:** Air defense hub with a **heliport** and **SA-6 SAM system** for defense.  
