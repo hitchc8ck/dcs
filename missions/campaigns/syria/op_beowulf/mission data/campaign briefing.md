@@ -9,6 +9,7 @@ Lebanese defenses are stretched thin, with their military relying on a combinati
 
 Regional allies and neutral parties are closely monitoring the situation. There is concern that Hezbollah or other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
 
+### **Situation Overview**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/op_overview.png)
 
 ## **Enemy Forces (Syria)**
@@ -61,22 +62,22 @@ Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cypru
 #### **NATO Air Bases**
 
 - **RAF Akrotiri (Cyprus):**
-  - **F-16C Fighting Falcons** – **Multirole fighters** for **air-to-air** and **air-to-ground** missions.  
-  - **F-15E Strike Eagles** – **Multirole bombers** for **long-range strike**.  
+  - **F-16C Fighting Falcons** – **Multirole fighter** for **air superiority** and **SEAD/DEAD**  
+  - **F-15E Strike Eagles** – **Multirole figther** for **air superiority** and **precision strikes**. 
   - **E-3A AWACS** – Provides **command and control** for **airspace** and **battlefield management**.  
   - **KC-130 & KC-135 Tankers** – **Aerial refueling** for **extended operations**.  
 
 #### **Israeli Air Force**
 
 - **Ramat David Airbase:**
-  - **F-16C Fighting Falcons** – **Multirole fighters** for **strike** and **air superiority**.  
-  - **F-15E Strike Eagles** – **Multirole bombers** for **precision strikes**.  
+  - **F-16C Fighting Falcons** – **Multirole fighter** for **air superiority** and **SEAD/DEAD**  
+  - **F-15E Strike Eagles** – **Multirole figther** for **air superiority** and **precision strikes**.  
 
 ### **Strategic Bomber Support**
 - **B-1B Lancer** and **B-52 Stratofortress** bombers are available for strategic airstrikes.
 - **Long-range precision strikes** include:
   - **AGM-86 ALCM (Air-Launched Cruise Missile)**
-  - **AGM-84 Harpoon**
+  - **AGM-84 Harpoon (Air-Launched Anti-Ship Missile)**
   - **AGM-154 JSOW (Joint Standoff Weapon)**
   - **JDAM (Joint Direct Attack Munition) precision bombing**
   - **Cluster bombing and carpet bombing operations**
@@ -97,7 +98,7 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
     - **AH-64 Apache Attack Helicopters**
     - **OH-58 Kiowa Scouts**
     - **CH-47 Chinook Transports**
-    - **NASSAM** (National Advanced Surface-to-Air Missile System) for **point defense** against incoming air threats.
+    - **NASSAM** for **point defense** against incoming air threats.
 
 - **FOB Bravo** *(Grid: 37 S BT 32677 74560)*
   - Staging base for ground assault operations
@@ -110,8 +111,11 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
   - **Prince Hassan Airbase**
   - **Akrotiri Airbase** (Cyprus)  
   - **Incirlik Airbase**
-- **Hawk System** at:  
+  - **H3 Southwest**
+- **Hawk System** at:
   - **Grid 37 S BT 28756 90498**
+- **NASSAM** at:
+  - **GRID 36 S YC 55418 24537**
 
 ## **Mission Objectives**
 1. **Air Superiority:** Conduct SEAD operations to neutralize Syrian SAM threats and enforce NATO's no-fly zone over Syria.
@@ -122,7 +126,7 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
 6. **Monitor and Counter Insurgent Threats:** Be prepared for non-state actors attempting to exploit the conflict.
 
 ### **No-Fly Zone Enforcement**
-NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syrian Air Force operations. However, Syrian forces continue to challenge this restriction, conducting flights from their airbases and maintaining aerial control over their own territory. **Mission-critical objectives include enforcing the NFZ, neutralizing Syrian air threats, and establishing NATO air superiority.** Carrier-based and land-based CAP (Combat Air Patrol) missions are being conducted to intercept and engage non-compliant Syrian aircraft when necessary.
+NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syrian Air Force operations. However, Syrian forces continue to challenge this restriction, conducting flights from their airbases in Palmyra, Jirah and Tabqa and maintaining aerial control over their own territory. **Mission-critical objectives include enforcing the NFZ, neutralizing Syrian air threats, and establishing NATO air superiority.** Carrier-based and land-based CAP (Combat Air Patrol) missions are being conducted to intercept and engage non-compliant Syrian aircraft when necessary.
 
 ## **Intel Summary**
 - Syrian forces are actively preparing for an invasion.
