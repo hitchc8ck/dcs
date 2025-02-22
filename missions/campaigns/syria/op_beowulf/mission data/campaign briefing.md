@@ -48,33 +48,38 @@ Syrian pilots have been observed conducting aggressive flight maneuvers and inte
 ## **Friendly Forces (NATO & Allies)**
 
 ### **Naval Operations**
-Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) are deployed **north of Cyprus**, providing air and missile support.  
+Two **US Carrier Battle Groups** (**CBG-5 & CBG-8**) are deployed **south of Cyprus**, providing air and missile support.  
+
+## **Friendly Forces (NATO & Allies)**
+
+### **Naval Assets**
+Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cyprus**, providing air and missile support.
 
 #### **Carrier Air Wing Assets**
-- **F/A-18C Hornets** – Multirole fighters for **SEAD, Strike, and CAP** missions.  
-- **E-2A Hawkeyes** – **Airborne Early Warning & Control (AEW&C)**.  
-- **S-3B Vikings** – Providing **aerial refueling and anti-submarine warfare**.  
+- **F/A-18C Hornets** – **Multirole fighters** for **SEAD, Strike, and CAP**.  
+- **E-2A Hawkeyes** – **AEW&C** platform for **air surveillance** and **battle management**.  
+- **S-3B Vikings** – Provide **aerial refueling** and **anti-submarine warfare**.  
 
 #### **Surface Combatants**
-- **Arleigh Burke-class destroyers** (part of CBG escort fleet):  
-  - Capable of launching **Tomahawk Land Attack Missiles (TLAMs)** for **long-range precision strikes**.  
-  - Equipped with **Aegis combat system** for integrated air and missile defense.  
+- **Arleigh Burke-class destroyers** (escort fleet):  
+  - Launch **Tomahawk Missiles (TLAMs)** for **precision strikes**.  
+  - Equipped with **Aegis combat system** for **air and missile defense**.  
 
 ### **Air Operations**
+
 #### **NATO Air Bases**
+
 - **RAF Akrotiri (Cyprus):**
-  - **F-16C**
-  - **F-15E Strike Eagle**
-  - **E-3A AWACS**
-  - **KC-130 Tanker** (Basket)
-  - **KC-135 Tanker** (Basket/Boom)
+  - **F-16C Fighting Falcons** – **Multirole fighters** for **air-to-air** and **air-to-ground** missions.  
+  - **F-15E Strike Eagles** – **Multirole bombers** for **long-range strike**.  
+  - **E-3A AWACS** – Provides **command and control** for **airspace** and **battlefield management**.  
+  - **KC-130 & KC-135 Tankers** – **Aerial refueling** for **extended operations**.  
 
 #### **Israeli Air Force**
+
 - **Ramat David Airbase:**
-  - **F-16C**
-  - **F-15E Strike Eagle**
-  - **KC-130 Tanker** (Basket)
-  - **KC-135 Tanker** (Basket/Boom)
+  - **F-16C Fighting Falcons** – **Multirole fighters** for **strike** and **air superiority**.  
+  - **F-15E Strike Eagles** – **Multirole bombers** for **precision strikes**.  
 
 ### **Strategic Bomber Support**
 - **B-1B Lancer** and **B-52 Stratofortress** bombers are available for strategic airstrikes.
