@@ -20,7 +20,6 @@
 |-----------------------|--------------|---------------------|----------|---------------|--------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000             | AM       | -             | -            | VFA-87 Joker 2 Flight  |
 | VFA-87 Golden Warriors| Sting 5      | 222.000             | AM       | -             | -            | VFA-87 Sting 5 Flight  |
-| VFA-87 Golden Warriors| Devil 8      | 223.000             | AM       | -             | -            | VFA-87 Devil 8 Flight  |
 | 333rd Lancers         | Dodge 6      | 224.000             | AM       | -             | -            | 333rd Dodge 6 Flight   |
 | 333rd Lancers         | Dodge 3      | 225.000             | AM       | -             | -            | 333rd Dodge 3 Flight   |
 | 179th Bulldogs        | Weasel 1     | 226.000             | AM       | -             | -            | 179th Weasel 1 Flight  |
