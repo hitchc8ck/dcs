@@ -27,21 +27,27 @@ A2ADispatcher_red:SetDisengageRadius(150000)
 -- Setup the squadrons.
 A2ADispatcher_red:SetSquadron( "Jirah", AIRBASE.Syria.Jirah, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
 A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
+A2ADispatcher_red:SetSquadron( "Sayqal", AIRBASE.Syria.Sayqal, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
 
 -- Setup the overhead
 A2ADispatcher_red:SetSquadronOverhead("Jirah", 0.5)
 A2ADispatcher_red:SetSquadronOverhead("Palmyra", 0.5)
+A2ADispatcher_red:SetSquadronOverhead("Sayqal", 0.5)
 
 -- Setup the Grouping
 A2ADispatcher_red:SetSquadronGrouping("Jirah", 2)
 A2ADispatcher_red:SetSquadronGrouping("Palmyra", 2)
+A2ADispatcher_red:SetSquadronGrouping("Sayqal", 2)
 
 -- Setup the Takeoff and Landing methods
 A2ADispatcher_red:SetSquadronTakeoff("Jirah", AI_A2A_DISPATCHER.Takeoff.Hot)
 A2ADispatcher_red:SetSquadronLanding("Palmyra", AI_A2A_DISPATCHER.Takeoff.Hot)
+A2ADispatcher_red:SetSquadronLanding("Sayqal", AI_A2A_DISPATCHER.Takeoff.Hot)
+
 
 A2ADispatcher_red:SetSquadronTakeoff("Jirah", AI_A2A_DISPATCHER.Landing.AtRunway)
 A2ADispatcher_red:SetSquadronLanding("Palmyra", AI_A2A_DISPATCHER.Landing.AtRunway)
+A2ADispatcher_red:SetSquadronLanding("Sayqal", AI_A2A_DISPATCHER.Landing.AtRunway)
 
 -- Setup the CAP parameter
 A2ADispatcher_red:SetIntercept(2)
@@ -54,9 +60,13 @@ red_cap_airspace_north = ZONE_POLYGON:New("red_cap_airspace_north", GROUP:FindBy
 A2ADispatcher_red:SetSquadronCap("Jirah", red_cap_airspace_north, 6000, 8000, 500, 600, 600, 1200, "RADIO")
 A2ADispatcher_red:SetSquadronCapInterval("Jirah", 1, 400, 800, 1)
 
-red_cap_airspace_south = ZONE_POLYGON:New("red_cap_airspace_south", GROUP:FindByName("red_cap_airspace_south"))
-A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_south, 6000, 8000, 500, 600, 600, 1200, "RADIO")
+red_cap_airspace_center = ZONE_POLYGON:New("red_cap_airspace_center", GROUP:FindByName("red_cap_airspace_center"))
+A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_center, 6000, 8000, 500, 600, 600, 1200, "RADIO")
 A2ADispatcher_red:SetSquadronCapInterval("Palmyra", 1, 400, 800, 1)
+
+red_cap_airspace_south = ZONE_POLYGON:New("red_cap_airspace_south", GROUP:FindByName("red_cap_airspace_south"))
+A2ADispatcher_red:SetSquadronCap("Sayqal", red_cap_airspace_south, 6000, 8000, 500, 600, 600, 1200, "RADIO")
+A2ADispatcher_red:SetSquadronCapInterval("Sayqal", 1, 400, 800, 1)
 
 --set.SquadronCapIntervall SquadronName, CapLimit, LowInterval, HighInterval, Probability
 A2ADispatcher_red:SetDefaultFuelThreshold(0.2)
@@ -68,4 +78,5 @@ A2ADispatcher_red:SetDefaultFuelThreshold(0.2)
 
 CleanUp_Jirah = CLEANUP_AIRBASE:New({AIRBASE.Syria.Jirah})
 CleanUp_Palmyra = CLEANUP_AIRBASE:New({AIRBASE.Syria.Palmyra})
+CleanUp_Sayqal = CLEANUP_AIRBASE:New({AIRBASE.Syria.Sayqal})
 A2ADispatcher_red:Start()
