@@ -37,7 +37,7 @@ After a clearing turn, proceed straight ahead at 500 feet paralleling the BRC. A
 arc, maintaining visual conditions until established on the departure radial. The 500-foot restriction is lifted after
 7 nm if the climb can be continued in visual conditions. Jets shall maintain 300 knots until VMC on top.
 
-![alt text](https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case_i_departure_2.png)
+![alt text](https://raw.githubusercontent.com/hitchc8ck/dcs/refs/heads/main/documents/sop/files/case1/case_1_departure_2.png)
 
 ### Case III Departure
 This departure shall be used whenever existing weather at the ship is below Case II departure minimums and during
@@ -155,7 +155,7 @@ Case II recoveries will be used when weather conditions are such that a flight m
 
 Marshal Holding -  If Marshal directs a Case II recovery, the flight will proceed to Case II/III marshal pattern holding fix. Ideally, the holding fix will be on the 180 radial relative to BRC. Weather and airspace considerations may not allow for this. Generally, the holding radial will be within 30 degrees of the 180 radial. Aircraft will hold on the assigned radial at a distance equal to 1 NM for every 1,000 feet of altitude plus 15. In other words, the distance of the holding fix is determined by adding 15 to the assigned holding altitude in angels. For example, if instructed to hold on the 220 radial at angels 8, the fix would be determined as follows: 
 
-i. Distance = Angels + 15 = 8 +15 = 23 
+i. Distance = Angels + 15 = 8 + 15 = 23 
 
 Therefore, hold on the 220 radial at 23 DME at 8,000 feet. Image below  illustrates the Case II/III Marshal pattern. The lowest altitude for assignment is 6,000 feet for turboprop and jet aircraft.
 
