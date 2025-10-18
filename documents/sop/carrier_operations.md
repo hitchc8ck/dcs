@@ -23,7 +23,7 @@ A clearing turn is executed to create upwind separation between departing aircra
 
 Launch Frequencies: Aircraft shall normally launch on the departure frequency that shall be monitored by the tower.
 
-![alt text]([https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case_i_departure_1.png](https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case1/case_1_departure_1.png?raw=true)](https://github.com/hitchc8ck/dcs/blob/main/documents/sop/files/case1/case_1_departure_1.png?raw=true))
+![alt text](https://raw.githubusercontent.com/hitchc8ck/dcs/refs/heads/main/documents/sop/files/case1/case_1_departure_1.png)
 
 ### Case II Departure 
 For departure, visual conditions at the ship may exist down to a ceiling of 1,000 feet and visibility of 5 miles. Launch
