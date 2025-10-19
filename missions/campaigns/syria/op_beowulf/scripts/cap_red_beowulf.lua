@@ -30,14 +30,14 @@ A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_air_cap_
 A2ADispatcher_red:SetSquadron( "Sayqal", AIRBASE.Syria.Sayqal, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
 
 -- Setup the overhead
-A2ADispatcher_red:SetSquadronOverhead("Jirah", 0.5)
-A2ADispatcher_red:SetSquadronOverhead("Palmyra", 0.5)
-A2ADispatcher_red:SetSquadronOverhead("Sayqal", 0.5)
+A2ADispatcher_red:SetSquadronOverhead("Jirah", 0)
+A2ADispatcher_red:SetSquadronOverhead("Palmyra", 0)
+A2ADispatcher_red:SetSquadronOverhead("Sayqal", 0)
 
 -- Setup the Grouping
-A2ADispatcher_red:SetSquadronGrouping("Jirah", 2)
-A2ADispatcher_red:SetSquadronGrouping("Palmyra", 2)
-A2ADispatcher_red:SetSquadronGrouping("Sayqal", 2)
+A2ADispatcher_red:SetSquadronGrouping("Jirah", 1)
+A2ADispatcher_red:SetSquadronGrouping("Palmyra", 1)
+A2ADispatcher_red:SetSquadronGrouping("Sayqal", 1)
 
 -- Setup the Takeoff and Landing methods
 A2ADispatcher_red:SetSquadronTakeoff("Jirah", AI_A2A_DISPATCHER.Takeoff.Hot)
