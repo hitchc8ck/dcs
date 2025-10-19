@@ -10,3 +10,4 @@
 - add atis for airports
 - check if airboss and recovery tanker from moose is better
 - check if used tacans are not double
+- check if skynet had an update
