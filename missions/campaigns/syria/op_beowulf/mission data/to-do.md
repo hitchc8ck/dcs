@@ -3,4 +3,6 @@
  - add missing sat pics
 - update cap/gci script
 - add transport planes to rat
-- 
+- add AAA + Shorad to Shayrat, Bassel Al-Assad
+- add SAM to Aleppo, Jirah
+- add first routes of convoys
