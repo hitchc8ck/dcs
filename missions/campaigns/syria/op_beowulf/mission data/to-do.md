@@ -8,4 +8,5 @@
 - add SAM to Aleppo, Jirah
 - add first routes of convoys
 - add atis for airports
+- check if airboss and recovery tanker from moose is better
 - check if used tacans are not double
