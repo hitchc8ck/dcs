@@ -44,7 +44,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses.  
   - **Fuel and Ammunition Depots** present, critical for sustained air operations.  
   - **Generators** supporting radar and airbase infrastructure.  
-  - Possible **ground defenses**, including infantry and AAA (Anti-Aircraft Artillery) positions.  
+  - Possible **short range defenses**, including infantry and AAA (Anti-Aircraft Artillery) positions.  
 - **Operational Plan:**  
   - **SEAD/DEAD** to neutralize **SA-2** and **SA-15** threats.  
   - Target **EW radar** through electronic warfare or direct precision strike.  
@@ -82,6 +82,62 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **Airstrikes** targeting chemical weapons and critical infrastructure if deemed necessary.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/saa_550_brigade.png)
+
+---
+
+#### **Target: Shayrat Airbase**  
+- **Coordinates:** MGRS GRID: 37 S CU 07913 18483
+- **Strategic Importance:** Resupply Airport 
+- **Threat Assessment:** 
+  - **AAA**
+  - **SHORAD**
+- **Operational Plan:**  
+  - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
+  - Consider long-range strike options to disable runways.
+
+*(Insert Satellite Image Here)*
+
+---
+
+#### **Target: Grid 37 S BU 93403 36364
+**  
+- **Coordinates:** 37 S BU 93403 36364 
+- **Strategic Importance:**
+- **Threat Assessment:**  
+  - **SA-2 SAM system** deployed with likely supporting short range defenses.
+  - **Artillery units** deployed for active support, potentially engaging ground or air targets. 
+- **Operational Plan:**  
+  - Focus **SEAD/DEAD** efforts on the neutralization of the SA-11 site.  
+
+*(Insert Satellite Image Here)*
+
+---
+
+#### **Target: Grid 36 S YD 73297 68825**  
+- **Coordinates:** 36 S YD 73297 68825  
+- **Strategic Importance:** Military installation with a significant number of **bunkers** of unknown purpose, possibly used for storage, command operations, or protected assets. The presence of an **SA-6 SAM system** suggests the site is actively defended.  
+- **Threat Assessment:**  
+  - **SA-6 SAM system** deployed, providing medium-range air defense.  
+  - Multiple **bunkers**, purpose unknown—possible **ammunition storage, command center, or protected assets**.  
+  - Potential presence of **ground units** supporting air defense operations.  
+- **Operational Plan:**  
+  - Conduct **SEAD/DEAD** missions to suppress or neutralize the **SA-6 system**.  
+
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/yd7368.png)
+
+---
+
+#### **Target: Bassel Al-Assad Airbase**  
+- **Coordinates:** MGRS GRID: 36 S YE 67959 21464
+- **Strategic Importance:** Resupply Airport 
+- **Threat Assessment:** 
+  - **AAA**
+  - **SHORAD**
+- **Operational Plan:** 
+  - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
+  - Consider long-range strike options to disable runways.
+
+*(Insert Satellite Image Here)*
 
 ---
 
@@ -159,25 +215,11 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-#### **Target: Grid 36 S YD 73297 68825**  
-- **Coordinates:** 36 S YD 73297 68825  
-- **Strategic Importance:** Military installation with a significant number of **bunkers** of unknown purpose, possibly used for storage, command operations, or protected assets. The presence of an **SA-6 SAM system** suggests the site is actively defended.  
-- **Threat Assessment:**  
-  - **SA-6 SAM system** deployed, providing medium-range air defense.  
-  - Multiple **bunkers**, purpose unknown—possible **ammunition storage, command center, or protected assets**.  
-  - Potential presence of **ground units** supporting air defense operations.  
-- **Operational Plan:**  
-  - Conduct **SEAD/DEAD** missions to suppress or neutralize the **SA-6 system**.  
-
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/yd7368.png)
-
----
-
 #### **Target: Grid 37 S BV 33996 14348**  
 - **Coordinates:** 37 S BV 33996 14348  
 - **Strategic Importance:** Likely to be a defensive position supporting regional stability and air defense coverage.  
 - **Threat Assessment:**  
-  - **SA-11 SAM system** deployed with likely supporting ground defenses.  
+  - **SA-11 SAM system** deployed with likely supporting short range defenses.  
 - **Operational Plan:**  
   - Focus **SEAD/DEAD** efforts on the neutralization of the SA-11 site.  
 
