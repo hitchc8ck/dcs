@@ -4,21 +4,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-#### **Target: Palmyra Airbase**
-- **Coordinates:** 37 S DU 37427 24267
-- **Strategic Importance:** Primary airbase for Syrian MiG-25, MiG-29, and Su-24 operations.
-- **Threat Assessment:**
-  - Hardened aircraft shelters detected.
-  - SA-10 SAM site within a 10 nm radius.
-  - Recent increase in aircraft activity, indicating possible upcoming sorties.
-- **Operational Plan:**
-  - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Consider long-range strike options to disable runways.
-
-*(Insert Satellite Image Here)*
-
----
-
 #### **Target: Khalkhalah Airbase**  
 - **Coordinates:** 34 N KF 72710 95600  
 - **Strategic Importance:** Key regional airport supporting tactical aircraft operations.  
@@ -29,7 +14,24 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Coordinate airstrikes to degrade runway capabilities.
   - Coordinate airstrikes to degrade ammo/fuel depot.
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/khalkhalal_airbase.png)
+
+---
+
+#### **Target: Army Vehicle Training Ground**  
+- **Coordinates:** 45 N AJ 28923 67540  
+- **Strategic Importance:** High-value training area for armored and mechanized units; critical to the readiness of ground forces.  
+- **Threat Assessment:**  
+  - **SA-6 SAM system** deployed in a defensive posture at the north and south perimeter.  
+  - **AAA (Anti-Aircraft Artillery)** emplacements located along the northern and southern boundaries, covering all approach vectors.  
+  - **Ground Units:** Several mechanized infantry battalions with IFV and support vehicles
+  - **Activity:** Increased movement of armored vehicles, potentially indicating a large-scale exercise or a force mobilization.  
+- **Operational Plan:**  
+  - **SEAD/DEAD** operations focused on neutralizing the SA-6 sites.  
+  - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
+  - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
+
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/Army_Vehicle_Training_Ground.png)
 
 ---
 
@@ -53,7 +55,22 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-#### **Target: Palmyra Airbase**  
+#### **Target: Palmyra Airbase**
+- **Coordinates:** 37 S DU 37427 24267
+- **Strategic Importance:** Primary airbase for Syrian MiG-25, MiG-29, and Su-24 operations.
+- **Threat Assessment:**
+  - Hardened aircraft shelters detected.
+  - SA-10 SAM site within a 10 nm radius.
+  - Recent increase in aircraft activity, indicating possible upcoming sorties.
+- **Operational Plan:**
+  - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
+  - Consider long-range strike options to disable runways.
+
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/palmyra_airbase.png)
+
+---
+
+#### **Target: SAA 550th Brigade north of Palmyra Airbase**  
 - **Coordinates:** 34 N DA 68942 45621  
 - **Strategic Importance:** Key strategic location with close proximity to chemical weapons and storage sites.  
 - **Threat Assessment:**  
@@ -64,7 +81,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SEAD/DEAD** missions to target and neutralize SA-10 and EW radar systems.  
   - **Airstrikes** targeting chemical weapons and critical infrastructure if deemed necessary.
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/saa_550_brigade.png)
 
 ---
 
@@ -104,23 +121,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Monitor **heliport** activities to identify potential air threats.  
 
 *(Insert Satellite Image Here)*
-
----
-
-#### **Target: Army Vehicle Training Ground**  
-- **Coordinates:** 45 N AJ 28923 67540  
-- **Strategic Importance:** High-value training area for armored and mechanized units; critical to the readiness of ground forces.  
-- **Threat Assessment:**  
-  - **SA-6 SAM system** deployed in a defensive posture at the north and south perimeter.  
-  - **AAA (Anti-Aircraft Artillery)** emplacements located along the northern and southern boundaries, covering all approach vectors.  
-  - **Ground Units:** Several mechanized infantry battalions with IFV and support vehicles
-  - **Activity:** Increased movement of armored vehicles, potentially indicating a large-scale exercise or a force mobilization.  
-- **Operational Plan:**  
-  - **SEAD/DEAD** operations focused on neutralizing the SA-6 sites.  
-  - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
-  - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
-
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/Army_Vehicle_Training_Ground.png)
 
 ---
 

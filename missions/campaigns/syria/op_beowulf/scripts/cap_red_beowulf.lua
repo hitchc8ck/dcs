@@ -21,7 +21,7 @@ A2ADispatcher_red:SetBorderZone(red_border_zone)
 -- Initialize the dispatcher, setting up a radius of 100km where any airborne friendly 
 -- without an assignment within 100km radius from a detected target, will engage that target.
 A2ADispatcher_red:SetEngageRadius(100000)
-A2ADispatcher_red:SetDisengageRadius(150000)
+A2ADispatcher_red:SetDisengageRadius(180000)
 
 
 -- Setup the squadrons.
@@ -30,13 +30,13 @@ A2ADispatcher_red:SetSquadron( "Palmyra", AIRBASE.Syria.Palmyra, { "red_air_cap_
 A2ADispatcher_red:SetSquadron( "Sayqal", AIRBASE.Syria.Sayqal, { "red_air_cap_1", "red_air_cap_2", "red_air_cap_3", "red_air_cap_4", "red_air_cap_5" }, 20 ) 
 
 -- Setup the overhead
-A2ADispatcher_red:SetSquadronOverhead("Jirah", 0)
-A2ADispatcher_red:SetSquadronOverhead("Palmyra", 0)
-A2ADispatcher_red:SetSquadronOverhead("Sayqal", 0)
+A2ADispatcher_red:SetSquadronOverhead("Jirah", 1)
+A2ADispatcher_red:SetSquadronOverhead("Palmyra", 0.5)
+A2ADispatcher_red:SetSquadronOverhead("Sayqal", 1)
 
 -- Setup the Grouping
 A2ADispatcher_red:SetSquadronGrouping("Jirah", 1)
-A2ADispatcher_red:SetSquadronGrouping("Palmyra", 1)
+A2ADispatcher_red:SetSquadronGrouping("Palmyra", 2)
 A2ADispatcher_red:SetSquadronGrouping("Sayqal", 1)
 
 -- Setup the Takeoff and Landing methods
@@ -58,7 +58,7 @@ A2ADispatcher_red:SetDefaultCapTimeInterval(7000, 10000)
 -- The altitude type, which is a string "BARO" defining Barometric or "RADIO" defining radio controlled altitude.
 red_cap_airspace_north = ZONE_POLYGON:New("red_cap_airspace_north", GROUP:FindByName("red_cap_airspace_north"))
 A2ADispatcher_red:SetSquadronCap("Jirah", red_cap_airspace_north, 6000, 8000, 500, 600, 600, 1200, "RADIO")
-A2ADispatcher_red:SetSquadronCapInterval("Jirah", 1, 400, 800, 1)
+A2ADispatcher_red:SetSquadronCapInterval("Jirah", 1, 400, 800, 2)
 
 red_cap_airspace_center = ZONE_POLYGON:New("red_cap_airspace_center", GROUP:FindByName("red_cap_airspace_center"))
 A2ADispatcher_red:SetSquadronCap("Palmyra", red_cap_airspace_center, 6000, 8000, 500, 600, 600, 1200, "RADIO")
@@ -66,7 +66,7 @@ A2ADispatcher_red:SetSquadronCapInterval("Palmyra", 1, 400, 800, 1)
 
 red_cap_airspace_south = ZONE_POLYGON:New("red_cap_airspace_south", GROUP:FindByName("red_cap_airspace_south"))
 A2ADispatcher_red:SetSquadronCap("Sayqal", red_cap_airspace_south, 6000, 8000, 500, 600, 600, 1200, "RADIO")
-A2ADispatcher_red:SetSquadronCapInterval("Sayqal", 1, 400, 800, 1)
+A2ADispatcher_red:SetSquadronCapInterval("Sayqal", 1, 400, 800, 2)
 
 --set.SquadronCapIntervall SquadronName, CapLimit, LowInterval, HighInterval, Probability
 A2ADispatcher_red:SetDefaultFuelThreshold(0.2)
