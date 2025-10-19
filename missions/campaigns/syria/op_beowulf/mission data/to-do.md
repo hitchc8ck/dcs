@@ -1,6 +1,7 @@
 - commsladder
 - add missing recon report infos
  - add missing sat pics
+- add situation report entry #1
 - update cap/gci script
 - add transport planes to rat
 - add AAA + Shorad to Shayrat, Bassel Al-Assad
