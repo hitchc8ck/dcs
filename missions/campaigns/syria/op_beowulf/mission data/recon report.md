@@ -99,8 +99,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-#### **Target: Grid 37 S BU 93403 36364
-**  
+#### **Target: Grid 37 S BU 93403 36364**
 - **Coordinates:** 37 S BU 93403 36364 
 - **Strategic Importance:**
 - **Threat Assessment:**  
