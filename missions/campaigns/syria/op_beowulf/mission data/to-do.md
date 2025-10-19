@@ -7,3 +7,5 @@
 - add AAA + Shorad to Shayrat, Bassel Al-Assad
 - add SAM to Aleppo, Jirah
 - add first routes of convoys
+- add atis for airports
+- check if used tacans are not double
