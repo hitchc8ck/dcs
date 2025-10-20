@@ -1,10 +1,10 @@
-- add commsladder
+- add commsladder (90% DONE)
  - check if freq are correct in-game
  - check if used tacans are used on in-game airports (DONE)
 - add missing recon report infos
  - add missing sat pics
 - add situation report entry #1 (WIP)
-- update cap/gci script
+- update cap/gci script (DONE)
 - add transport planes to rat
 - add AAA + Shorad to Shayrat, Bassel Al-Assad
 - add SAM to Aleppo, Jirah

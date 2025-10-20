@@ -1,6 +1,10 @@
 # **Mission Briefing: Operation DESERT AEGIS - Day 1**
 
 ## **1. Mission Overview**
+- **SITREP UPDATE:** 
+    - **DAY1**
+
+## **2. Mission Overview**
 - **Objective:** 
 - **Target:** 
 - **Coordinates:** 
@@ -10,7 +14,7 @@
 **Mission Commander:** 
 **Flight Lead:** 
 
-## **2. Flight Roster**
+## **3. Flight Roster**
 | Flight Name   | Aircraft Type | Callsign          | Role                      | Notes                                     |
 |---------------|---------------|-------------------|---------------------------|-------------------------------------------|
 | Viking 1      | F-16C         | Viper 1-1         | SEAD                      | Lead SEAD strike                          |
@@ -18,22 +22,22 @@
 | Thor 1        | F/A-18C       | Hornet 2-1        | Strike                    | Target logistical nodes                   |
 | Thor 2        | F/A-18C       | Hornet 2-2        | Strike                    | Backup precision strike                   |
 
-## **3. Support Assets**
+## **4. Support Assets**
 | Flight Name   | Aircraft Type | Callsign          | Role                      | Notes                                     |
 |---------------|---------------|-------------------|---------------------------|-------------------------------------------|
 | Viking 1      | F-16C         | Viper 1-1         | SEAD                      | Lead SEAD strike                          |
 | Viking 1      | F-16C         | Viper 1-1         | SEAD                      | Lead SEAD strike                          |
 
-## **4. Target Summary**
+## **5. Target Summary**
 
 ### **Enemy Threats**
 
-## **5. Rules of Engagement (ROE)**
+## **6. Rules of Engagement (ROE)**
 - **Weapons Free** on all confirmed enemy air defense and military targets.  
 - **Avoid collateral damage** to civilian infrastructure.  
 - **Minimize exposure** to enemy radar, SAM and AAA
 
-## **6. Mission Phases**
+## **7. Mission Phases**
 ### **Phase 1:**
 
 ### **Phase 2:**
@@ -42,6 +46,6 @@
 
 ### **Phase 4:**
 
-## **7. Success Criteria**
+## **8. Success Criteria**
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/air_defence_academy.png)
