@@ -3,12 +3,12 @@
 # Radio freq. ladder for VFA-87 Golden Warriors
 | **Channel** | **Freq (MHz)**| **Mode** | **TACAN** | **ICLS/ILS** | **Notes**   | **Channel** | **Freq(MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
 |-------------|---------------|----------|-----------|--------------|-------------|-------------|---------------|----------|-----------|--------------|-----------|
-| **PRI1**        | NOT USED      | AM       | NONE      | NONE         | TOWER       | **AUX1**        | 221.000 Mhz   | AM       | NONE      | NONE         | Joker 2   |
-| **PRI2**        | NOT USED      | AM       | NONE      | NONE         | DEPARTURE   | **AUX2**        | 222.000 Mhz   | AM       | NONE      | NONE         | Sting 5   |
-| **PRI3**        | NOT USED      | AM       | NONE      | NONE         | STRIKE      | **AUX3**        | 224.000 Mhz   | AM       | NONE      | NONE         | Dodge 3   |
-| **PRI4**        | NOT USED      | AM       | NONE      | NONE         | RED CROWN   | **AUX4**        | 225.000 Mhz   | AM       | NONE      | NONE         | Dodge 6   |
-| **PRI5**        | 251.300 Mhz   | AM       | 84X       | 111.10       | RAMAT DAVID | **AUX5**        | 226.000 Mhz   | AM       | NONE      | NONE         | Weasel 1  |
-| **PRI6**        | 252.000 Mhz   | AM       | 107X      | 109.70       | AKROTIRI    | **AUX6**        | 227.000 Mhz   | AM       | NONE      | NONE         | Weasel 3  |
+| **PRI1**        | NOT USED      | AM       | NONE      | NONE         | TOWER       | **AUX1**        | 225.000 Mhz   | AM       | NONE      | NONE         | Joker 2   |
+| **PRI2**        | NOT USED      | AM       | NONE      | NONE         | DEPARTURE   | **AUX2**        | 226.000 Mhz   | AM       | NONE      | NONE         | Sting 5   |
+| **PRI3**        | NOT USED      | AM       | NONE      | NONE         | STRIKE      | **AUX3**        | 227.000 Mhz   | AM       | NONE      | NONE         | Dodge 3   |
+| **PRI4**        | NOT USED      | AM       | NONE      | NONE         | RED CROWN   | **AUX4**        | 228.000 Mhz   | AM       | NONE      | NONE         | Dodge 6   |
+| **PRI5**        | 251.300 Mhz   | AM       | 84X       | 111.10       | RAMAT DAVID | **AUX5**        | 229.000 Mhz   | AM       | NONE      | NONE         | Weasel 1  |
+| **PRI6**        | 252.000 Mhz   | AM       | 107X      | 109.70       | AKROTIRI    | **AUX6**        | 230.000 Mhz   | AM       | NONE      | NONE         | Weasel 3  |
 | **PRI7**        | NOT USED      | AM       | NONE      | NONE         | NOT USED    | **AUX7**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
 | **PRI8**        | 231.300 Mhz   | AM       | NONE      | NONE         | FOCUS       | **AUX8**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
 | **PRI9**        | 231.300 Mhz   | AM       | NONE      | NONE         | DARKSTAR    | **AUX9**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |

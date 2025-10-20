@@ -48,4 +48,4 @@
 
 ## **8. Success Criteria**
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_beowulf/mission%20data/images/air_defence_academy.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/air_defence_academy.png)
