@@ -1,8 +1,8 @@
 # OP BEOWULF FREQUENCY LADDER
 
 # Radio freq. ladder for VFA-87 Golden Warriors
-| **Channel**           | **Freq (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
-|-----------------------|----------------|----------------------|--------------|-----------|
+| **Channel**          | **Freq (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
+|-----------------------|----------------|-----------|-----------|--------------|-----------|
 | 1                     | 123.123 Mhz    | AM       | 105Y      | CHANNEL 2    | IDK       |
 | 2                     | 123.123 Mhz    | AM       | 105Y      | CHANNEL 2    | IDK       |
 | 3                     | 123.123 Mhz    | AM       | 105Y      | CHANNEL 2    | IDK       |
