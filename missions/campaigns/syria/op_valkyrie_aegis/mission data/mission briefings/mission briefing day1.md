@@ -31,6 +31,7 @@
 ## **5. Divert Airfield's**
 
 | **Airfield** | **Freq (MHz)**| **Mode** | **TACAN** | **ICLS/ILS** | **Runway** | **Notes**   |
+|--------------|---------------|----------|-----------|--------------|------------|-------------|
 | RAMAT DAVID  | 251.300 Mhz   | AM       | 84X       | 111.10       | RW 33      |             |
 | AKROTIRI     | 252.000 Mhz   | AM       | 107X      | 109.70       | RW 28      |             |
 ## **6. Target Infomration:**

@@ -21,6 +21,8 @@
 | **PRI16** | 282.300 Mhz   | AM   | 104Y      | Channel 2 | Marshal     | **AUX16** | N/A      | AM  | N/A      | N/A         | N/A  |
 | **PRI17** | N/A      | AM   | N/A      | N/A      | N/A    | **AUX17** | N/A      | AM  | N/A      | N/A         | N/A  |
 | **PRI18** | N/A      | AM   | N/A      | N/A      | N/A    | **AUX18** | N/A      | AM  | N/A      | N/A         | N/A  |
+| **PRI19** | N/A      | AM   | N/A      | N/A      | N/A    | **AUX19** | N/A      | AM  | N/A      | N/A         | N/A  |
+| **PRI20** | N/A      | AM   | N/A      | N/A      | N/A    | **AUX20** | N/A      | AM  | N/A      | N/A         | N/A  |
 
 
 
