@@ -99,19 +99,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
-#### **Target: Grid 37 S BU 93403 36364**
-- **Coordinates:** 37 S BU 93403 36364 
-- **Strategic Importance:**
-- **Threat Assessment:**  
-  - **SA-2 SAM system** deployed with likely supporting short range defenses.
-  - **Artillery units** deployed for active support, potentially engaging ground or air targets. 
-- **Operational Plan:**  
-  - Focus **SEAD/DEAD** efforts on the neutralization of the SA-11 site.  
-
-*(Insert Satellite Image Here)*
-
----
-
 #### **Target: Grid 36 S YD 73297 68825**  
 - **Coordinates:** 36 S YD 73297 68825  
 - **Strategic Importance:** Military installation with a significant number of **bunkers** of unknown purpose, possibly used for storage, command operations, or protected assets. The presence of an **SA-6 SAM system** suggests the site is actively defended.  
@@ -153,7 +140,8 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 ---
 
 #### **Target: Minakh Heliport**  
-- **Coordinates:** 36 N DC 90812 62791  
+- **Coordinates:** 37 S CA 24575 43712
+
 - **Strategic Importance:** Air defense hub with a **heliport** and **SA-6 SAM system** for defense.  
 - **Threat Assessment:**  
   - **SA-6 SAM system** providing coverage to the heliport and surrounding areas.  
@@ -166,7 +154,9 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 ---
 
 #### **Target: Air Defence Academy**  
-- **Coordinates:** 35 N AL 20102 78457  
+- **Coordinates:** 37 S BU 93281 36256
+
+
 - **Strategic Importance:** Operational air defense hub actively deploying **SAM**, **AAA**, and **artillery** units for regional defense. Serves as a coordination center for mobile air defense assets.  
 - **Threat Assessment:**   
   - **SA-6 SAM system** deployed for medium-range air defense, covering critical assets.  
