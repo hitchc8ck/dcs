@@ -1,4 +1,4 @@
-# **Mission Briefing: Operation DESERT AEGIS - Day 1**
+# **Mission Briefing: Operation valkyrie_aegis - Day 1**
 
 ## **1. Mission Overview**
 - **SITREP UPDATE:** 
