@@ -26,7 +26,7 @@
 |---------------|----------|-------------------|------------|------------------|
 | FOCUS 3       | E-2D     | FOCUS 3-1         | AWACS      | NORTH AWACS      |
 | DARKSTAR 4    | E-3A     | DARKSTAR 4-1      | AWACS      | SOUTH AWACS      |
-| SHELL 2       | KC-130   | SHELL 2-1         | Tanker     | DROGE            |
+| SHELL 2       | KC-130   | SHELL 2-1         | TANKER     | DROGE TANKER     |
 
 ## **5. Divert Airfield's**
 
@@ -34,7 +34,7 @@
 |--------------|---------------|----------|-----------|--------------|------------|-------------|
 | AKROTIRI     | 252.000 Mhz   | AM       | 107X      | 109.70       | RW 28      | NORTH DIVERT|
 | RAMAT DAVID  | 251.300 Mhz   | AM       | 84X       | 111.10       | RW 33      | SOUTH DIVERT |
-## **6. Target Infomration:**
+## **6. Target Information:**
 - **Info**
 ### **Satelite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/air_defence_academy.png)
