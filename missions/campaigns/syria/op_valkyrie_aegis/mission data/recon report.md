@@ -131,11 +131,23 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Coordinates:** 36 N GD 82312 18347  
 - **Strategic Importance:** Critical early warning radar station, vital for air defense operations in the region.  
 - **Threat Assessment:**  
-  - **Early Warning Radar** detected, with capabilities to detect incoming threats at long range.  
+  - **SA-2** detected, with capabilities to detect incoming threats at long range.  
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/jirah_airbase.png)
+
+---
+
+#### **Target: Aleppo Airbase**  
+- **Coordinates:** 36 N GD 82312 18347  
+- **Strategic Importance:** Critical early warning radar station, vital for air defense operations in the region.  
+- **Threat Assessment:**  
+  - **Early Warning Radar** detected, with capabilities to detect incoming threats at long range.  
+- **Operational Plan:**  
+  - Neutralize the **EW Radar** through electronic warfare or precision strike.  
+
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/aleppo_airbase.png)
 
 ---
 
@@ -159,7 +171,8 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 - **Strategic Importance:** Operational air defense hub actively deploying **SAM**, **AAA**, and **artillery** units for regional defense. Serves as a coordination center for mobile air defense assets.  
 - **Threat Assessment:**   
-  - **SA-6 SAM system** deployed for medium-range air defense, covering critical assets.  
+  - **SA-2 SAM system** deployed for medium-to-long-range air defense, covering critical assets.  
+  - **SA-6 SAM system** deployed for medium-range air defense, covering critical assets. 
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions.  
   - **Anti-Aircraft Artillery (AAA)** positioned strategically to protect against air incursions.  
   - **Artillery units** deployed for active support, potentially engaging ground or air targets.  

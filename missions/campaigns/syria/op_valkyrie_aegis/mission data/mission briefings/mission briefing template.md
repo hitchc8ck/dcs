@@ -33,7 +33,7 @@
 ### **Enemy Threats**
 
 ## **6. Rules of Engagement (ROE)**
-- **Weapons Free** on all confirmed enemy air defense and military targets.  
+- **Weapons Hold** on all enemy air defense and military targets until confirmed.  
 - **Avoid collateral damage** to civilian infrastructure.  
 - **Minimize exposure** to enemy radar, SAM and AAA
 

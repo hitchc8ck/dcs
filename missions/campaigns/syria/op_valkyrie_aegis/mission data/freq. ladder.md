@@ -10,8 +10,8 @@
 | **PRI5**        | 251.300 Mhz   | AM       | 84X       | 111.10       | RAMAT DAVID | **AUX5**        | 229.000 Mhz   | AM       | NONE      | NONE         | Weasel 1  |
 | **PRI6**        | 252.000 Mhz   | AM       | 107X      | 109.70       | AKROTIRI    | **AUX6**        | 230.000 Mhz   | AM       | NONE      | NONE         | Weasel 3  |
 | **PRI7**        | NOT USED      | AM       | NONE      | NONE         | NOT USED    | **AUX7**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
-| **PRI8**        | 231.300 Mhz   | AM       | NONE      | NONE         | FOCUS       | **AUX8**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
-| **PRI9**        | 231.300 Mhz   | AM       | NONE      | NONE         | DARKSTAR    | **AUX9**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
+| **PRI8**        | 231.300 Mhz   | AM       | NONE      | NONE         | FOCUS31       | **AUX8**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
+| **PRI9**        | 231.300 Mhz   | AM       | NONE      | NONE         | DARKSTAR41  | **AUX9**        | NOT USED      | AM       | NONE      | NONE         | NOT USED  |
 | **PRI10**       | NOT USED      | AM       | NONE      | NONE         | NOT USED    | **AUX10**       | 237.100 Mhz   | AM       | 41Y       | NONE         | TEXACO 71 |
 | **PRI11**       | NOT USED      | AM       | NONE      | NONE         | NOT USED    | **AUX11**       | 233.000 Mhz   | AM       | 44Y       | NONE         | SHELL 21  |
 | **PRI12**       | NOT USED      | AM       | NONE      | NONE         | NOT USED    | **AUX12**       | NOT USED      | AM       | NONE      | NONE         | NOT USED  |

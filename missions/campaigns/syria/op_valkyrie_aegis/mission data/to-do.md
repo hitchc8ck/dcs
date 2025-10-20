@@ -1,8 +1,8 @@
 - add commsladder (DONE)
  - check if freq are correct in-game 
  - check if used tacans are used on in-game airports (DONE)
-- add missing recon report infos
- - add missing sat pics
+- add missing recon report infos (DONE)
+ - add missing sat pics (ALEPPO MISSING)
 - update cap/gci script (DONE)
 - add transport planes to rat (DONE)
 - add AAA + Shorad to Shayrat, Bassel Al-Assad(DONE)
