@@ -3,12 +3,11 @@
  - check if used tacans are used on in-game airports (DONE)
 - add missing recon report infos
  - add missing sat pics
-- add situation report entry #1 (WIP)
 - update cap/gci script (DONE)
-- add transport planes to rat
+- add transport planes to rat (DONE)
 - add AAA + Shorad to Shayrat, Bassel Al-Assad
 - add SAM to Aleppo, Jirah
 - add first routes of convoys
-- add atis for airports
-- check if airboss and recovery tanker from moose is better
+- add atis for airports (IDK)
+- check if airboss and recovery tanker from moose is better (NOT NEEDED)
 - check if skynet had an update (DONE)
