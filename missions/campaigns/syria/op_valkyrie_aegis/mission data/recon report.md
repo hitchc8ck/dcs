@@ -31,7 +31,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
   - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/Army_Vehicle_Training_Ground.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/army_vehicle_training_ground.png)
 
 ---
 
@@ -95,7 +95,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
   - Consider long-range strike options to disable runways.
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/shayrat_airbase.png)
 
 ---
 
@@ -136,7 +136,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
   - Consider long-range strike options to disable runways.
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/bassel_al_assad_airport.png)
 
 ---
 
@@ -148,20 +148,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
 
-*(Insert Satellite Image Here)*
-
----
-
-#### **Target: Tabaq Airbase**  
-- **Coordinates:** 35 N DX 93821 51984  
-- **Strategic Importance:** Primary base for **Su-24 strike aircraft**, a key asset for precision bombing and ground attacks.  
-- **Threat Assessment:**  
-  - Increased activity of **Su-24 aircraft**, suggesting potential for upcoming strike missions.  
-- **Operational Plan:**  
-  - **SEAD/DEAD** missions targeting any air defense systems covering the base.  
-  - Coordinate with ground forces for a possible **strike** mission if required.
-
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/jirah_airbase.png)
 
 ---
 
@@ -175,8 +162,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Neutralize the **SA-6 SAM system** through **SEAD** operations.  
   - Monitor **heliport** activities to identify potential air threats.  
 
-*(Insert Satellite Image Here)*
-
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/minakh_heliport.png)
 ---
 
 #### **Target: Air Defence Academy**  
@@ -222,6 +208,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Focus **SEAD/DEAD** efforts on the neutralization of the SA-11 site.  
 
-*(Insert Satellite Image Here)*
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/bv3314.png)
 
 ---
