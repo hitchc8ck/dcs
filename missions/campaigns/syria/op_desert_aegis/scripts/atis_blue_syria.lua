@@ -1,0 +1,13 @@
+atis=ATIS:New(AIRBASE.Syria.Akrotiri, 252.200, radio.modulation.AM)
+atis:SetRadioRelayUnitName("blue_atis_relay_akrotiri")
+atis:SetTowerFrequencies({128.000, 252.000})
+atis:SetTACAN(107)
+atis:ReportZuluTimeOnly() 
+atis:Start()
+
+atis2=ATIS:New(AIRBASE.Syria.Ramat_David, 251.600, radio.modulation.AM)
+atis2:SetRadioRelayUnitName("blue_atis_relay_ramat_david")
+atis2:SetTowerFrequencies({118.600, 251.300})
+atis2:SetTACAN(84)
+atis2:ReportZuluTimeOnly() 
+atis2:Start()

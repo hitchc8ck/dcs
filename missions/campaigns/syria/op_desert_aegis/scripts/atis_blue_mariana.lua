@@ -1,0 +1,8 @@
+atis=ATIS:New(AIRBASE.MarianaIslands.Andersen_AFB, 250.400, radio.modulation.AM)
+atis:SetRadioRelayUnitName("blue_atis_relay_andersen")
+atis:SetActiveRunway("24L")
+atis:SetTowerFrequencies({126.200, 250.100})
+atis:SetTACAN(54)
+atis:AddILS(110.15, "246")
+atis:ReportZuluTimeOnly() 
+atis:Start()
