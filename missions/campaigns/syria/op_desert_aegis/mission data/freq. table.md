@@ -1,7 +1,7 @@
 # OP desert_aegis FREQUENCY TABLE
 
 # Support radio frequency table
-| **Unit**              | **Callsign** | **Frequency (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------------|----------|-----------|--------------|------------------------|
 | CBG-8 (CVN-75)        | Lone Warrior | 282.300             | AM       | 104X      | Ch. 5        | CBG-8 ATC              |
 | CBG-8 (Rec. Tanker)   | Mauler 21    | 285.100             | AM       | 105Y      | -            | CBG-8 Rec. Tanker      |
@@ -16,7 +16,7 @@
 | Tanker (KC-135)       | Taxico       | 236.600             | AM       | 48Y       | -            | Probe                  |
 
 # Squadron radio frequency table
-| **Unit**              | **Callsign** | **Frequency (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------------|----------|-----------|--------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000             | AM       | -         | -            | VFA-87 Joker 2 Flight  |
 | VFA-87 Golden Warriors| Sting 5      | 222.000             | AM       | -         | -            | VFA-87 Sting 5 Flight  |

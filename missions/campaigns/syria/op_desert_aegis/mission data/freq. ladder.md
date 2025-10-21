@@ -1,7 +1,7 @@
 # OP desert_aegis FREQUENCY LADDER
 
 # Radio freq. ladder for VFA-87 Golden Warriors
-| **Channel** | **Freq (MHz)**| **Mode** | **TACAN** | **ICLS/ILS** | **Notes** | **Channel** | **Freq(MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
+| **Channel** | **Freq**| **Mode** | **TACAN** | **ICLS/ILS** | **Notes** | **Channel** | **Freq** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
 |-----------|-------------|----|------|---------|-------------|-----------|-------------|----|-------|-------|-----------|
 | **PRI1**  | N/A         | AM | N/A  | N/A     | TOWER       | **AUX1**  | 225.000 Mhz | AM | N/A | N/A  | Joker 2   |
 | **PRI2**  | N/A         | AM | N/A  | N/A     | DEPARTURE   | **AUX2**  | 226.000 Mhz | AM | N/A | N/A  | Sting 5   |

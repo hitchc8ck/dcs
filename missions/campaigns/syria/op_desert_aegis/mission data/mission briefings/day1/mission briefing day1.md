@@ -10,7 +10,7 @@
 - **Coordinates:** 
 - **Time on Target (TOT):** 
 - **Weather Conditions:** 
-- **Mission Date/Time**
+- **Mission Date/Time** 14. March 2008
 
 **Mission Commander:** 
 **Flight Lead:** 
@@ -43,9 +43,8 @@
 - **Info**
 
 ## **7. Rules of Engagement (ROE)**
-- **Weapons Hold** on all enemy air defense and military targets until confirmed.  
-- **Avoid collateral damage** to civilian infrastructure.  
-- **Minimize exposure** to enemy radar, SAM and AAA
+- **Weapons Tight**
+- **Avoid collateral damage** 
 
 ## **8. Mission Phases**
 ### **Phase 1:**
