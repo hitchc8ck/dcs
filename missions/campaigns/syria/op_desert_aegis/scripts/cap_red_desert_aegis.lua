@@ -1,8 +1,8 @@
 -- Set up a basic system for the red side, we'll reside on Palmyra, and use GROUP objects with "red_ew" in the name as EW Radar Systems.
 local red_air = EASYGCICAP:New("Red Airwing",AIRBASE.Syria.Palmyra,"red","red_ew")
-blue_air:SetDefaultCAPGrouping(2)
-blue_air:SetMaxAliveMissions(8)
-blue_air:SetDefaultMissionRange(70)
+red_air:SetDefaultCAPGrouping(2)
+red_air:SetMaxAliveMissions(8)
+red_air:SetDefaultMissionRange(70)
 
 -- Palmyra Airbase
 red_air:AddAirwing(AIRBASE.Syria.Palmyra,"697 Squadron Palmyra")
