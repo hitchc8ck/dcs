@@ -147,7 +147,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/aleppo_airbase.png.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/aleppo_airbase.png)
 
 ---
 
