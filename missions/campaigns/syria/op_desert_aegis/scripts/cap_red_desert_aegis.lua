@@ -2,7 +2,7 @@
 local red_air = EASYGCICAP:New("Red Airwing",AIRBASE.Syria.Palmyra,"red","red_ew")
 red_air:SetDefaultCAPGrouping(2)
 red_air:SetMaxAliveMissions(8)
-red_air:SetDefaultMissionRange(70)
+red_air:SetDefaultMissionRange(50)
 
 -- Palmyra Airbase
 red_air:AddAirwing(AIRBASE.Syria.Palmyra,"697 Squadron Palmyra")
