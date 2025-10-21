@@ -1,4 +1,4 @@
-# OP valkyrie_aegis FREQUENCY TABLE
+# OP desert_aegis FREQUENCY TABLE
 
 # Support radio frequency table
 | **Unit**              | **Callsign** | **Frequency (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |

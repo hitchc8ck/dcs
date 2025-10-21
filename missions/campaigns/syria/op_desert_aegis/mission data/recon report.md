@@ -14,7 +14,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Coordinate airstrikes to degrade runway capabilities.
   - Coordinate airstrikes to degrade ammo/fuel depot.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/khalkhalal_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/khalkhalal_airbase.png)
 
 ---
 
@@ -31,7 +31,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
   - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/army_vehicle_training_ground.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/army_vehicle_training_ground.png)
 
 ---
 
@@ -51,7 +51,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Consider airstrikes on **fuel and ammunition depots** to cripple sustained air operations.  
   - Assess the feasibility of striking **power generators** to disrupt airbase operations.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/sayqal_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/sayqal_airbase.png)
 
 ---
 
@@ -66,7 +66,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
   - Consider long-range strike options to disable runways.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/palmyra_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/palmyra_airbase.png)
 
 ---
 
@@ -81,7 +81,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SEAD/DEAD** missions to target and neutralize SA-10 and EW radar systems.  
   - **Airstrikes** targeting chemical weapons and critical infrastructure if deemed necessary.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/saa_550_brigade.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/saa_550_brigade.png)
 
 ---
 
@@ -95,7 +95,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
   - Consider long-range strike options to disable runways.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/shayrat_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
 
 ---
 
@@ -109,7 +109,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Conduct **SEAD/DEAD** missions to suppress or neutralize the **SA-6 system**.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/yd7368.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/yd7368.png)
 
 ---
 
@@ -123,7 +123,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
   - Consider long-range strike options to disable runways.
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/bassel_al_assad_airport.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/bassel_al_assad_airport.png)
 
 ---
 
@@ -135,7 +135,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/jirah_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/jirah_airbase.png)
 
 ---
 
@@ -147,7 +147,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/aleppo_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/aleppo_airbase.png)
 
 ---
 
@@ -162,7 +162,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Neutralize the **SA-6 SAM system** through **SEAD** operations.  
   - Monitor **heliport** activities to identify potential air threats.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/minakh_heliport.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/minakh_heliport.png)
 ---
 
 #### **Target: Air Defence Academy**  
@@ -182,7 +182,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Identify and assess **AAA and artillery positions** for potential strikes.  
   - Consider airstrikes on **logistical nodes** to disrupt resupply and force relocation of air defense assets.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/air_defence_academy.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/air_defence_academy.png)
 
 ---
 
@@ -199,7 +199,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Consider precision strikes on **C2 infrastructure** to disrupt regional air defense coordination.  
 
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/druayhim_military_base.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/druayhim_military_base.png)
 
 ---
 
@@ -211,6 +211,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - Focus **SEAD/DEAD** efforts on the neutralization of the SA-11 site.  
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/bv3314.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/bv3314.png)
 
 ---

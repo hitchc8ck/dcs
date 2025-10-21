@@ -1,4 +1,4 @@
-# OP valkyrie_aegis FREQUENCY LADDER
+# OP desert_aegis FREQUENCY LADDER
 
 # Radio freq. ladder for VFA-87 Golden Warriors
 | **Channel** | **Freq (MHz)**| **Mode** | **TACAN** | **ICLS/ILS** | **Notes** | **Channel** | **Freq(MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |

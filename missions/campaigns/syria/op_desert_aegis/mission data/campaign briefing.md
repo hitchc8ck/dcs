@@ -1,4 +1,4 @@
-# CAMAPGIN OPERATION BRIEFING: OP valkyrie_aegis
+# CAMAPGIN OPERATION BRIEFING: OP desert_aegis
 ## **Mission Overview**
 ### **Situation**
 Syria has initiated aggressive military preparations with the intent to annex Lebanon, claiming historical territorial rights. NATO forces have been deployed to support Lebanon in repelling this invasion and maintaining regional stability. The region is experiencing heightened tensions, with Syrian leadership making public statements justifying their expansionist goals, citing historical claims and perceived regional security threats. Diplomatic efforts have failed, and intelligence suggests that Syrian forces are mobilizing for a large-scale cross-border invasion.
@@ -10,7 +10,7 @@ Lebanese defenses are stretched thin, with their military relying on a combinati
 Regional allies and neutral parties are closely monitoring the situation. There is concern that Hezbollah or other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
 
 ### **Situation Overview**
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/op_overview.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/op_overview.png)
 
 ## **Enemy Forces (Syria)**
 ### **Command and Control**

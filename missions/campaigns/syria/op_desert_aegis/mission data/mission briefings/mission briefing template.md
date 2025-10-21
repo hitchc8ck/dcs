@@ -1,4 +1,4 @@
-# **Mission Briefing: Operation valkyrie_aegis - Day 1**
+# **Mission Briefing: Operation desert_aegis - Day 1**
 
 ## **1. Mission Overview**
 - **SITREP UPDATE:** 
@@ -48,4 +48,4 @@
 
 ## **8. Success Criteria**
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_valkyrie_aegis/mission%20data/images/air_defence_academy.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/air_defence_academy.png)
