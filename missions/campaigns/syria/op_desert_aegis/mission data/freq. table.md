@@ -4,9 +4,9 @@
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------------|----------|-----------|--------------|------------------------|
 | CBG-8 (CVN-75)        | Lone Warrior | 282.300             | AM       | 104X      | Ch. 5        | CBG-8 ATC              |
-| CBG-8 (Rec. Tanker)   | Mauler 21    | 285.100             | AM       | 105Y      | -            | CBG-8 Rec. Tanker      |
+| CBG-8 (Rec. Tanker)   | Mauler       | 285.100             | AM       | 105Y      | -            | CBG-8 Rec. Tanker      |
 | CBG-5 (CVN-73)        | Warfighter   | 256.700             | AM       | 102X      | Ch. 2        | CBG-5 ATC              |
-| CBG-5 (Rec. Tanker)   | -            | 251.400             | AM       | 103Y      | -            | CBG-8 Rec.Tanker       |
+| CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400             | AM       | 103Y      | -            | CBG-8 Rec.Tanker       |
 | Akrotiri              | -            | 252.000             | AM       | 107X      | 109.70       | Akrotiri Airbase       |
 | Ramat David           | -            | 251.300             | AM       | 84X       | 111.10       | Ramat David Airbase    |
 | AWACS (E-2D)          | FOCUS        | 231.300             | AM       | -         | -            | Airborne Control       |
