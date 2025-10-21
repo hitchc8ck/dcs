@@ -43,5 +43,5 @@ blue_air:AddRejectZone(ZONE_POLYGON:New( "red_border", GROUP:FindByName( "red_bo
 -- local BlueNoGoZone = ZONE_POLYGON:New( "blue_border", GROUP:FindByName( "blue_border" ) )
 -- BlueNoGoZone:DrawZone(-1,{1,0,0},1,FillColor,FillAlpha,4,true)
 
-blue_air.debug = true -- log information
-blue_air.Monitor = true -- show some statistics on screen
+-- blue_air.debug = true -- log information
+-- blue_air.Monitor = true -- show some statistics on screen
