@@ -104,11 +104,11 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **(if engaged) Engage enemy air targets**
 ### **Phase 4:**
 - **Egress to WP5**
-- **Return to CVN-73 via WP6**
+- **Return to CVN-73 (WF) via WP6**
 - **(if required) AAR at Shell21**
 - **(if required) Divert to Ramat David AFB if required**
 ### **Phase 5:**
-- **CASE I recovery on CVN-73**
+- **Expect Case I recovery on CVN-73 (WF)**
 
 ## **9. Target Information**
 - **Target:** Runway of Shayrat Airbase TGT1
