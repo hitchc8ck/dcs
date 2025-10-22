@@ -60,7 +60,7 @@
 | 179th Bulldogs        | Weasel 3     | 227.000             | AM       | | -         | -            | 179th Weasel 3 Flight  |
 
 ## **6. Flight Plan:**
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/combatflite/desert_aegis_day0.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.cf
 
