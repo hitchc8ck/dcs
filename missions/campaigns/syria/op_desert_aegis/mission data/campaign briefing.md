@@ -1,4 +1,4 @@
-# CAMAPGIN OPERATION BRIEFING: OP desert_aegis
+# CAMAPGIN OPERATION BRIEFING: OP Sesert Aegis
 ## **Mission Overview**
 ### **Situation**
 Syria has initiated aggressive military preparations with the intent to annex Lebanon, claiming historical territorial rights. NATO forces have been deployed to support Lebanon in repelling this invasion and maintaining regional stability. The region is experiencing heightened tensions, with Syrian leadership making public statements justifying their expansionist goals, citing historical claims and perceived regional security threats. Diplomatic efforts have failed, and intelligence suggests that Syrian forces are mobilizing for a large-scale cross-border invasion.
@@ -70,7 +70,7 @@ Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cypru
 - **Ramat David Airbase:**
   - **F-16C Fighting Falcons** – **Multirole fighter** for **air superiority** and **SEAD/DEAD**  
   - **F-15E Strike Eagles** – **Multirole figther** for **air superiority** and **precision strikes**.  
-
+  - **KC-130 Tankers**
 ### **Strategic Bomber Support**
 - **B-1B Lancer** and **B-52 Stratofortress** bombers are available for strategic airstrikes.
 - **Long-range precision strikes** include:
@@ -122,7 +122,6 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
 4. **Counter-Offensive Preparation:** Establish a defensive line and prepare for counterattacks against Syrian forces.
 5. **Protect Lebanese Sovereignty:** Prevent Syrian forces from breaching Lebanese territory.
 6. **Monitor and Counter Insurgent Threats:** Be prepared for non-state actors attempting to exploit the conflict.
-7. **Enforce No-Fly Zone:** Be prepared for non-state actors attempting to exploit the conflict.
 
 ### **No-Fly Zone Enforcement**
 NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syrian Air Force operations. However, Syrian forces continue to challenge this restriction, conducting flights from their airbases in Palmyra, Jirah and Tabqa and maintaining aerial control over their own territory. **Mission-critical objectives include enforcing the NFZ, neutralizing Syrian air threats, and establishing NATO air superiority.** Carrier-based and land-based CAP (Combat Air Patrol) missions are being conducted to intercept and engage non-compliant Syrian aircraft when necessary.
