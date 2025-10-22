@@ -55,8 +55,8 @@
 ## **6. Squadron radio frequency table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS** | **VOCA/VOCB** | **YARDSTICK** | **Notes**              |
 |-----------------------|--------------|---------------|----------|----------|---------------|---------------|------------------------|
-| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       |          | 121/122       |               | VFA-87 Joker 2 Flight  |
-| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       |          | 121/123       |               | VFA-87 Sting 5 Flight  |
+| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       |          | 131/132       |               | VFA-87 Joker 2 Flight  |
+| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       |          | 133/134       |               | VFA-87 Sting 5 Flight  |
 | 494th Panthers        | Dodge 3      | 224.000       | AM       |          |               |               | 494th Dodge 6 Flight   |
 | 494th Panthers        | Dodge 6      | 225.000       | AM       |          |               |               | 494th Dodge 3 Flight   |
 | 179th Bulldogs        | Weasel 1     | 226.000       | AM       |          |               |               | 179th Weasel 1 Flight  |
@@ -74,7 +74,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Transition to traingsarea**
 ### **Phase 3:**
 - **Weapon training:**
-    - **2x MK83 on Marked cargo container at Farallon de Medinilla**
+    - **2x MK83 on mrked cargo container at Farallon de Medinilla**
 ### **Phase 4:**
 - **Transition to CVN-73**
 ### **Phase 5:**
@@ -83,14 +83,15 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ## **9. Target Information:**
 - **Marked cargo container at Farallon de Medinilla**
 
-### **Satelite Picture**
-- **N/A**
-### **Enemy Threats:**
+### **10. Satelite Picture**
 - **N/A**
 
-## **10. Rules of Engagement (ROE)**
+### **11. Enemy Threats:**
+- **N/A**
+
+## **12. Rules of Engagement (ROE)**
 - **Weapons Hold**
 - **Avoid collateral damage**
 
-## **11. Success Criteria**
+## **13. Success Criteria**
 - **100% of all flights land on CVN-73(CBG-5)**
