@@ -1,21 +1,23 @@
-# **Mission Briefing: Operation Desert Aegis - Day 1**
+# **Mission Briefing: Operation Desert Aegis - Day 0**
 
 ## **1. SITREP Update**
 - **NO INFO YET**
 
 ## **2. Mission Overview**
-- **Mission Date/Time** 7. January 2008 0630L/2030Z
-- **Objective:** Transferflight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla
-- **Target:** Marked cargo container at Farallon de Medinilla
-- **Coordinates:** MGRS GRID: 55 Q CT 99308 71105
-- **Time on Target (TOT):** N/A
-- **Weather Conditions:** QHN 31.12, 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C 
-- **Expected BRC**: 274°
-- **Expected RW NAS Anderson AFB**: 24L
-- **Bullseye/Rock**: MGRS GRID: 55 P CT 73383 12975 (VFA-87: WP2)
+- **Mission Date/Time 7. January 2008 0630L/2030Z**
+- **Objective: Transferflight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla**
+- **Target: Marked cargo container at Farallon de Medinilla**
+- **Target Coordinates: MGRS GRID: 55 Q CT 99308 71105**
+- **Time on Target (TOT): N/A**
+- **Time on Station (TOS): N/A**
+- **Weather Conditions: 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C**
+- **QNH: 3104**
+- **Expected BRC: 274°**
+- **Expected RW NAS Anderson AFB: 24L**
+- **Bullseye/Rock: MGRS GRID: 55 P CT 73383 12975 (VFA-87: WP2)**
 
-**Mission Commander:** hitchcock
-**Flight Lead:** hitchcock
+**Mission Commander: hitchcock**
+**Flight Lead: hitchcock**
 
 ## **3. Weapon Loadout**
 - **3x fuel bag**
