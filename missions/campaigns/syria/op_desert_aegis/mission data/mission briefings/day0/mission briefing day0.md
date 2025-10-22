@@ -18,7 +18,7 @@
 
 ## **4. A/C Weapon Loadouts**
 #### 4.1 VFA-87 Golden Warriors Loadout 
-| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
+| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
 | AIM-9X        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK83          | AIM-9X         |
 
@@ -60,20 +60,21 @@
 
 ## **7. Flight Plan**
 - **Weather Conditions:** 263° at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C  
-- **QNH:** 3104 *(check if intended — usually around 1013 hPa)*  
+- **QNH:** 3104
 - **Carrier Ops:**  
     - **CASE I Recovery**  
     - **Expected BRC:** 274°  
 - **Expected Runway:**  
-    - **NAS Andersen AFB: 24L**
+    - **NAS Andersen AFB:** 24L
 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | TO       | -                            | -                              | -             | Andersen AFB    |
-| #2           | FENCE    | -                            | -                              | -             | -               |
-| #3           | IP       | -                            | -                              | -             | -               |
-| #4           | TGT      | N16°01'03.19" E146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet      | -               |
-| #5           | LND      | -                            | -                              | -             | CVN-73 (GW)     |
+| #2           | RDVZ     | -                            | -                              | -             | -               |
+| #3           | FENCE    | -                            | -                              | -             | -               |
+| #4           | IP       | -                            | -                              | -             | -               |
+| #5           | TGT      | N16°01'03.19" E146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet      | -               |
+| #6           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day0/desert_aegis_day0.png)
 
@@ -90,13 +91,13 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **Phase 4:**
 - **Transition to CVN-73**
 ### **Phase 5:**
-- **CASE I landing on CVN-73**
+- **CASE I recovery on CVN-73**
 
 ## **9. Target Information**
 - **Target:** Marked cargo container at Farallon de Medinilla  
 - **Target Coordinates:** MGRS GRID: 55 Q CT 99308 71105  
-- **Time on Target (TOT):** N/A  
-- **Time on Station (TOS):** N/A  
+- **Time on Station (TOS):** N/A
+- **Time on Target (TOT):** N/A 
 
 ### **10. Satellite Picture**
 - **N/A**
