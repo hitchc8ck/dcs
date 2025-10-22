@@ -19,11 +19,11 @@
 **Flight Lead:** hitchcock
 
 ## **3. Weapon Loadout**
-3x fuel bag
-2x MK83 unguided bomb
-1x AIM-120c
-1x AIM-9x
-1x ATFLIR
+- **3x fuel bag**
+- **2x MK83 unguided bomb**
+- **1x AIM-120c**
+- **1x AIM-9x**
+- **1x ATFLIR**
 
 ## **3. Flight Roster**
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes** |
@@ -60,7 +60,7 @@
 | 179th Bulldogs        | Weasel 3     | 227.000             | AM       | | -         | -            | 179th Weasel 3 Flight  |
 
 ## **6. Flight Plan:**
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day0/desert_aegis_day0.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.cf
 
@@ -81,7 +81,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Marked cargo container at Farallon de Medinilla**
 
 ### **Satelite Picture**
-**N/A**
+-  **N/A**
 ### **Enemy Threats:**
 - **N/A**
 
