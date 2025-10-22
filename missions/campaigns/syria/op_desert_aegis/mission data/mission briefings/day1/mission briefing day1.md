@@ -68,6 +68,8 @@
 - **Expected Runway:**  
     - **RAF Akrotiri AFB:** 28
     - **Ramat David AFB:** 33
+- **Time on Station (TOS):** 0707Z / 0907L
+- **Time on Target (TOT):** N/A
 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
@@ -108,31 +110,21 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **CASE I recovery on CVN-73**
 ## **9. Target Information**
 - **Target:** Runway of Shayrat Airbase TGT1
-- **Target Coordinates:** Lat Long Precise: N34°29'36.60" E36°53'49.95" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°29'36.60" E36°53'49.95" at 2638 feet
 - **Target:** Runway of Shayrat Airbase TGT2
-- **Target Coordinates:** Lat Long Precise: N34°29'29.68" E36°54'11.70" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°29'29.68" E36°54'11.70" at 2638 feet
 - **Target:** Runway of Shayrat Airbase TGT3
-- **Target Coordinates:** Lat Long Precise: N34°29'16.70" E36°54'52.60" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°29'16.70" E36°54'52.60" at 2638 feet
 - **Target:** Runway of Shayrat Airbase TGT4
-- **Target Coordinates:** Lat Long Precise: N34°29'09.46" E36°55'15.57" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°29'09.46" E36°55'15.57" at 2638 feet
 - **Target:** Ammo Storage of Shayrat Airbase TGT5
-- **Target Coordinates:** Lat Long Precise: N34°30'05.03" E36°54'20.32" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°30'05.03" E36°54'20.32" at 2638 feet
 - **Target:** Admin Building of Shayrat Airbase TGT6
-- **Target Coordinates:** Lat Long Precise: N34°29'44.12" E36°55'04.07" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°29'44.12" E36°55'04.07" at 2638 feet
 - **Target:** A/C Shelter Storage of Shayrat Airbase TGT7
-- **Target Coordinates:** Lat Long Precise: N34°29'55.75" E36°53'28.86" at 2638 feet
-
+    - **Target Coordinates:** Lat Long Precise: N34°29'55.75" E36°53'28.86" at 2638 feet
 - **Target:** Ammo Storage of Shayrat Airbase TGT8
-- **Target Coordinates:** Lat Long Precise: N34°29'00.95" E36°55'18.43" at 2638 feet
-
-- **Time on Station (TOS):** 0707Z / 0907L
-- **Time on Target (TOT):** N/A
+    - **Target Coordinates:** Lat Long Precise: N34°29'00.95" E36°55'18.43" at 2638 feet
 
 ### **10. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
@@ -149,7 +141,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **AAA**
 
 ## **12. Rules of Engagement (ROE)**
-- **Weapons Tight**  
+- **Weapons Tight**
 - **Avoid collateral damage**
 
 ## **13. Success Criteria**

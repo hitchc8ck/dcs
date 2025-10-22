@@ -66,6 +66,8 @@
     - **Expected BRC:** 274°  
 - **Expected Runway:**  
     - **NAS Andersen AFB:** 24L
+- **Time on Station (TOS):** N/A
+- **Time on Target (TOT):** N/A 
 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
@@ -95,9 +97,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 
 ## **9. Target Information**
 - **Target:** Marked cargo container at Farallon de Medinilla  
-- **Target Coordinates:** MGRS GRID: 55 Q CT 99308 71105  
-- **Time on Station (TOS):** N/A
-- **Time on Target (TOT):** N/A 
+    - **Target Coordinates:** MGRS GRID: 55 Q CT 99308 71105    
 
 ### **10. Satellite Picture**
 - **N/A**
