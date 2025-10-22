@@ -42,10 +42,10 @@
 | Tanker (KC-135)       | Arco         | 236.600 Mhz   | AM       | 48Y       | -          | -            | Probe                  |
 
 ## **6. Squadron radio frequency table**
-| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK** | **Notes**             |
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK** | **Notes**              |
 |-----------------------|--------------|---------------|----------|-------------|---------------|----------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127         | 131/132       | -              | VFA-87 Joker 2 Flight  |
-| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127         | -             | -              | VFA-87 Sting 5 Flight  |
+| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127         | 131/133       | -              | VFA-87 Sting 5 Flight  |
 | 494th Panthers        | Dodge 3      | 224.000       | AM       | -           | -             | -              | 494th Dodge 6 Flight   |
 | 494th Panthers        | Dodge 6      | 225.000       | AM       | -           | -             | -              | 494th Dodge 3 Flight   |
 | 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -           | -             | -              | 179th Weasel 1 Flight  |
