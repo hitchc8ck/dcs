@@ -62,6 +62,8 @@
 ## **6. Flight Plan:**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/combatflite/desert_aegis_day0.png)
 
+https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.cf
+
 ## **8. Mission Phases**
 ### **Phase 1:**
 - **Takeoff from NAS Andersen AFB**
