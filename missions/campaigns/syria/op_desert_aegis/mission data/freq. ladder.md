@@ -14,8 +14,8 @@
 | **PRI9**  | N/A         | AM | N/A  | N/A     | N/A         | **AUX9**  | N/A         | AM | N/A | N/A  | N/A       |
 | **PRI10** | N/A         | AM | N/A  | N/A     | N/A         | **AUX10** | 237.100 Mhz | AM | 41Y | N/A  | TEXACO 71 |
 | **PRI11** | 231.300 Mhz | AM | N/A  | N/A     | FOCUS31     | **AUX11** | 233.000 Mhz | AM | 44Y | N/A  | SHELL 21  |
-| **PRI12** | 231.400 Mhz | AM | N/A  | N/A     | DARKSTAR41  | **AUX12** | 285.100 Mhz | AM | N/A | N/A  | MAULER X1 |
-| **PRI13** | N/A         | AM | N/A  | N/A     | N/A         | **AUX13** | 251.400 Mhz | AM | N/A | N/A  | BLOODHOUND X1 |
+| **PRI12** | 231.400 Mhz | AM | N/A  | N/A     | DARKSTAR41  | **AUX12** | 285.100 Mhz | AM | N/A | N/A  | MAULER 11 |
+| **PRI13** | N/A         | AM | N/A  | N/A     | N/A         | **AUX13** | 251.400 Mhz | AM | N/A | N/A  | BLOODHOUND 61 |
 | **PRI14** | N/A         | AM | N/A  | N/A     | N/A         | **AUX14** | N/A         | AM | N/A | N/A  | N/A       |
 | **PRI15** | N/A         | AM | N/A  | N/A     | Approach    | **AUX15** | N/A         | AM | N/A | N/A  | N/A       |
 | **PRI16** | 256.700 Mhz | AM | 102X | CH. 2   | Marshal CVN5| **AUX16** | N/A         | AM | N/A | N/A  | N/A       |
