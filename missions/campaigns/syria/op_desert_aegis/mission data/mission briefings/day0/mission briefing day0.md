@@ -11,7 +11,7 @@
 
 ## **3. Weapon Loadout**
 - **3x FUEL BAG**
-- **2x MK83 UNGUIDED BOMBS**
+- **2x MK83 UNGUIDED BOMBS - NOSE FUZE: PLUGGED - TAIL FUZE: FMU-152 (AD: 4S - FD: 0S)**
 - **1x AIM-120c**
 - **1x AIM-9x**
 - **1x ATFLIR**
@@ -24,31 +24,31 @@
 | Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     |                |
 
 ## **5. Support radio frequency table**
-| **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
-|-----------------------|--------------|---------------|----------|-----------|--------------|------------------------|
-| CBG-5 (CVN-73)        | Warfighter   | 256.700 Mhz   | AM       | 102X      | Ch. 2        | CBG-5 ATC              |
-| CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400 Mhz   | AM       | 103Y      | -            | CBG-8 Rec.Tanker       |
-| CBG-8 (CVN-75)        | Lone Warrior | 282.300 Mhz   | AM       | 104X      | Ch. 5        | CBG-8 ATC              |
-| CBG-8 (Rec. Tanker)   | Mauler       | 285.100 Mhz   | AM       | 105Y      | -            | CBG-8 Rec. Tanker      |
-| Akrotiri              | -            | 252.000 Mhz   | AM       | 107X      | 109.70       | Akrotiri AFB           |
-| Akrotiri ATIS         | -            | 252.200 Mhz   | AM       | -         |              | Akrotiri AFB ATIS      |
-| Ramat David           | -            | 251.300 Mhz   | AM       | 84X       | 111.10       | Ramat David AFB        |
-| Ramat David ATIS      | -            | 251.600 Mhz   | AM       | -         | -            | Ramat David AFB ATIS   |
-| AWACS (E-2D)          | FOCUS        | 231.300 Mhz   | AM       | -         | -            | Airborne Control       |
-| AWACS (E-3)           | DARKSTAR     | 231.400 Mhz   | AM       | -         | -            | Airborne Control       |
-| Tanker (KC-135MPRS)   | Texaco       | 237.100 Mhz   | AM       | 41Y       | -            | Drogue                 |
-| Tanker (KC-130)       | Shell        | 233.000 Mhz   | AM       | 44Y       | -            | Drogue                 |
-| Tanker (KC-135)       | Arco         | 236.600 Mhz   | AM       | 48Y       | -            | Probe                  |
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
+|-----------------------|--------------|---------------|----------|-----------|------------|--------------|------------------------|
+| CBG-5 (CVN-73)        | Warfighter   | 256.700 Mhz   | AM       | 102X      | 331.0      | Ch. 2        | CBG-5 ATC              |
+| CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400 Mhz   | AM       | 103Y      | -          | -            | CBG-8 Rec.Tanker       |
+| CBG-8 (CVN-75)        | Lone Warrior | 282.300 Mhz   | AM       | 104X      | 333.0      | Ch. 5        | CBG-8 ATC              |
+| CBG-8 (Rec. Tanker)   | Mauler       | 285.100 Mhz   | AM       | 105Y      | -          | -            | CBG-8 Rec. Tanker      |
+| Akrotiri              | -            | 252.000 Mhz   | AM       | 107X      | -          | 109.70       | Akrotiri AFB           |
+| Akrotiri ATIS         | -            | 252.200 Mhz   | AM       | -         | -          |              | Akrotiri AFB ATIS      |
+| Ramat David           | -            | 251.300 Mhz   | AM       | 84X       | -          | 111.10       | Ramat David AFB        |
+| Ramat David ATIS      | -            | 251.600 Mhz   | AM       | -         | -          | -            | Ramat David AFB ATIS   |
+| AWACS (E-2D)          | FOCUS        | 231.300 Mhz   | AM       | -         | -          | -            | Airborne Control       |
+| AWACS (E-3)           | DARKSTAR     | 231.400 Mhz   | AM       | -         | -          | -            | Airborne Control       |
+| Tanker (KC-135MPRS)   | Texaco       | 237.100 Mhz   | AM       | 41Y       | -          | -            | Drogue                 |
+| Tanker (KC-130)       | Shell        | 233.000 Mhz   | AM       | 44Y       | -          | -            | Drogue                 |
+| Tanker (KC-135)       | Arco         | 236.600 Mhz   | AM       | 48Y       | -          | -            | Probe                  |
 
 ## **6. Squadron radio frequency table**
-| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS** | **VOCA/VOCB** | **YARDSTICK** | **Notes**              |
-|-----------------------|--------------|---------------|----------|----------|---------------|---------------|------------------------|
-| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       |          | 131/132       |               | VFA-87 Joker 2 Flight  |
-| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       |          | 133/134       |               | VFA-87 Sting 5 Flight  |
-| 494th Panthers        | Dodge 3      | 224.000       | AM       |          |               |               | 494th Dodge 6 Flight   |
-| 494th Panthers        | Dodge 6      | 225.000       | AM       |          |               |               | 494th Dodge 3 Flight   |
-| 179th Bulldogs        | Weasel 1     | 226.000       | AM       |          |               |               | 179th Weasel 1 Flight  |
-| 179th Bulldogs        | Weasel 3     | 227.000       | AM       |          |               |               | 179th Weasel 3 Flight  |
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK** | **Notes**             |
+|-----------------------|--------------|---------------|----------|-------------|---------------|----------------|------------------------|
+| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127         | 131/132       | -              | VFA-87 Joker 2 Flight  |
+| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127         | -             | -              | VFA-87 Sting 5 Flight  |
+| 494th Panthers        | Dodge 3      | 224.000       | AM       | -           | -             | -              | 494th Dodge 6 Flight   |
+| 494th Panthers        | Dodge 6      | 225.000       | AM       | -           | -             | -              | 494th Dodge 3 Flight   |
+| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -           | -             | -              | 179th Weasel 1 Flight  |
+| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -           | -             | -              | 179th Weasel 3 Flight  |
 
 ## **7. Flight Plan:**
 - **Weather Conditions: 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C**
