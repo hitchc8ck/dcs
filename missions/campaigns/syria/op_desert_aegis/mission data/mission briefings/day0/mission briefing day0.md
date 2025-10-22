@@ -11,7 +11,8 @@
 
 ## **3. Weapon Loadout**
 - **3x FUEL BAG**
-- **2x MK83 UNGUIDED BOMBS - NOSE FUZE: PLUGGED - TAIL FUZE: FMU-152 (AD: 4S - FD: 0S)**
+- **2x MK83 UNGUIDED BOMBS** 
+    - **NOSE FUZE: PLUGGED - TAIL FUZE: FMU-152 (AD: 4S - FD: 0S)**
 - **1x AIM-120c**
 - **1x AIM-9x**
 - **1x ATFLIR**
