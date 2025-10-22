@@ -7,18 +7,6 @@
 - **Mission Date/Time 7. January 2008 0630L/2030Z**
 - **Location: Mariana**
 - **Objective: Transferflight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla**
-- **Bullseye/Rock: MGRS GRID: 55 P CT 73383 12975 (VFA-87: WP2)**
-- **Target: Marked cargo container at Farallon de Medinilla**
-- **Target Coordinates: MGRS GRID: 55 Q CT 99308 71105**
-- **Time on Target (TOT): N/A**
-- **Time on Station (TOS): N/A**
-- **Weather Conditions: 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C**
-- **QNH: 3104**
-- **Carrier Ops:**
-    - **CASE I Recovery**
-    - **Expected BRC: 274°**
-- **Expected Runway:** 
-    - **NAS Anderson AFB: 24L**
 - **Mission Commander: hitchcock**
 
 ## **3. Weapon Loadout**
@@ -63,6 +51,22 @@
 | 179th Bulldogs        | Weasel 3     | 227.000       | AM       |          |               |               | 179th Weasel 3 Flight  |
 
 ## **7. Flight Plan:**
+- **Weather Conditions: 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C**
+- **QNH: 3104**
+- **Carrier Ops:**
+    - **CASE I Recovery**
+    - **Expected BRC: 274°**
+- **Expected Runway:** 
+    - **NAS Anderson AFB: 24L**
+
+| **Waypoint** | **Name** | **LAT/LONG Precise**           | **MGRS**                       | **Elevation**| **Notes** |
+|--------------|----------|--------------------------------|--------------------------------|--------------|-----------|
+| #1           | TO       | -                              | -                              | -            | And. AFB  |
+| #2           | FENCE    | -                              | -                              | -            | -         |
+| #3           | IP       | -                              | -                              | -            | -         |
+| #4           | TGT      | N 16°01'03.19" E 146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet     | -         |
+| #5           | LND      | -                              | -                              | -            | -         |
+
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day0/desert_aegis_day0.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.cf
@@ -81,7 +85,10 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **CASE I landing on CVN-73**
 
 ## **9. Target Information:**
-- **Marked cargo container at Farallon de Medinilla**
+- **Target: Marked cargo container at Farallon de Medinilla**
+- **Target Coordinates: MGRS GRID: 55 Q CT 99308 71105**
+- **Time on Target (TOT): N/A**
+- **Time on Station (TOS): N/A**
 
 ### **10. Satelite Picture**
 - **N/A**
