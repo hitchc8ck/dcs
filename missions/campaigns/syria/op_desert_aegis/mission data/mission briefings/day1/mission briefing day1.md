@@ -100,7 +100,9 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **B-52H will drop their AGM-86 ALCM 100NM from the target area**
 - **Climb to angels 35 and speed up toM0.8**
 - **Weapons deployment:**
-    - **Drop 8 JSOW's at runway, SA-2 (4 JSOW's) and A/C shelter (4 JSOW's)**
+    - **Drop 8 JSOW's at runway**
+    - **SA-2 (4 JSOW's)**
+    - **A/C shelter (4 JSOW's)**
 - **(if engaged) Engage enemy air targets**
 ### **Phase 4:**
 - **Egress to WP5**
@@ -123,9 +125,9 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
     - **Target Coordinates:** Lat Long Precise: N34°30'05.03" E36°54'20.32" at 2638 feet
 - **Target:** Admin Building of Shayrat Airbase TGT6
     - **Target Coordinates:** Lat Long Precise: N34°29'44.12" E36°55'04.07" at 2638 feet
-- **Target:** A/C Shelter Storage of Shayrat Airbase TGT7
+- **Target:** A/C Shelter of Shayrat Airbase TGT7
     - **Target Coordinates:** Lat Long Precise: N34°29'55.75" E36°53'28.86" at 2638 feet
-- **Target:** Ammo Storage of Shayrat Airbase TGT8
+- **Target:** A/C Shelter of Shayrat Airbase TGT8
     - **Target Coordinates:** Lat Long Precise: N34°29'00.95" E36°55'18.43" at 2638 feet
 
 ### **10. Satellite Picture**
@@ -134,9 +136,9 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **11. Enemy Threats**
 #### 11.1 Air Threats
 - **Mig-29**
-- **MiG-25**
-- **MiG-23**
-- **MiG-21**
+- **Mig-25**
+- **Mig-23**
+- **Mig-21**
 #### 11.2 Ground Threats
 - **SA-11**
 - **SA-15**
