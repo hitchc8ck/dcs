@@ -9,8 +9,15 @@
 - **Objective: Transfer flight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla**
 - **Mission Commander: hitchcock**
 
-## **3. Weapon Loadout**
+## **3. Flight Roster**
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|----------------|
+| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | Flight Lead    | 
+| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      |                |
+| Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     |                |
 
+## **4. A/C Weapon Loadout's**
+## ** VFA-87 Golden Warriors Loadout **
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** |  **Station 1** |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
 | AIM-9x        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        |  FUEL BAG     | MK83          | AIM-9x         |
@@ -20,13 +27,6 @@
     - **TAIL FUZE: FMU-152** 
     - **AD: 4S** 
     - **FD: 0S**
-
-## **4. Flight Roster**
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|----------------|
-| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | Flight Lead    | 
-| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      |                |
-| Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     |                |
 
 ## **5. Support radio frequency table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
