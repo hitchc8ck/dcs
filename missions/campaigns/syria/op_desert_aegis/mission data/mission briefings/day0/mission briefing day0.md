@@ -10,16 +10,13 @@
 - **Mission Commander: hitchcock**
 
 ## **3. Weapon Loadout**
-- **3x FUEL BAG**
-- **2x MK83 UNGUIDED BOMBS** 
-    - **NOSE FUZE: PLUGGED - TAIL FUZE: FMU-152 (AD: 4S - FD: 0S)**
-- **1x AIM-120c**
-- **1x AIM-9x**
-- **1x ATFLIR**
 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** |  **Station 1** |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
 | AIM-9x        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        |  FUEL BAG     | MK83          | AIM-9x         |
+
+- **MK83 UNGUIDED BOMBS SETTINGS** 
+    - **NOSE FUZE: PLUGGED - TAIL FUZE: FMU-152 (AD: 4S - FD: 0S)**
 
 ## **4. Flight Roster**
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
