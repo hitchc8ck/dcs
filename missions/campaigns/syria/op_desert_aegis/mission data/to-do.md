@@ -7,8 +7,8 @@
 - add transport planes to rat (DONE)
 - add AAA + Shorad to Shayrat, Bassel Al-Assad(DONE)
 - add SAM to Aleppo, Jirah (DONE)
-- add first routes of convoys
+- add first routes of convoys 
 - add atis for airports (DONE)
 - check if airboss and recovery tanker from moose is better (NOT NEEDED)
 - check if skynet had an update (DONE)
-- add SAM (SA2/SA11) for shayrat
+- add SAM (SA2/SA11) for shayrat (DONE)
