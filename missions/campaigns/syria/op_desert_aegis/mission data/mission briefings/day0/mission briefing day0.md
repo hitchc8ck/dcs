@@ -92,9 +92,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Weapons training:**
     - **2x MK83 on marked cargo container at Farallon de Medinilla**
 ### **Phase 4:**
-- **Transition to CVN-73**
-### **Phase 5:**
-- **CASE I recovery on CVN-73**
+- **Transition to CVN-73 and expect Case I recovery**
 
 ## **9. Target Information**
 - **Target:** Marked cargo container at Farallon de Medinilla  
