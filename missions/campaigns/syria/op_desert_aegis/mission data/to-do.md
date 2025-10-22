@@ -13,3 +13,4 @@
 - check if skynet had an update (DONE)
 - add SAM (SA2/SA11) for shayrat (DONE)
 - check skynet functionality (blue + red)
+- balance cap/gci script
