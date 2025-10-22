@@ -1,16 +1,15 @@
 # **Mission Briefing: Operation Desert Aegis - Day 1**
 
-## **1. Mission Overview**
-- **SITREP UPDATE:** 
+## **1. SITREP Update**
 - **NO INFO YET**
 
 ## **2. Mission Overview**
+- **Mission Date/Time** 7. January 2008 0630L/2030Z
 - **Objective:** Transferflight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla
 - **Target:** Marked cargo container at Farallon de Medinilla
 - **Coordinates:** MGRS GRID: 55 Q CT 99308 71105
 - **Time on Target (TOT):** N/A
 - **Weather Conditions:** QHN 31.12, 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C 
-- **Mission Date/Time** 7. January 2008 0630L/2030Z
 - **Expected BRC**: 274°
 - **Expected RW NAS Anderson AFB**: 24L
 - **Bullseye/Rock**: MGRS GRID: 55 P CT 73383 12975 (VFA-87: WP2)
@@ -25,14 +24,14 @@
 - **1x AIM-9x**
 - **1x ATFLIR**
 
-## **3. Flight Roster**
+## **4. Flight Roster**
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes** |
 |-----------------|--------------|--------------|----------|-----------|-----------|
 | Joker 2 | F/A-18C  | Joker 2-1 | STRIKE | hitchcock       | Flight Lead          | 
 | Joker 2 | F/A-18C  | Joker 2-2 | STRIKE | Lobo            |                      |
 | Joker 2 | F/A-18C  | Joker 2-3 | STRIKE | Timbo           |                      |
 
-## **4. Support radio frequency table**
+## **5. Support radio frequency table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------------|----------|-----------|--------------|------------------------|
 | CBG-5 (CVN-73)        | Warfighter   | 256.700 Mhz   | AM       | 102X      | Ch. 2        | CBG-5 ATC              |
@@ -49,7 +48,7 @@
 | Tanker (KC-130)       | Shell        | 233.000 Mhz   | AM       | 44Y       | -            | Drogue                 |
 | Tanker (KC-135)       | Arco         | 236.600 Mhz   | AM       | 48Y       | -            | Probe                  |
 
-## **4. Squadron radio frequency table**
+## **6. Squadron radio frequency table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS** | **TACAN** | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------------|----------|-----|-----------|--------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000             | AM       | | -         | -            | VFA-87 Joker 2 Flight  |
@@ -59,7 +58,7 @@
 | 179th Bulldogs        | Weasel 1     | 226.000             | AM       | | -         | -            | 179th Weasel 1 Flight  |
 | 179th Bulldogs        | Weasel 3     | 227.000             | AM       | | -         | -            | 179th Weasel 3 Flight  |
 
-## **6. Flight Plan:**
+## **7. Flight Plan:**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day0/desert_aegis_day0.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day0.cf
@@ -77,7 +76,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **Phase 5:**
 - **CASE I landing on CVN-73**
 
-## **6. Target Information:**
+## **9. Target Information:**
 - **Marked cargo container at Farallon de Medinilla**
 
 ### **Satelite Picture**
@@ -85,9 +84,9 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **Enemy Threats:**
 - **N/A**
 
-## **7. Rules of Engagement (ROE)**
+## **10. Rules of Engagement (ROE)**
 - **Weapons Hold**
 - **Avoid collateral damage**
 
-## **9. Success Criteria**
+## **11. Success Criteria**
 - **100% of all flights land on CVN-73(CBG-5)**
