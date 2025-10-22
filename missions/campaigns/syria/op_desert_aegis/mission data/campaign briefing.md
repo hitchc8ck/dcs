@@ -7,7 +7,7 @@ The Syrian military has amassed a significant force near the Lebanese border, po
 
 Lebanese defenses are stretched thin, with their military relying on a combination of entrenched defensive positions and mobile response units to delay the Syrian advance until NATO reinforcements can be fully operational. Lebanese government officials have issued emergency declarations and are coordinating closely with NATO for strategic planning and logistical support.
 
-Regional allies and neutral parties are closely monitoring the situation. There is concern that Hezbollah or other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
+Regional allies and neutral parties are closely monitoring the situation. There is concern that other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
 
 ### **Situation Overview**
 Update Overview
