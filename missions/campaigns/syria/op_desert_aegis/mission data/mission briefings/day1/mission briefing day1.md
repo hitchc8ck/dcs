@@ -98,11 +98,10 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Transition to FENCE with B-52H's**
 ### **Phase 3:**
 - **B-52H will drop their AGM-86 ALCM 100NM from the target area**
-- **Climb to angels 35 and speed up toM0.8**
+- **Climb to angels 35 and speed up to M0.8**
 - **Weapons deployment:**
-    - **Drop 8 JSOW's at runway**
-    - **SA-2 (4 JSOW's)**
-    - **A/C shelter (4 JSOW's)**
+    - **Runway (8 JSOW's)**
+    - **A/C shelter (8 JSOW's)**
 - **(if engaged) Engage enemy air targets**
 ### **Phase 4:**
 - **Egress to WP5**
