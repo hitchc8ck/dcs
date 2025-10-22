@@ -94,13 +94,13 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Takeoff from CVN-73 (WF)**
 - **Transition to rondevu waypoint at 30000 feet at M0.7**
 ### **Phase 2:**
-- **Join-up at rondevu waypoint at 0707Z / 0907L with 3xB-52H at 30000 feet at M0.7**
+- **Join-up at rondevu waypoint at 0707L / 0907Z with 3xB-52H at 30000 feet at M0.7**
 - **Transition to FENCE with B-52H's**
 ### **Phase 3:**
-- **B-52H will drop their AGM-86 ALCM 100NM from the target**
-- **Climb to angels 35 at M0.8**
+- **B-52H will drop their AGM-86 ALCM 100NM from the target area**
+- **Climb to angels 35 and speed up toM0.8**
 - **Weapons deployment:**
-    - **Drop 4 JSOW's each at runway (8 JSOW's) and SA-2 (4 JSOW's)**
+    - **Drop 8 JSOW's at runway, SA-2 (4 JSOW's) and A/C shelter (4 JSOW's)**
 - **(if engaged) Engage enemy air targets**
 ### **Phase 4:**
 - **Egress to WP5**
