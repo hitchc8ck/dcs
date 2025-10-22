@@ -6,7 +6,7 @@
 ## **2. Mission Overview**
 - **Mission Date/Time 7. January 2008 0630L/2030Z**
 - **Location: Mariana**
-- **Objective: Transferflight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla**
+- **Objective: Transfer flight from NAS Andersen AFB to CVN-73 (CBG-5) with iron bomb target practice at Farallon de Medinilla**
 - **Mission Commander: hitchcock**
 
 ## **3. Weapon Loadout**
@@ -16,6 +16,10 @@
 - **1x AIM-120c**
 - **1x AIM-9x**
 - **1x ATFLIR**
+
+| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** |  **Station 1** |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
+| AIM-9x        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        |  FUEL BAG     | MK83          | AIM-9x         |
 
 ## **4. Flight Roster**
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
@@ -42,14 +46,14 @@
 | Tanker (KC-135)       | Arco         | 236.600 Mhz   | AM       | 48Y       | -          | -            | Probe                  |
 
 ## **6. Squadron radio frequency table**
-| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK** | **Notes**              |
-|-----------------------|--------------|---------------|----------|-------------|---------------|----------------|------------------------|
-| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127         | 131/132       | -              | VFA-87 Joker 2 Flight  |
-| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127         | 131/133       | -              | VFA-87 Sting 5 Flight  |
-| 494th Panthers        | Dodge 3      | 224.000       | AM       | -           | -             | -              | 494th Dodge 6 Flight   |
-| 494th Panthers        | Dodge 6      | 225.000       | AM       | -           | -             | -              | 494th Dodge 3 Flight   |
-| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -           | -             | -              | 179th Weasel 1 Flight  |
-| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -           | -             | -              | 179th Weasel 3 Flight  |
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
+|-----------------------|--------------|---------------|----------|--------------|----------------|----------------|------------------------|
+| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132        | -              | VFA-87 Joker 2 Flight  |
+| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127          | 131/133        | -              | VFA-87 Sting 5 Flight  |
+| 494th Panthers        | Dodge 3      | 224.000       | AM       | -            | -              | -              | 494th Dodge 6 Flight   |
+| 494th Panthers        | Dodge 6      | 225.000       | AM       | -            | -              | -              | 494th Dodge 3 Flight   |
+| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -              | -              | 179th Weasel 1 Flight  |
+| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -              | -              | 179th Weasel 3 Flight  |
 
 ## **7. Flight Plan:**
 - **Weather Conditions: 263 at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C**
@@ -60,13 +64,13 @@
 - **Expected Runway:** 
     - **NAS Anderson AFB: 24L**
 
-| **Waypoint** | **Name** | **LAT/LONG Precise**           | **MGRS**                       | **Elevation**| **Notes** |
-|--------------|----------|--------------------------------|--------------------------------|--------------|-----------|
-| #1           | TO       | -                              | -                              | -            | And. AFB  |
-| #2           | FENCE    | -                              | -                              | -            | -         |
-| #3           | IP       | -                              | -                              | -            | -         |
-| #4           | TGT      | N 16°01'03.19" E 146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet     | -         |
-| #5           | LND      | -                              | -                              | -            | -         |
+| **Waypoint** | **Name** | **LAT/LONG Precise**           | **MGRS**                       | **Elevation** | **Notes** |
+|--------------|----------|--------------------------------|--------------------------------|---------------|-----------|
+| #1           | TO       | -                              | -                              | -             | And. AFB  |
+| #2           | FENCE    | -                              | -                              | -             | -         |
+| #3           | IP       | -                              | -                              | -             | -         |
+| #4           | TGT      | N 16°01'03.19" E 146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet      | -         |
+| #5           | LND      | -                              | -                              | -             | -         |
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day0/desert_aegis_day0.png)
 
