@@ -14,7 +14,7 @@ Regional allies and neutral parties are closely monitoring the situation. There 
 
 ## **Enemy Forces (Syria)**
 ### **Command and Control**
-- **Palmyra and Durayhim Military Base:** Primary Syrian command and control centers overseeing air and ground operations.
+- **Command and control centers:** Primary Syrian C&C overseeing air and ground operations at Palmyra and Durayhim Military Base.
 - **Early Warning Radar Installations:** Located at **Durayhim, Palmyra, and Sayqal** to provide air defense tracking and target acquisition.
 
 ### **Air Assets**
@@ -27,11 +27,11 @@ Syrian pilots have been observed conducting aggressive flight maneuvers and inte
 
 ### **Air Defense Assets**
 Syria has deployed a formidable array of surface-to-air missile systems, including:
-- **SA-2** (Sayqal, Air Defense Academy)
+- **SA-2** (Sayqal, Air Defense Academy, Aleppo)
 - **SA-6** (Army Vehicle Training Grounds, Grid 36 S YD 73297 68825, Minakh)
 - **SA-8, SA-9, SA-13, SA-15, SA-19** (Mobile, constantly repositioned)
 - **SA-10** (Chemical Weapons Storage Area near Palmyra, Durayhim Military Base)
-- **SA-11** (Khalkhalah, Grid 37 S BV 33996 14348)
+- **SA-11** (Khalkhalah, Shayrat, Grid 37 S BV 33996 14348)
 
 NATO reconnaissance has observed that **some SA-15 systems provide point defense for key installations but are highly mobile.** Additionally, mobile **SA-8, SA-9, SA-13, and SA-19 systems are frequently moved to avoid detection.** MANPADS (Man-Portable Air Defense Systems) are expected to be deployed throughout the operational area.
 
@@ -44,7 +44,6 @@ Syria has mobilized hundreds of ground units, including:
 - **Special Forces:** Units trained for sabotage, infiltration, and asymmetric operations
 
 ## **Friendly Forces (NATO & Allies)**
-
 ### **Naval Assets**
 Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cyprus**, providing air and missile support.
 
@@ -65,9 +64,7 @@ Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cypru
   - **F-16C Fighting Falcons** – **Multirole fighter** for **air superiority** and **SEAD/DEAD**  
   - **F-15E Strike Eagles** – **Multirole figther** for **air superiority** and **precision strikes**. 
   - **E-3A AWACS** – Provides **command and control** for **airspace** and **battlefield management**.  
-  - **KC-130 & KC-135 Tankers** – **Aerial refueling** for **extended operations**.  
-
-#### **Israeli Air Force**
+  - **KC-130 & KC-135 Tankers** – **Aerial refueling** for **extended operations**. 
 
 - **Ramat David Airbase:**
   - **F-16C Fighting Falcons** – **Multirole fighter** for **air superiority** and **SEAD/DEAD**  
@@ -124,6 +121,7 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
 4. **Counter-Offensive Preparation:** Establish a defensive line and prepare for counterattacks against Syrian forces.
 5. **Protect Lebanese Sovereignty:** Prevent Syrian forces from breaching Lebanese territory.
 6. **Monitor and Counter Insurgent Threats:** Be prepared for non-state actors attempting to exploit the conflict.
+7. **Enforce No-Fly Zone:** Be prepared for non-state actors attempting to exploit the conflict.
 
 ### **No-Fly Zone Enforcement**
 NATO has formally established a **No-Fly Zone (NFZ) over Syria** to prevent Syrian Air Force operations. However, Syrian forces continue to challenge this restriction, conducting flights from their airbases in Palmyra, Jirah and Tabqa and maintaining aerial control over their own territory. **Mission-critical objectives include enforcing the NFZ, neutralizing Syrian air threats, and establishing NATO air superiority.** Carrier-based and land-based CAP (Combat Air Patrol) missions are being conducted to intercept and engage non-compliant Syrian aircraft when necessary.

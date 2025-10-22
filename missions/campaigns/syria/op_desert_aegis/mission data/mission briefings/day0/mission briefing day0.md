@@ -86,6 +86,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **Phase 1:**
 - **Takeoff from NAS Andersen AFB**
 ### **Phase 2:**
+- **Join-up at WP2 RDVZ**
 - **Transition to training area**
 ### **Phase 3:**
 - **Weapons training:**

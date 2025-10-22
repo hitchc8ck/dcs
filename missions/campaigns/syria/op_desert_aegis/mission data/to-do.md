@@ -12,3 +12,4 @@
 - check if airboss and recovery tanker from moose is better (NOT NEEDED)
 - check if skynet had an update (DONE)
 - add SAM (SA2/SA11) for shayrat (DONE)
+- check skynet functionality (blue + red)

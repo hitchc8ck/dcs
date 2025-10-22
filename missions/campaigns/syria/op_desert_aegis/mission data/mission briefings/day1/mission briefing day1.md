@@ -100,14 +100,15 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Climb to angels 35 at M0.8**
 - **Weapons deployment:**
     - **Drop 4 JSOW's each at runway (8 JSOW's) and SA-2 (4 JSOW's)**
-- **Engage enemy air targets if engaged**
+- **(if engaged) Engage enemy air targets**
 ### **Phase 4:**
 - **Egress to WP5**
 - **Return to CVN-73 via WP6**
-- **AAR if required**
-- **Divert to Ramat David AFB if required**
+- **(if required) AAR at Shell21**
+- **(if required) Divert to Ramat David AFB if required**
 ### **Phase 5:**
 - **CASE I recovery on CVN-73**
+
 ## **9. Target Information**
 - **Target:** Runway of Shayrat Airbase TGT1
     - **Target Coordinates:** Lat Long Precise: N34°29'36.60" E36°53'49.95" at 2638 feet
