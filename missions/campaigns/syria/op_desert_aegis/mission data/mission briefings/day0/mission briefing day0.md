@@ -16,7 +16,10 @@
 | AIM-9x        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        |  FUEL BAG     | MK83          | AIM-9x         |
 
 - **MK83 UNGUIDED BOMBS SETTINGS:** 
-    - **NOSE FUZE: PLUGGED - TAIL FUZE: FMU-152 (AD: 4S - FD: 0S)**
+    - **NOSE FUZE: PLUGGED MXU-735** 
+    - **TAIL FUZE: FMU-152** 
+    - **AD: 4S** 
+    - **FD: 0S**
 
 ## **4. Flight Roster**
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
