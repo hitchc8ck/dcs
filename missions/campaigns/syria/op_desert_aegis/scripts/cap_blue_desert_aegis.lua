@@ -2,7 +2,7 @@
 local blue_air = EASYGCICAP:New("Blue Airwing",AIRBASE.Syria.Akrotiri,"blue","blue_ew")
 blue_air:SetDefaultCAPGrouping(3)
 blue_air:SetMaxAliveMissions(10)
-blue_air:SetDefaultMissionRange(150)
+blue_air:SetDefaultMissionRange(50)
 
 blue_air:AddAirwing(AIRBASE.Syria.Akrotiri,"494th Panthers Akrotiri")
 blue_air:AddPatrolPointCAP(AIRBASE.Syria.Akrotiri,ZONE:FindByName("blue_cap_airspace_north"):GetCoordinate(),30000,370,70,30)
