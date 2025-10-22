@@ -1,5 +1,5 @@
 # CAMAPGIN OPERATION BRIEFING: OP Desert Aegis
-## **Mission Overview**
+## **Campaign Overview**
 ### **Situation**
 Syria has initiated aggressive military preparations with the intent to annex Lebanon, claiming historical territorial rights. NATO forces have been deployed to support Lebanon in repelling this invasion and maintaining regional stability. The region is experiencing heightened tensions, with Syrian leadership making public statements justifying their expansionist goals, citing historical claims and perceived regional security threats. Diplomatic efforts have failed, and intelligence suggests that Syrian forces are mobilizing for a large-scale cross-border invasion.
 
