@@ -4,7 +4,7 @@
 - **NO INFO YET**
 
 ## **2. Mission Overview**
-- **Mission Date/Time:** 7. January 2008 0630L / 2030Z  
+- **Mission Date/Time:** 7. January 2008 0620L / 2020Z  
 - **Location:** Mariana  
 - **Objective:** Transfer flight from NAS Andersen AFB to CVN-73 (CBG-5) with unguided bomb training at Farallon de Medinilla  
 - **Mission Commander:** hitchcock  
