@@ -4,7 +4,7 @@
 - **NO INFO YET**
 
 ## **2. Mission Overview**
-- **Mission Date/Time:** 14. March 2008 0630L / 0930Z  
+- **Mission Date/Time:** 14. March 2008 0640Z / 0640L
 - **Location:** Syria  
 - **Objective:** Combined Long Range Precision Strike with B-52H on Shayrat Airbase and provide air cover for B-52H
 - **Mission Commander:** hitchcock  
@@ -61,14 +61,15 @@
 ## **7. Flight Plan**
 - **Weather Conditions:** 263° at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C  
 - **QNH:** 29.75
-- **T/O Time:** 0650Z / 0950L
+- **T/O Time:** 0400Z / 0700L
 - **Carrier Ops:**  
-    - **CASE I Recovery**  
-    - **Expected BRC:** 174°  
-- **Expected Runway:**  
+    - **CASE III Takeoff**
+    - **CASE I Recovery**
+    - **Expected BRC:** 174°
+- **Expected Runway:**
     - **RAF Akrotiri AFB:** 28
     - **Ramat David AFB:** 33
-- **Time on Station (TOS):** 0707Z / 0907L
+- **Time on Station (TOS):** 0418Z / 0718L
 - **Time on Target (TOT):** N/A
 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
@@ -90,7 +91,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 
 ## **8. Mission Phases**
 ### **Phase 1:**
-- **Takeoff from CVN-73 (WF)**
+- **Case III takeoff from CVN-73 (WF)**
 - **Transition to rondevu waypoint at 30000 feet at M0.7**
 ### **Phase 2:**
 - **Join-up at rondevu waypoint at 0707L / 0907Z with 3xB-52H at 30000 feet at M0.7**
@@ -132,7 +133,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Threat / Target Assessment:**
   - **SA-2** detected, with capabilities to detect incoming threats at long range.
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
-  - **AAA**
+  - **AAA/SHORAD**
   - **Ammunition/Fuel/Weapon Storage**
   - Presence of ground-based artillery and heavy infantry.  
 - **Operational Plan:**  
