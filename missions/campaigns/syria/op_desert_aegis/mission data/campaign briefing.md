@@ -11,7 +11,7 @@ Regional allies and neutral parties are closely monitoring the situation. There 
 
 ### **Situation Overview**
 Update Overview
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/op_overview_new.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/op_overview_new2.png)
 
 ## **Enemy Forces (Syria)**
 ### **Command and Control**
