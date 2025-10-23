@@ -1,5 +1,4 @@
 - add commsladder (DONE)
- - check if freq are correct in-game 
  - check if used tacans are used on in-game airports (DONE)
 - add missing recon report infos (DONE)
  - add missing sat pics (DONE)
@@ -7,10 +6,12 @@
 - add transport planes to rat (DONE)
 - add AAA + Shorad to Shayrat, Bassel Al-Assad(DONE)
 - add SAM to Aleppo, Jirah (DONE)
-- add first routes of convoys 
 - add atis for airports (DONE)
 - check if airboss and recovery tanker from moose is better (NOT NEEDED)
 - check if skynet had an update (DONE)
 - add SAM (SA2/SA11) for shayrat (DONE)
 - check skynet functionality (blue + red)
 - balance cap/gci script
+- add first routes of convoys 
+- check if freq are correct in-game
+- update recon report check if things are correctly

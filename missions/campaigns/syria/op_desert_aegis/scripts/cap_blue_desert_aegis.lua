@@ -1,32 +1,38 @@
 -- Set up a basic system for the red side, we'll reside on Palmyra, and use GROUP objects with "red_ew" in the name as EW Radar Systems.
-local blue_air = EASYGCICAP:New("Blue Airwing",AIRBASE.Syria.Akrotiri,"blue","blue_ew")
-blue_air:SetDefaultCAPGrouping(3)
-blue_air:SetMaxAliveMissions(10)
-blue_air:SetDefaultMissionRange(50)
+local blue_air_akrotiri = EASYGCICAP:New("Blue Airwing",AIRBASE.Syria.Akrotiri,"blue","blue_ew")
+blue_air_akrotiri:SetDefaultCAPGrouping(3)
+blue_air_akrotiri:SetMaxAliveMissions(6)
+blue_air_akrotiri:SetDefaultMissionRange(125)
 
-blue_air:AddAirwing(AIRBASE.Syria.Akrotiri,"494th Panthers Akrotiri")
-blue_air:AddPatrolPointCAP(AIRBASE.Syria.Akrotiri,ZONE:FindByName("blue_cap_airspace_north"):GetCoordinate(),30000,370,70,30)
-blue_air:AddSquadron("blue_air_akrotiri_1","494th Panthers Akrotiri",AIRBASE.Syria.Akrotiri,14,AI.Skill.RANDOM,101)
+blue_air_akrotiri:AddAirwing(AIRBASE.Syria.Akrotiri,"494th Panthers Akrotiri")
+blue_air_akrotiri:AddPatrolPointCAP(AIRBASE.Syria.Akrotiri,ZONE:FindByName("blue_cap_airspace_north"):GetCoordinate(),30000,370,70,30)
+blue_air_akrotiri:AddSquadron("blue_air_akrotiri_1","494th Panthers Akrotiri",AIRBASE.Syria.Akrotiri,14,AI.Skill.RANDOM,101)
 
-blue_air:AddAirwing(AIRBASE.Syria.Akrotiri,"179th Bulldogs Akrotiri")
-blue_air:AddPatrolPointCAP(AIRBASE.Syria.Akrotiri,ZONE:FindByName("blue_cap_airspace_north"):GetCoordinate(),30000,370,100,30)
-blue_air:AddSquadron("blue_air_akrotiri_2","179th Bulldogs Akrotiri",AIRBASE.Syria.Akrotiri,14,AI.Skill.RANDOM,110)
+blue_air_akrotiri:AddAirwing(AIRBASE.Syria.Akrotiri,"179th Bulldogs Akrotiri")
+blue_air_akrotiri:AddPatrolPointCAP(AIRBASE.Syria.Akrotiri,ZONE:FindByName("blue_cap_airspace_north"):GetCoordinate(),30000,370,100,30)
+blue_air_akrotiri:AddSquadron("blue_air_akrotiri_2","179th Bulldogs Akrotiri",AIRBASE.Syria.Akrotiri,14,AI.Skill.RANDOM,110)
 
-blue_air:AddAirwing(AIRBASE.Syria.Ramat_David,"494th Panthers Ramat David")
-blue_air:AddPatrolPointCAP(AIRBASE.Syria.Ramat_David,ZONE:FindByName("blue_cap_airspace_south"):GetCoordinate(),30000,370,130,30)
-blue_air:AddSquadron("blue_air_ramat_david_1","494th Panthers Ramat David",AIRBASE.Syria.Ramat_David,14,AI.Skill.RANDOM,101)
+-- Set up a basic system for the red side, we'll reside on Palmyra, and use GROUP objects with "red_ew" in the name as EW Radar Systems.
+local blue_air_ramatdavid = EASYGCICAP:New("Blue Airwing",AIRBASE.Syria.Akrotiri,"blue","blue_ew")
+blue_air_ramatdavid:SetDefaultCAPGrouping(2)
+blue_air_ramatdavid:SetMaxAliveMissions(4)
+blue_air_ramatdavid:SetDefaultMissionRange(30)
 
-blue_air:AddAirwing(AIRBASE.Syria.Ramat_David,"179th Bulldogs Ramat David")
-blue_air:AddPatrolPointCAP(AIRBASE.Syria.Ramat_David,ZONE:FindByName("blue_cap_airspace_south"):GetCoordinate(),30000,370,50,30)
-blue_air:AddSquadron("blue_air_ramat_david_2","179th Bulldogs Ramat David",AIRBASE.Syria.Ramat_David,14,AI.Skill.RANDOM,110)
+blue_air_ramatdavid:AddAirwing(AIRBASE.Syria.Ramat_David,"494th Panthers Ramat David")
+blue_air_ramatdavid:AddPatrolPointCAP(AIRBASE.Syria.Ramat_David,ZONE:FindByName("blue_cap_airspace_south"):GetCoordinate(),30000,370,130,30)
+blue_air_ramatdavid:AddSquadron("blue_air_ramat_david_1","494th Panthers Ramat David",AIRBASE.Syria.Ramat_David,14,AI.Skill.RANDOM,101)
 
--- Add a couple of zones
--- We'll defend our own border
-blue_air:AddAcceptZone(ZONE_POLYGON:New( "blue_border", GROUP:FindByName( "blue_border" ) ))
--- We'll attack intruders also here - conflictzones can overlap borders(!) - limited zone of engagement
-blue_air:AddConflictZone(ZONE_POLYGON:New("red_defense_zone", GROUP:FindByName( "red_defense_zone" )))
--- We'll leave the reds alone on their turf
-blue_air:AddRejectZone(ZONE_POLYGON:New( "red_border", GROUP:FindByName( "red_border" ) ))
+blue_air_ramatdavid:AddAirwing(AIRBASE.Syria.Ramat_David,"179th Bulldogs Ramat David")
+blue_air_ramatdavid:AddPatrolPointCAP(AIRBASE.Syria.Ramat_David,ZONE:FindByName("blue_cap_airspace_south"):GetCoordinate(),30000,370,50,30)
+blue_air_ramatdavid:AddSquadron("blue_air_ramat_david_2","179th Bulldogs Ramat David",AIRBASE.Syria.Ramat_David,14,AI.Skill.RANDOM,110)
+
+-- -- Add a couple of zones
+-- -- We'll defend our own border
+-- blue_air:AddAcceptZone(ZONE_POLYGON:New( "blue_border", GROUP:FindByName( "blue_border" ) ))
+-- -- We'll attack intruders also here - conflictzones can overlap borders(!) - limited zone of engagement
+-- blue_air:AddConflictZone(ZONE_POLYGON:New("red_defense_zone", GROUP:FindByName( "red_defense_zone" )))
+-- -- We'll leave the reds alone on their turf
+-- blue_air:AddRejectZone(ZONE_POLYGON:New( "red_border", GROUP:FindByName( "red_border" ) ))
 
 -- -- **Note** If you need different tanker types, i.e. Boom and Drogue, set them up at different AirWings!
 -- -- Add a tanker point

@@ -1,4 +1,4 @@
-local rus_transport_line_airports_1={"Sayqal", "Khalkhalah", "Shayrat", "Palmyra", "Tabqa", "Minakh", "Jirah", "Bassel Al-Assad"}
+local rus_transport_line_airports_1={"Sayqal", "Khalkhalah", "Shayrat", "Palmyra", "Tabqa", "Minakh", "Jirah", "Bassel Al-Assad", "Aleppo"}
 local rus_transport_line_airports_2={"Sayqal", "Palmyra", "Aleppo", "Deir ez-Zor"}
 
 -- Create a RAT object 

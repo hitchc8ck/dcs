@@ -30,7 +30,7 @@ Syrian pilots have been observed conducting aggressive flight maneuvers and inte
 Syria has deployed a formidable array of surface-to-air missile systems, including:
 - **SA-2** (Sayqal, Air Defense Academy, Aleppo)
 - **SA-6** (Army Vehicle Training Grounds, Grid 36 S YD 73297 68825, Minakh)
-- **SA-8, SA-9, SA-13, SA-15, SA-19** (Mobile, constantly repositioned)
+- **SA-8, SA-9, SA-13, SA-15, SA-19, SA-22** (Mobile, constantly repositioned)
 - **SA-10** (Chemical Weapons Storage Area near Palmyra, Durayhim Military Base)
 - **SA-11** (Khalkhalah, Shayrat, Grid 37 S BV 33996 14348)
 
