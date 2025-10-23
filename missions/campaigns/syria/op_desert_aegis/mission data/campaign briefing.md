@@ -16,7 +16,7 @@ Update Overview
 ## **Enemy Forces (Syria)**
 ### **Command and Control**
 - **Command and control centers:** Primary Syrian C&C overseeing air and ground operations at Palmyra and Durayhim Military Base.
-- **Early Warning Radar Installations:** Located at **Durayhim, Palmyra, and Sayqal** to provide air defense tracking and target acquisition.
+- **Early Warning Radar Installations:** Located at **Durayhim, Palmyra, Sayqal and BV 3314** to provide air defense tracking and target acquisition.
 
 ### **Air Assets**
 Syria is operating a mix of Soviet-era and modern aircraft from multiple airbases:

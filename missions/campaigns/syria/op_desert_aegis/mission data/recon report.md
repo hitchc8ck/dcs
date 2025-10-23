@@ -7,12 +7,13 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Khalkhalah Airbase**  
 - **Coordinates:** 34 N KF 72710 95600  
 - **Strategic Importance:** Key regional airport supporting tactical aircraft operations.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-11 SAM system** deployed around the airfield, covering air approaches.
+  - **Possible SA-15 SAM system** providing mobile short-range air defense against precision-guided munitions and low-flying threats.
+  - **Ammunition/Fuel/Weapon Storage**
 - **Operational Plan:**  
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Coordinate airstrikes to degrade runway capabilities.
-  - Coordinate airstrikes to degrade ammo/fuel depot.
+  - Coordinate airstrikes to degrade runway capability, vehicle storage and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/khalkhalal_airbase.png)
 
@@ -21,14 +22,16 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Army Vehicle Training Ground**  
 - **Coordinates:** 45 N AJ 28923 67540  
 - **Strategic Importance:** High-value training area for armored and mechanized units; critical to the readiness of ground forces.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-6 SAM system** deployed in a defensive posture at the north and south perimeter.  
   - **AAA (Anti-Aircraft Artillery)** emplacements located along the northern and southern boundaries, covering all approach vectors.  
   - **Ground Units:** Several mechanized infantry battalions with IFV and support vehicles
   - **Activity:** Increased movement of armored vehicles, potentially indicating a large-scale exercise or a force mobilization.  
+  - **Ammunition/Fuel/Weapon Storage**
 - **Operational Plan:**  
   - **SEAD/DEAD** operations focused on neutralizing the SA-6 sites.  
   - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
+  - Coordinate airstrikes to degrade vehicle storage and ammo/fuel/weapon depot.
   - Coordinate with ground forces for a potential **combined arms assault** to disrupt the training activities if required.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/army_vehicle_training_ground.png)
@@ -38,17 +41,16 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Sayqal Airbase**  
 - **Coordinates:** 33 N DC 10537 24567  
 - **Strategic Importance:** Major airbase housing **Su-24 strike aircraft**, essential for regional bombing operations. Also serves as a key air defense and logistics hub.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-2 SAM system** deployed for long-range air defense.  
   - **SA-15 SAM system** providing mobile short-range air defense against precision-guided munitions and low-flying threats.  
   - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses.  
-  - **Fuel and Ammunition Depots** present, critical for sustained air operations.  
-  - **Generators** supporting radar and airbase infrastructure.  
   - Possible **short range defenses**, including infantry and AAA (Anti-Aircraft Artillery) positions.  
+  - **Ammunition/Fuel/Weapon Storage**
 - **Operational Plan:**  
   - **SEAD/DEAD** to neutralize **SA-2** and **SA-15** threats.  
   - Target **EW radar** through electronic warfare or direct precision strike.  
-  - Consider airstrikes on **fuel and ammunition depots** to cripple sustained air operations.  
+  - Coordinate airstrikes to degrade runway capability, vehicle storage and ammo/fuel/weapon depot.
   - Assess the feasibility of striking **power generators** to disrupt airbase operations.  
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/sayqal_airbase.png)
@@ -58,13 +60,16 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Palmyra Airbase**
 - **Coordinates:** 37 S DU 37427 24267
 - **Strategic Importance:** Primary airbase for Syrian MiG-25, MiG-29, and Su-24 operations.
-- **Threat Assessment:**
+- **Threat / Target Assessment:**
   - Hardened aircraft shelters detected.
   - SA-10 SAM site within a 10 nm radius.
   - Recent increase in aircraft activity, indicating possible upcoming sorties.
+  - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses. 
+  - **Command and Control Center** 
+  - **Ammunition/Fuel/Weapon Storage**
 - **Operational Plan:**
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Consider long-range strike options to disable runways.
+  - Coordinate airstrikes to degrade C&C, EW radar, runway capabilities and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/palmyra_airbase.png)
 
@@ -73,13 +78,14 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: SAA 550th Brigade north of Palmyra Airbase**  
 - **Coordinates:** 34 N DA 68942 45621  
 - **Strategic Importance:** Key strategic location with close proximity to chemical weapons and storage sites.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-10 SAM system** detected close to the chemical weapons and storage area.  
-  - **EW Radar** in use, likely for tracking aircraft entering the area.  
   - Potential presence of ground-based artillery and heavy infantry.  
+  - **Ammunition/Fuel/Weapon Storage and Generators**
+  - **Heliport**
 - **Operational Plan:**  
   - **SEAD/DEAD** missions to target and neutralize SA-10 and EW radar systems.  
-  - **Airstrikes** targeting chemical weapons and critical infrastructure if deemed necessary.
+  - Coordinate airstrikes to degrade vehicle storage and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/saa_550_brigade.png)
 
@@ -88,12 +94,15 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Shayrat Airbase**  
 - **Coordinates:** MGRS GRID: 37 S CU 07913 18483
 - **Strategic Importance:** Resupply Airport 
-- **Threat Assessment:** 
+- **Threat / Target Assessment:**
+  - **SA-2** detected, with capabilities to detect incoming threats at long range.
+  - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
   - **AAA**
-  - **SHORAD**
+  - **Ammunition/Fuel/Weapon Storage**
+  - Presence of ground-based artillery and heavy infantry.  
 - **Operational Plan:**  
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Consider long-range strike options to disable runways.
+  - Coordinate airstrikes to degrade runway capability and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
 
@@ -102,12 +111,14 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Grid 36 S YD 73297 68825**  
 - **Coordinates:** 36 S YD 73297 68825  
 - **Strategic Importance:** Military installation with a significant number of **bunkers** of unknown purpose, possibly used for storage, command operations, or protected assets. The presence of an **SA-6 SAM system** suggests the site is actively defended.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-6 SAM system** deployed, providing medium-range air defense.  
   - Multiple **bunkers**, purpose unknown—possible **ammunition storage, command center, or protected assets**.  
   - Potential presence of **ground units** supporting air defense operations.  
+  - **Ammunition/Fuel/Weapon Storage**
 - **Operational Plan:**  
   - Conduct **SEAD/DEAD** missions to suppress or neutralize the **SA-6 system**.  
+  - Coordinate airstrikes to degrade bunker complex.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/yd7368.png)
 
@@ -116,12 +127,14 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Bassel Al-Assad Airbase**  
 - **Coordinates:** MGRS GRID: 36 S YE 67959 21464
 - **Strategic Importance:** Resupply Airport 
-- **Threat Assessment:** 
+- **Threat / Target Assessment:** 
+  - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
   - **AAA**
-  - **SHORAD**
+  - **Ammunition/Fuel/Weapon Storage**
+  - **Heliport**
 - **Operational Plan:** 
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Consider long-range strike options to disable runways.
+  - Coordinate airstrikes to degrade runway capability, heliport and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/bassel_al_assad_airport.png)
 
@@ -130,10 +143,14 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Jirah Airbase**  
 - **Coordinates:** 36 N GD 82312 18347  
 - **Strategic Importance:** Critical early warning radar station, vital for air defense operations in the region.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-2** detected, with capabilities to detect incoming threats at long range.  
+  - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
+  - **Ammunition/Fuel/Weapon Storage**
+  - **SU-24 Aircraft
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
+  - Coordinate airstrikes to degrade runway capability and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/jirah_airbase.png)
 
@@ -142,10 +159,17 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Aleppo Airbase**  
 - **Coordinates:** 36 N GD 82312 18347  
 - **Strategic Importance:** Critical early warning radar station, vital for air defense operations in the region.  
-- **Threat Assessment:**  
-  - **Early Warning Radar** detected, with capabilities to detect incoming threats at long range.  
+- **Threat / Target Assessment:**  
+  - **Early Warning Radar** detected, with capabilities to detect incoming threats at long range.
+  - **SA-2** detected, with capabilities to detect incoming threats at long range.
+  - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions.
+  - **AAA**
+  - **Ammunition/Fuel/Weapon Storage**
+  - Hardened aircraft shelters detected.
 - **Operational Plan:**  
-  - Neutralize the **EW Radar** through electronic warfare or precision strike.  
+  - Avoid colateral damage to Aleppo International Airport
+  - Neutralize the **EW Radar** through electronic warfare or precision strike.
+  - Coordinate airstrikes to degrade runway capability and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/aleppo_airbase.png)
 
@@ -155,22 +179,23 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Coordinates:** 37 S CA 24575 43712
 
 - **Strategic Importance:** Air defense hub with a **heliport** and **SA-6 SAM system** for defense.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-6 SAM system** providing coverage to the heliport and surrounding areas.  
   - Likely presence of other ground units and infrastructure supporting air defense operations.  
+  - **Ammunition/Fuel/Weapon Storage**
 - **Operational Plan:**  
   - Neutralize the **SA-6 SAM system** through **SEAD** operations.  
-  - Monitor **heliport** activities to identify potential air threats.  
+  - Coordinate airstrikes to degrade helipad and ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/minakh_heliport.png)
+
 ---
 
 #### **Target: Air Defence Academy**  
 - **Coordinates:** 37 S BU 93281 36256
 
-
 - **Strategic Importance:** Operational air defense hub actively deploying **SAM**, **AAA**, and **artillery** units for regional defense. Serves as a coordination center for mobile air defense assets.  
-- **Threat Assessment:**   
+- **Threat / Target Assessment:**   
   - **SA-2 SAM system** deployed for medium-to-long-range air defense, covering critical assets.  
   - **SA-6 SAM system** deployed for medium-range air defense, covering critical assets. 
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions.  
@@ -180,7 +205,8 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Operational Plan:**  
   - **SEAD/DEAD** operations targeting **SA-2, SA-6, and SA-15** systems.  
   - Identify and assess **AAA and artillery positions** for potential strikes.  
-  - Consider airstrikes on **logistical nodes** to disrupt resupply and force relocation of air defense assets.  
+  - Coordinate airstrikes on **logistical nodes** to disrupt resupply and force relocation of air defense assets.
+  - Coordinate airstrikes to degrade ammo/fuel/weapon depot.
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/air_defence_academy.png)
 
@@ -189,15 +215,15 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Durayhim Military Base**  
 - **Coordinates:** 33 N BC 60517 44213  
 - **Strategic Importance:** **High-value military installation** with a **Command and Control Center** (C2) coordinating **regional air defense and ground operations**. This facility plays a crucial role in strategic planning and air defense deployment.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
   - **SA-10 SAM system** deployed, providing **long-range air defense** and covering key military infrastructure.  
   - **Command and Control Center (C2)** identified as a **primary target**, responsible for coordinating **air and ground defense** assets.  
   - Presence of **military personnel, support vehicles, and infrastructure** indicating high operational activity.  
   - Possible **reinforcements or rapid deployment units** stationed within the base.  
 - **Operational Plan:**  
   - Prioritize **SEAD/DEAD** operations to neutralize the **SA-10 SAM system**.  
-  - Consider precision strikes on **C2 infrastructure** to disrupt regional air defense coordination.  
-
+  - Coordinate precision strikes on **C2 infrastructure** to disrupt regional air defense coordination.
+  - Coordinate airstrikes to destory bunker compley
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/druayhim_military_base.png)
 
@@ -206,11 +232,15 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 #### **Target: Grid 37 S BV 33996 14348**  
 - **Coordinates:** 37 S BV 33996 14348  
 - **Strategic Importance:** Likely to be a defensive position supporting regional stability and air defense coverage.  
-- **Threat Assessment:**  
+- **Threat / Target Assessment:**  
+
   - **SA-11 SAM system** deployed with likely supporting short range defenses.  
 - **Operational Plan:**  
+  - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses. 
   - Focus **SEAD/DEAD** efforts on the neutralization of the SA-11 site.  
-
+  - Coordinate airstrikes to degrade ammo/fuel/weapon depot.
+  - Coordinate airstrikes to destory bunker compley
+ 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/bv3314.png)
 
----
+--- 
