@@ -84,7 +84,6 @@
 | #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
 | #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
 
-Update Screenshot
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day1.cf
@@ -128,6 +127,17 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
     - **Target Coordinates:** Lat Long Precise: N34°29'55.75" E36°53'28.86" at 2638 feet
 - **Target:** A/C Shelter of Shayrat Airbase TGT8
     - **Target Coordinates:** Lat Long Precise: N34°29'00.95" E36°55'18.43" at 2638 feet
+
+- **Strategic Importance:** Resupply Airport 
+- **Threat / Target Assessment:**
+  - **SA-2** detected, with capabilities to detect incoming threats at long range.
+  - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
+  - **AAA**
+  - **Ammunition/Fuel/Weapon Storage**
+  - Presence of ground-based artillery and heavy infantry.  
+- **Operational Plan:**  
+  - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
+  - Coordinate airstrikes to degrade runway capability and ammo/fuel/weapon depot.
 
 ### **10. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)

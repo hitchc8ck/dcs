@@ -10,7 +10,6 @@ Lebanese defenses are stretched thin, with their military relying on a combinati
 Regional allies and neutral parties are closely monitoring the situation. There is concern that other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
 
 ### **Situation Overview**
-Update Overview
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/op_overview_new2.png)
 
 ## **Enemy Forces (Syria)**
