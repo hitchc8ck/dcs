@@ -79,7 +79,7 @@
 | #4           | TGT      | N34°29'24.29" E 36°54'28.78" | MGRS GRID: 37 S CU 07909 18483 | 2638 feet     | -               |
 | #5           | EGR      | -                            | -                              | -             | -               |
 | #6           | FENCE    | -                            | -                              | -             | -               |
-| #7           | LND      | -                            | -                              | -             | CVN-73 (GW)     |
+| #7           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
 | #8           | AAR      | -                            | -                              | -             | Shell 21        |
 | #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
 | #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
