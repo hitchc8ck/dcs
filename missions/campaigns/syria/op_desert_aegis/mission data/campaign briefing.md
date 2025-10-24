@@ -7,7 +7,7 @@ The Syrian military has amassed a significant force near the Lebanese border, po
 
 Lebanese defenses are stretched thin, with their military relying on a combination of entrenched defensive positions and mobile response units to delay the Syrian advance until NATO reinforcements can be fully operational. Lebanese government officials have issued emergency declarations and are coordinating closely with NATO for strategic planning and logistical support.
 
-Regional allies and neutral parties are closely monitoring the situation. There is concern that other non-state actors may exploit the chaos to advance their own agendas, further complicating the operational environment.
+Regional allies and neutral observers are closely monitoring the escalating situation. Intelligence reports indicate that non-state actors may attempt to exploit the instability to further their own objectives, adding to the complexity of the operational environment. Signs of an emerging civil war are evident, with parts of Damascus, Homs, and Hama already engulfed in flames.
 
 ### **Situation Overview**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/op_overview_new2.png)

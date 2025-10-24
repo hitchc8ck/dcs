@@ -21,7 +21,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 #### **Target: Army Vehicle Training Ground**  
 - **Coordinates:** 45 N AJ 28923 67540  
-- **Strategic Importance:** High-value training area for armored and mechanized units; critical to the readiness of ground forces.  
+- **Strategic Importance:** Training area for armored and mechanized units; critical to the readiness of ground forces.  
 - **Threat / Target Assessment:**  
   - **SA-6 SAM system** deployed in a defensive posture at the north and south perimeter.  
   - **AAA (Anti-Aircraft Artillery)** emplacements located along the northern and southern boundaries, covering all approach vectors.  
@@ -40,7 +40,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 #### **Tartus Naval Base**  
 - **Coordinates:** 36 S YD 62049 66559
-
 - **Strategic Importance:** Naval base with several warships
 - **Threat / Target Assessment:**  
   - **7x Corvette 1241.1 Molniya Warships**
