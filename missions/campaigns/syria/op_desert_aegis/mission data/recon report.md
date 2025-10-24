@@ -46,9 +46,12 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **5x Corvette 1124.4 Gisha Warships**
   - **AAA**
   - **Ammunition/Fuel/Weapon/Equipment Storage**
+  - **Cargo Ship**
 - **Operational Plan:**  
   - Neutralize the **Warships** 
   - Coordinate airstrikes to degrade vehicle storage and ammo/fuel/weapon depot.
+  - Avoid Damange to fuel tanker
+
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/tartus_naval_base.jpg)
 
