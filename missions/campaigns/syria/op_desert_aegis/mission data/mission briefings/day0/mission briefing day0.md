@@ -11,28 +11,28 @@
 
 ## **3. Flight Roster**
 #### VFA-87 Golden Warriors 
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|----------------|
-| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | Flight Lead    | 
-| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      |                |
-| Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     |                |
-| Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           |                |
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
+| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | 401       | Flight Lead    | 
+| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      | 402       |                |
+| Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     | 403       |                |
+| Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           | 404       |                |
 
-#### 179th Bulldogs 
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|----------------|
-| Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | Flight Lead    | 
-| Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           |                |
-| Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           |                |
-| Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           |                |
+<!-- #### 179th Bulldogs 
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
+| Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | 201       | Flight Lead    | 
+| Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           | 202       |                |
+| Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           | 202       |                |
+| Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           | 202       |                |
 
 #### 494th Panthers
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|----------------|
-| Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | Flight Lead    | 
-| Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           |                |
-| Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           |                |
-| Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           |                |
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
+| Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | 501       | Flight Lead    | 
+| Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           | 501       |                |
+| Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           | 501       |                |
+| Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           | 501       |                |-->
 
 ## **4. A/C Weapon Loadouts**
 #### VFA-87 Golden Warriors 
@@ -46,7 +46,7 @@
     - **AD:** 4S  
     - **FD:** 0S  
 
-#### 179th Bulldogs
+<!-- #### 179th Bulldogs
 | **Station 15** | **Station 14** | **Station 13** | **Station 12** | **Station 11** | **Station 10** | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
 |----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | AIM-120C       | FUEL BAG       | AIM-120C       | N/A            | MK84           | N/A            | NAVFLIR       | N/A           | LANTERN       | N/A           | N/A           | MK84          | AIM-120C      | FUEL BAG      | AIM-120C      |
@@ -66,10 +66,7 @@
     - **NOSE FUZE:** PLUGGED MXU-735  
     - **TAIL FUZE:** FMU-152  
     - **AD:** 4S  
-    - **FD:** 0S  
-
-<!-- #### 4.2 494th Panthers Loadout -->
-<!-- #### 4.3 179th Bulldogs Loadout -->
+    - **FD:** 0S   -->
 
 ## **5. Support Radio Frequency Table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
@@ -91,12 +88,12 @@
 ## **6. Squadron Radio Frequency Table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
 |-----------------------|--------------|---------------|----------|--------------|---------------|----------------|------------------------|
-| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
-| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127          | 131/133       | 119/56         | VFA-87 Sting 5 Flight  |
-| 494th Panthers        | Dodge 3      | 224.000       | AM       | -            | -             | -              | 494th Dodge 3 Flight   |
-| 494th Panthers        | Dodge 6      | 225.000       | AM       | -            | -             | -              | 494th Dodge 6 Flight   |
-| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
-| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  |
+| VFA-87 Golden Warriors| Joker 2      | 132.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
+| VFA-87 Golden Warriors| Sting 5      | 133.000       | AM       | 127          | 131/133       | 119/56         | VFA-87 Sting 5 Flight  |
+<!-- | 494th Panthers        | Dodge 3      | 134.000       | AM       | -            | -             | -              | 494th Dodge 3 Flight   |
+| 494th Panthers        | Dodge 6      | 135.000       | AM       | -            | -             | -              | 494th Dodge 6 Flight   |
+| 179th Bulldogs        | Weasel 1     | 136.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
+| 179th Bulldogs        | Weasel 3     | 137.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
 
 ## **7. Flight Plan**
 - **Weather Conditions:** 263° at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C  
@@ -109,6 +106,7 @@
 - **Time on Station (TOS):** N/A
 - **Time on Target (TOT):** N/A 
 
+#### 7.1 VFA-87 Golden Warriors Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | TO       | -                            | -                              | -             | Andersen AFB    |
@@ -117,6 +115,27 @@
 | #4           | IP       | -                            | -                              | -             | -               |
 | #5           | TGT      | N16°01'03.19" E146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet      | -               |
 | #6           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
+
+<!-- #### 7.2 179th Bulldogs Waypoints 
+| **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
+|--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
+| #1           | TO       | -                            | -                              | -             | Andersen AFB    |
+| #2           | RDVZ     | -                            | -                              | -             | -               |
+| #3           | FENCE    | -                            | -                              | -             | -               |
+| #4           | IP       | -                            | -                              | -             | -               |
+| #5           | TGT      | N16°01'03.19" E146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet      | -               |
+| #6           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
+
+
+#### 7.3 494th Panthers Waypoints 
+| **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
+|--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
+| #1           | TO       | -                            | -                              | -             | Andersen AFB    |
+| #2           | RDVZ     | -                            | -                              | -             | -               |
+| #3           | FENCE    | -                            | -                              | -             | -               |
+| #4           | IP       | -                            | -                              | -             | -               |
+| #5           | TGT      | N16°01'03.19" E146°03'31.80" | MGRS GRID: 55 Q CT 99308 71105 | 242 feet      | -               |
+| #6           | LND      | -                            | -                              | -             | CVN-73 (WF)     | -->
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day0/desert_aegis_day0.png)
 
