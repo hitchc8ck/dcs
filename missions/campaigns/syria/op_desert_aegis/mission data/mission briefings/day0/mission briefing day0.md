@@ -16,6 +16,7 @@
 | Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | Flight Lead    | 
 | Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      |                |
 | Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     |                |
+| Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           |                |
 
 #### 179th Bulldogs 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
@@ -23,6 +24,7 @@
 | Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | Flight Lead    | 
 | Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           |                |
 | Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           |                |
+| Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           |                |
 
 #### 494th Panthers
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
@@ -30,25 +32,26 @@
 | Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | Flight Lead    | 
 | Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           |                |
 | Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           |                |
+| Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           |                |
 
 ## **4. A/C Weapon Loadouts**
 #### VFA-87 Golden Warriors 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | MK84          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK84          | AIM-9X         |
+| AIM-9X        | MK84          | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | FUEL BAG      | MK84          | AIM-9X         |
 
-- **MK83 UNGUIDED BOMB SETTINGS:**  
+- **MK84 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
     - **TAIL FUZE:** FMU-152  
     - **AD:** 4S  
     - **FD:** 0S  
 
 #### 179th Bulldogs
-| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
-|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK83          | AIM-9X         |
+| **Station 15** | **Station 14** | **Station 13** | **Station 12** | **Station 11** | **Station 10** | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
+|----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| AIM-120C       | FUEL BAG       | AIM-120C       | N/A            | MK84           | N/A            | NAVFLIR       | N/A           | LANTERN       | N/A           | N/A           | MK84          | AIM-120C      | FUEL BAG      | AIM-120C      |
 
-- **MK83 UNGUIDED BOMB SETTINGS:**  
+- **MK84 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
     - **TAIL FUZE:** FMU-152  
     - **AD:** 4S  
@@ -57,9 +60,9 @@
 #### 494th Panthers
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK83          | AIM-9X         |
+| AIM-120C      | AIM-120C      | MK84          | FUEL BAG      | ECM POD LONG  | FUEL BAG      | MK84          | AIM-120C      | AIM-120C       |
 
-- **MK83 UNGUIDED BOMB SETTINGS:**  
+- **MK84 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
     - **TAIL FUZE:** FMU-152  
     - **AD:** 4S  
@@ -127,7 +130,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Transition to training area**
 ### **Phase 3:**
 - **Weapons training:**
-    - **2x MK83 on marked cargo container at Farallon de Medinilla**
+    - **2x MK84 on marked cargo container at Farallon de Medinilla**
 ### **Phase 4:**
 - **Transition to CVN-73 and expect Case I recovery**
 
