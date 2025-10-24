@@ -37,16 +37,7 @@
 | **PRI8**    | 231.400 MHz | AM      | N/A       | N/A      | DARKSTAR (TAC)| **AUX8**    | N/A         | AM       | N/A       | N/A      | N/A       |
 | **PRI9**    | N/A         | AM      | N/A       | N/A      | APPROACH      | **AUX9**    | N/A         | AM       | N/A       | N/A      | N/A       |
 | **PRI10**   | 252.000 MHz | AM      | N/A       | N/A      | TOWER         | **AUX10**   | 236.600 MHz | AM       | 41Y       | N/A      | ARCO x1   |
-| **PRI11**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX11**   | N/A         | AM       | 44Y       | N/A      | N/A       |
-| **PRI12**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX12**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI13**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX13**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI14**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX14**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI15**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX15**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI16**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX16**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI17**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX17**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI18**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX18**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI19**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX19**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI20**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX20**   | N/A         | AM       | N/A       | N/A      | N/A       |
+
 
 # Radio freq. ladder for 139th Bulldogs (F-16C)
 | **Channel** | **Freq**    | **Mode**| **TACAN** | **ICLS** | **Notes**     | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes** |
@@ -61,13 +52,3 @@
 | **PRI8**    | 231.400 MHz | AM      | N/A       | N/A      | DARKSTAR (TAC)| **AUX8**    | N/A         | AM       | N/A       | N/A      | N/A       |
 | **PRI9**    | N/A         | AM      | N/A       | N/A      | APPROACH      | **AUX9**    | N/A         | AM       | N/A       | N/A      | N/A       |
 | **PRI10**   | 252.000 MHz | AM      | N/A       | N/A      | TOWER         | **AUX10**   | 236.600 MHz | AM       | 41Y       | N/A      | ARCO x1   |
-| **PRI11**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX11**   | N/A         | AM       | 44Y       | N/A      | N/A       |
-| **PRI12**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX12**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI13**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX13**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI14**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX14**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI15**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX15**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI16**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX16**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI17**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX17**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI18**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX18**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI19**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX19**   | N/A         | AM       | N/A       | N/A      | N/A       |
-| **PRI20**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX20**   | N/A         | AM       | N/A       | N/A      | N/A       |
