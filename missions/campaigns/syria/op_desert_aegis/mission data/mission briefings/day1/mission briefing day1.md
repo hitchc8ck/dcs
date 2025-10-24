@@ -204,12 +204,11 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
   - **AAA/SHORAD**
   - **Ammunition/Fuel/Weapon Storage**
   - Presence of ground-based artillery and heavy infantry.  
-- **Operational Plan:**  
-  - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
-  - Coordinate airstrikes to degrade runway capability and ammo/fuel/weapon depot.
 
 ### **10. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
+
+https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day1.cf
 
 ### **11. Enemy Threats**
 #### 11.1 Air Threats
