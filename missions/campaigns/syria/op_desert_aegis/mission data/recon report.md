@@ -27,7 +27,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **AAA (Anti-Aircraft Artillery)** emplacements located along the northern and southern boundaries, covering all approach vectors.  
   - **Ground Units:** Several mechanized infantry battalions with IFV and support vehicles
   - **Activity:** Increased movement of armored vehicles, potentially indicating a large-scale exercise or a force mobilization.  
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
 - **Operational Plan:**  
   - **SEAD/DEAD** operations focused on neutralizing the SA-6 sites.  
   - **AAA neutralization** by precision strikes or electronic warfare to create a safe air corridor.  
@@ -38,6 +38,22 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 
 ---
 
+#### **Tartus Naval Base**  
+- **Coordinates:** 36 S YD 62049 66559
+
+- **Strategic Importance:** Naval base with several warships
+- **Threat / Target Assessment:**  
+  - **7x Corvette 1241.1 Molniya Warships**
+  - **5x Corvette 1124.4 Gisha Warships**
+  - **AAA**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
+- **Operational Plan:**  
+  - Neutralize the **Warships** 
+  - Coordinate airstrikes to degrade vehicle storage and ammo/fuel/weapon depot.
+
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/tartus_naval_base.jpg)
+
+---
 #### **Target: Sayqal Airbase**  
 - **Coordinates:** 33 N DC 10537 24567  
 - **Strategic Importance:** Major airbase housing **Su-24 strike aircraft**, essential for regional bombing operations. Also serves as a key air defense and logistics hub.  
@@ -46,7 +62,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SA-15 SAM system** providing mobile short-range air defense against precision-guided munitions and low-flying threats.  
   - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses.  
   - Possible **short range defenses**, including infantry and AAA (Anti-Aircraft Artillery) positions.  
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
 - **Operational Plan:**  
   - **SEAD/DEAD** to neutralize **SA-2** and **SA-15** threats.  
   - Target **EW radar** through electronic warfare or direct precision strike.  
@@ -66,7 +82,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - Recent increase in aircraft activity, indicating possible upcoming sorties.
   - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses. 
   - **Command and Control Center** 
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
 - **Operational Plan:**
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
   - Coordinate airstrikes to degrade C&C, EW radar, runway capabilities and ammo/fuel/weapon depot.
@@ -81,7 +97,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Threat / Target Assessment:**  
   - **SA-10 SAM system** detected close to the chemical weapons and storage area.  
   - Potential presence of ground-based artillery and heavy infantry.  
-  - **Ammunition/Fuel/Weapon Storage and Generators**
+  - **Ammunition/Fuel/Weapon/Equipment Storage and Generators**
   - **Heliport**
 - **Operational Plan:**  
   - **SEAD/DEAD** missions to target and neutralize SA-10 and EW radar systems.  
@@ -98,7 +114,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SA-2** detected, with capabilities to detect incoming threats at long range.
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
   - **AAA**
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
   - Presence of ground-based artillery and heavy infantry.  
 - **Operational Plan:**  
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
@@ -115,7 +131,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SA-6 SAM system** deployed, providing medium-range air defense.  
   - Multiple **bunkers**, purpose unknown—possible **ammunition storage, command center, or protected assets**.  
   - Potential presence of **ground units** supporting air defense operations.  
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
 - **Operational Plan:**  
   - Conduct **SEAD/DEAD** missions to suppress or neutralize the **SA-6 system**.  
   - Coordinate airstrikes to degrade bunker complex.
@@ -130,7 +146,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Threat / Target Assessment:** 
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
   - **AAA**
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
   - **Heliport**
 - **Operational Plan:** 
   - Prioritize **SEAD/DEAD** missions to neutralize air defenses.
@@ -146,7 +162,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Threat / Target Assessment:**  
   - **SA-2** detected, with capabilities to detect incoming threats at long range.  
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
   - **SU-24 Aircraft
 - **Operational Plan:**  
   - Neutralize the **EW Radar** through electronic warfare or precision strike.  
@@ -164,7 +180,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **SA-2** detected, with capabilities to detect incoming threats at long range.
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions.
   - **AAA**
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
   - Hardened aircraft shelters detected.
 - **Operational Plan:**  
   - Avoid colateral damage to Aleppo International Airport
@@ -182,7 +198,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Threat / Target Assessment:**  
   - **SA-6 SAM system** providing coverage to the heliport and surrounding areas.  
   - Likely presence of other ground units and infrastructure supporting air defense operations.  
-  - **Ammunition/Fuel/Weapon Storage**
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
 - **Operational Plan:**  
   - Neutralize the **SA-6 SAM system** through **SEAD** operations.  
   - Coordinate airstrikes to degrade helipad and ammo/fuel/weapon depot.
@@ -220,6 +236,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **Command and Control Center (C2)** identified as a **primary target**, responsible for coordinating **air and ground defense** assets.  
   - Presence of **military personnel, support vehicles, and infrastructure** indicating high operational activity.  
   - Possible **reinforcements or rapid deployment units** stationed within the base.  
+  - **Ammunition/Fuel/Weapon/Equipment Storage**
 - **Operational Plan:**  
   - Prioritize **SEAD/DEAD** operations to neutralize the **SA-10 SAM system**.  
   - Coordinate precision strikes on **C2 infrastructure** to disrupt regional air defense coordination.
@@ -233,7 +250,6 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
 - **Coordinates:** 37 S BV 33996 14348  
 - **Strategic Importance:** Likely to be a defensive position supporting regional stability and air defense coverage.  
 - **Threat / Target Assessment:**  
-
   - **SA-11 SAM system** deployed with likely supporting short range defenses.  
 - **Operational Plan:**  
   - **Early Warning Radar (EW Radar)** operational, tracking airspace activity and providing guidance for air defenses. 
