@@ -69,7 +69,7 @@
 - **Expected Runway:**
     - **RAF Akrotiri AFB:** 28
     - **Ramat David AFB:** 33
-- **Time on Station (TOS):** 0418Z / 0718L
+- **Time on Station (TOS):** 0412Z / 0712L
 - **Time on Target (TOT):** N/A
 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |

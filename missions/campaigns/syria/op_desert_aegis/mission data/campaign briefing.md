@@ -85,6 +85,7 @@ NATO has landed reinforcements at the Port of Kiryat Motzkin, including:
 - **M2 Bradley IFVs**
 - **MaxxPro MRAPs**
 - **Humvees**
+- **Other**
 
 These forces are moving towards forward operating bases (FOBs) to establish defensive and offensive staging points.
 
