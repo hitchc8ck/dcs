@@ -10,14 +10,51 @@
 - **Mission Commander:** hitchcock  
 
 ## **3. Flight Roster**
+#### VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|----------------|
 | Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | Flight Lead    | 
 | Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      |                |
 | Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     |                |
 
+#### 179th Bulldogs 
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|----------------|
+| Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | Flight Lead    | 
+| Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           |                |
+| Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           |                |
+
+#### 494th Panthers
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|----------------|
+| Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | Flight Lead    | 
+| Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           |                |
+| Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           |                |
+
 ## **4. A/C Weapon Loadouts**
-#### 4.1 VFA-87 Golden Warriors Loadout 
+#### VFA-87 Golden Warriors 
+| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
+| AIM-9X        | MK84          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK84          | AIM-9X         |
+
+- **MK83 UNGUIDED BOMB SETTINGS:**  
+    - **NOSE FUZE:** PLUGGED MXU-735  
+    - **TAIL FUZE:** FMU-152  
+    - **AD:** 4S  
+    - **FD:** 0S  
+
+#### 179th Bulldogs
+| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
+| AIM-9X        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK83          | AIM-9X         |
+
+- **MK83 UNGUIDED BOMB SETTINGS:**  
+    - **NOSE FUZE:** PLUGGED MXU-735  
+    - **TAIL FUZE:** FMU-152  
+    - **AD:** 4S  
+    - **FD:** 0S  
+
+#### 494th Panthers
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
 | AIM-9X        | MK83          | FUEL BAG      | AIM-120       | FUEL BAG      | ATFLIR        | FUEL BAG      | MK83          | AIM-9X         |

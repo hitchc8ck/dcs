@@ -24,34 +24,50 @@
 | **PRI19** | N/A         | AM | N/A  | N/A     | N/A         | **AUX19** | N/A         | AM | N/A | N/A  | N/A       |
 | **PRI20** | N/A         | AM | N/A  | N/A     | N/A         | **AUX20** | N/A         | AM | N/A | N/A  | N/A       |
 
-
-
 # Radio freq. ladder for 494th Panthers (F-15E)
-| **Channel**           | **Freq (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
-|-----|----------------|----------|------------|--------------|-----------|
-| 1                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 2                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 3                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 4                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 5                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 6                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 7                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 8                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 9                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 10                    | N/A    | AM       | N/A      | N/A    | N/A       |
-
+| **Channel** | **Freq**  | **Mode**  | **TACAN**  | **ICLS/ILS**   | **Notes** | **Channel** | **Freq** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
+|-----------|-------------|----|------|---------|---------------|-----------|-------------|----|-------|-------|-----------|
+| **PRI1**  | N/A         | AM | N/A  | N/A     | NONE          | **AUX1**  | 225.000 Mhz | AM | N/A | N/A  | Joker 2   |
+| **PRI2**  | 252.200 MHz | AM | N/A  | N/A     | ATIS          | **AUX2**  | 226.000 Mhz | AM | N/A | N/A  | Sting 5   |
+| **PRI3**  | N/A         | AM | N/A  | N/A     | GROUND        | **AUX3**  | 227.000 Mhz | AM | N/A | N/A  | Dodge 3   |
+| **PRI4**  | 252.000 MHz | AM | N/A  | N/A     | TOWER         | **AUX4**  | 228.000 Mhz | AM | N/A | N/A  | Dodge 6   |
+| **PRI5**  | N/A         | AM | N/A  | N/A     | DEPARTURE     | **AUX5**  | 229.000 Mhz | AM | N/A | N/A  | Weasel 1  |
+| **PRI6**  | N/A         | AM | N/A  | N/A     | CHECK         | **AUX6**  | 230.000 Mhz | AM | N/A | N/A  | Weasel 3  |
+| **PRI7**  | 231.300 MHz | AM | N/A  | N/A     | FOCUS31 (TAC) | **AUX7**  | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI8**  | 231.400 MHz | AM | N/A  | N/A     | DARKSTAR (TAC)| **AUX8**  | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI9**  | N/A         | AM | N/A  | N/A     | APPROACH      | **AUX9**  | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI10** | 252.000 MHz | AM | N/A  | N/A     | TOWER         | **AUX10** | 236.600 MHz | AM | 41Y | N/A  | ARCO x1   |
+| **PRI11** | N/A         | AM | N/A  | N/A     | N/A           | **AUX11** | N/A         | AM | 44Y | N/A  | N/A       |
+| **PRI12** | N/A         | AM | N/A  | N/A     | N/A           | **AUX12** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI13** | N/A         | AM | N/A  | N/A     | N/A           | **AUX13** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI14** | N/A         | AM | N/A  | N/A     | N/A           | **AUX14** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI15** | N/A         | AM | N/A  | N/A     | N/A           | **AUX15** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI16** | N/A         | AM | N/A  | N/A     | N/A           | **AUX16** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI17** | N/A         | AM | N/A  | N/A     | N/A           | **AUX17** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI18** | N/A         | AM | N/A  | N/A     | N/A           | **AUX18** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI19** | N/A         | AM | N/A  | N/A     | N/A           | **AUX19** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI20** | N/A         | AM | N/A  | N/A     | N/A           | **AUX20** | N/A         | AM | N/A | N/A  | N/A       |
 
 # Radio freq. ladder for 139th Bulldogs (F-16C)
-| **Channel**           | **Freq (MHz)** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
-|-----|----------------|----------|------------|--------------|-----------|
-| 1                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 2                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 3                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 4                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 5                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 6                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 7                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 8                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 9                     | N/A    | AM       | N/A      | N/A    | N/A       |
-| 10                    | N/A    | AM       | N/A      | N/A    | N/A       |
-
+| **Channel** | **Freq**  | **Mode**  | **TACAN**  | **ICLS/ILS**   | **Notes** | **Channel** | **Freq** | **Mode** | **TACAN** | **ICLS/ILS** | **Notes** |
+|-----------|-------------|----|------|---------|---------------|-----------|-------------|----|-------|-------|-----------|
+| **PRI1**  | N/A         | AM | N/A  | N/A     | NONE          | **AUX1**  | 225.000 Mhz | AM | N/A | N/A  | Joker 2   |
+| **PRI2**  | 252.200 MHz | AM | N/A  | N/A     | ATIS          | **AUX2**  | 226.000 Mhz | AM | N/A | N/A  | Sting 5   |
+| **PRI3**  | N/A         | AM | N/A  | N/A     | GROUND        | **AUX3**  | 227.000 Mhz | AM | N/A | N/A  | Dodge 3   |
+| **PRI4**  | 252.000 MHz | AM | N/A  | N/A     | TOWER         | **AUX4**  | 228.000 Mhz | AM | N/A | N/A  | Dodge 6   |
+| **PRI5**  | N/A         | AM | N/A  | N/A     | DEPARTURE     | **AUX5**  | 229.000 Mhz | AM | N/A | N/A  | Weasel 1  |
+| **PRI6**  | N/A         | AM | N/A  | N/A     | CHECK         | **AUX6**  | 230.000 Mhz | AM | N/A | N/A  | Weasel 3  |
+| **PRI7**  | 231.300 MHz | AM | N/A  | N/A     | FOCUS31 (TAC) | **AUX7**  | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI8**  | 231.400 MHz | AM | N/A  | N/A     | DARKSTAR (TAC)| **AUX8**  | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI9**  | N/A         | AM | N/A  | N/A     | APPROACH      | **AUX9**  | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI10** | 252.000 MHz | AM | N/A  | N/A     | TOWER         | **AUX10** | 236.600 MHz | AM | 41Y | N/A  | ARCO x1   |
+| **PRI11** | N/A         | AM | N/A  | N/A     | N/A           | **AUX11** | N/A         | AM | 44Y | N/A  | N/A       |
+| **PRI12** | N/A         | AM | N/A  | N/A     | N/A           | **AUX12** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI13** | N/A         | AM | N/A  | N/A     | N/A           | **AUX13** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI14** | N/A         | AM | N/A  | N/A     | N/A           | **AUX14** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI15** | N/A         | AM | N/A  | N/A     | N/A           | **AUX15** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI16** | N/A         | AM | N/A  | N/A     | N/A           | **AUX16** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI17** | N/A         | AM | N/A  | N/A     | N/A           | **AUX17** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI18** | N/A         | AM | N/A  | N/A     | N/A           | **AUX18** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI19** | N/A         | AM | N/A  | N/A     | N/A           | **AUX19** | N/A         | AM | N/A | N/A  | N/A       |
+| **PRI20** | N/A         | AM | N/A  | N/A     | N/A           | **AUX20** | N/A         | AM | N/A | N/A  | N/A       |
