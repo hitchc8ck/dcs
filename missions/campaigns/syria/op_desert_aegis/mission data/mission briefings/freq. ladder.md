@@ -1,7 +1,7 @@
 # OP desert_aegis FREQUENCY LADDER
 
 # Radio freq. ladder for VFA-87 Golden Warriors (F/A-18C)
-| **Channel** | **Freq**     **Mode** | **TACAN** | **ICLS** | **Notes**   | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes**     |
+| **Channel** | **Freq**    |**Mode** | **TACAN** | **ICLS** | **Notes**   | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes**     |
 |-------------|-------------|---------|-----------|----------|-------------|-------------|-------------|----------|-----------|----------|---------------|
 | **PRI1**    | N/A         | AM      | N/A       | N/A      | TOWER       | **AUX1**    | 132.000 Mhz | AM       | N/A       | N/A      | Joker 2       |
 | **PRI2**    | N/A         | AM      | N/A       | N/A      | DEPARTURE   | **AUX2**    | 133.000 Mhz | AM       | N/A       | N/A      | Sting 5       |
@@ -25,7 +25,7 @@
 | **PRI20**   | N/A         | AM      | N/A       | N/A      | N/A         | **AUX20**   | N/A         | AM       | N/A       | N/A      | N/A           |
 
 # Radio freq. ladder for 494th Panthers (F-15E)
-| **Channel** | **Freq**     **Mode** | **TACAN** | **ICLS** | **Notes**     | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes** |
+| **Channel** | **Freq**    | **Mode**| **TACAN** | **ICLS** | **Notes**     | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes** |
 |-------------|-------------|---------|-----------|----------|---------------|-------------|-------------|----------|-----------|----------|-----------|
 | **PRI1**    | N/A         | AM      | N/A       | N/A      | NONE          | **AUX1**    | 132.000 Mhz | AM       | N/A       | N/A      | Joker 2   |
 | **PRI2**    | 252.200 MHz | AM      | N/A       | N/A      | ATIS          | **AUX2**    | 133.000 Mhz | AM       | N/A       | N/A      | Sting 5   |
@@ -49,7 +49,7 @@
 | **PRI20**   | N/A         | AM      | N/A       | N/A      | N/A           | **AUX20**   | N/A         | AM       | N/A       | N/A      | N/A       |
 
 # Radio freq. ladder for 139th Bulldogs (F-16C)
-| **Channel** | **Freq**     **Mode** | **TACAN** | **ICLS** | **Notes**     | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes** |
+| **Channel** | **Freq**    | **Mode**| **TACAN** | **ICLS** | **Notes**     | **Channel** | **Freq**    | **Mode** | **TACAN** | **ICLS** | **Notes** |
 |-------------|-------------|---------|-----------|----------|---------------|-------------|-------------|----------|-----------|----------|-----------|
 | **PRI1**    | N/A         | AM      | N/A       | N/A      | NONE          | **AUX1**    | 132.000 Mhz | AM       | N/A       | N/A      | Joker 2   |
 | **PRI2**    | 252.200 MHz | AM      | N/A       | N/A      | ATIS          | **AUX2**    | 133.000 Mhz | AM       | N/A       | N/A      | Sting 5   |
