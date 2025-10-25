@@ -74,8 +74,8 @@
 |-----------------------|--------------|---------------|----------|-----------|------------|--------------|------------------------|
 | CBG-5 (CVN-73)        | Warfighter   | 256.700 MHz   | AM       | 102X      | 331.0      | Ch. 2        | CBG-5 ATC              |
 | CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400 MHz   | AM       | 103Y      | -          | -            | CBG-5 Rec. Tanker      |
-| Anderson AFB          | -            | 252.000 MHz   | AM       | 107X      | -          | 109.70       | Akrotiri AFB           |
-| Anderson AFB ATIS     | -            | 252.200 MHz   | AM       | -         | -          | -            | Akrotiri AFB ATIS      |
+| Anderson AFB          | -            | 252.000 MHz   | AM       | 54X       | -          | 110.15       | Anderson AFB           |
+| Anderson AFB ATIS     | -            | 252.200 MHz   | AM       | -         | -          | -            | Anderson AFB ATIS      |
 
 ## **6. Squadron Radio Frequency Table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
