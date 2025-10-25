@@ -41,6 +41,7 @@ Syria has mobilized hundreds of ground units, including:
 - **Infantry Fighting Vehicles:** BTR series
 - **Support Vehicles:** Trucks, Cars
 - **Artillery:** Multiple artillery batteries positioned for cross-border bombardment
+- **Conventional Forces** Units 
 - **Special Forces:** Units trained for sabotage, infiltration, and asymmetric operations
 
 ## **Friendly Forces (NATO & Allies)**
@@ -70,6 +71,7 @@ Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cypru
   - **F-16C Fighting Falcons** – **Multirole fighter** for **air superiority** and **SEAD/DEAD**  
   - **F-15E Strike Eagles** – **Multirole figther** for **air superiority** and **precision strikes**.  
   - **KC-130 Tankers**
+
 ### **Strategic Bomber Support**
 - **B-1B Lancer** and **B-52 Stratofortress** bombers are available for strategic airstrikes.
 - **Long-range precision strikes** include:
@@ -81,6 +83,7 @@ Two **NATO Carrier Battle Groups** (**CBG-5 & CBG-8**) deployed **north of Cypru
 
 ### **Ground Forces**
 NATO has landed reinforcements at the Port of Kiryat Motzkin, including:
+- **Patriot SAM Site**
 - **M1 Abrams Tanks**
 - **M2 Bradley IFVs**
 - **MaxxPro MRAPs**
@@ -94,8 +97,8 @@ These forces are moving towards forward operating bases (FOBs) to establish defe
   - Staging base for air and ground assault operations
   - Equipped with:
     - **AH-64 Apache Attack Helicopters**
-    - **OH-58 Kiowa Scouts**
-    - **CH-47 Chinook Transports**
+    - **OH-58 Kiowa Scout Helicopters**
+    - **CH-47 Chinook Transport Helicopters**
     - **NASSAM** for **point defense** against incoming air threats.
 
 - **FOB Bravo** *(Grid: 37 S BT 32677 74560)*
