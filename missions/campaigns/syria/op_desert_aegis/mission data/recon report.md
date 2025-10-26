@@ -49,7 +49,7 @@ NATO intelligence assets have provided satellite imagery of key strategic locati
   - **Cargo Ship**
 - **Operational Plan:**  
   - Neutralize the **Warships** 
-  - Coordinate airstrikes to degrade vehicle storage and ammo/fuel/weapon depot.
+  - Coordinate airstrikes to degrade ammo/fuel/weapon depot.
   - Avoid Damange to fuel tanker
 
 
