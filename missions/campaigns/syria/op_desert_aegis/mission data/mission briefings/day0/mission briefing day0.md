@@ -89,7 +89,7 @@
 
 ## **7. Flight Plan**
 - **Weather Conditions:** 263° at 6 knots gusting, visibility 10, scattered clouds at 11k and 18k, 21 °C  
-- **QNH:** 3104
+- **QNH:** 3047
 - **Carrier Ops:**  
     - **CASE I Recovery**  
     - **Expected BRC:** 274°  
