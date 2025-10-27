@@ -1,4 +1,4 @@
-# **Mission Briefing: Operation Desert Aegis - Day 0**
+# **Mission Briefing: Operation Desert Aegis - Day 1**
 
 ## **1. SITREP Update**
 - **NO INFO YET**
