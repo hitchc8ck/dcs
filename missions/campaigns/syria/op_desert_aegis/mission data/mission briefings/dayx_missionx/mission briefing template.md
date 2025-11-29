@@ -4,7 +4,7 @@
 - **NO INFO YET**
 
 ## **2. Mission Overview**
-- **Mission Date/Time:** 14. March 2008 0640Z / 0640L <correct info>
+- **Mission Date/Time:** 14. March 2008 0640Z / 1540L <correct info>
 - **Location:** Syria  
 - **Objective:** <insert info>
 - **Mission Commander:** <insert info>

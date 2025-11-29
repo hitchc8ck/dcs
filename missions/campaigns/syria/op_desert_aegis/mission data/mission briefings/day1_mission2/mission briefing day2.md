@@ -1,4 +1,4 @@
-# **Mission Briefing: Operation Desert Aegis - Day 2 - Mission 2**
+# **Mission Briefing: Operation Desert Aegis - Day 1 - Mission 2**
 
 ## **1. SITREP Update**
 - **Mission 1 was a success**
