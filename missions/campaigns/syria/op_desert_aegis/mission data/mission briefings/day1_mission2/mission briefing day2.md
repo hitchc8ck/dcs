@@ -1,58 +1,12 @@
 # **Mission Briefing: Operation Desert Aegis - Day 1 - Mission 2**
 
-## 1. SITUATION REPORT (SITREP) – POST-STRIKE ASSESSMENT
-
-### 1.1 Mission Outcome
-- **Mission 1 executed successfully**
-- **>75% of all planned targets were confirmed destroyed**
-- **Enemy air defense interception rate remained low**
-- **100% of all friendly aircraft recovered safely to CVN-73**
-
-### 1.2 Battle Damage Assessment (BDA)
-
-**Shayrat Airbase – Primary Strike Results:**
-- **Primary runway rendered non-operational**
-    - Extensive structural damage observed
-    - Repairs required before flight operations can resume
-- **Multiple hardened aircraft shelters destroyed**
-    - Secondary explosions indicate likely aircraft losses inside
-- **Fuel storage and logistics depots destroyed**
-    - Significant degradation of enemy sortie generation capability
-
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase_day1.png)
-
-### 1.3 Enemy Activity & Observations
-- **SA-11 (Buk) SAM site remains active**
-    - Not included in the initial target package
-    - Presents an ongoing medium-to-high altitude threat
-- **Two enemy supply convoys departed the area prior to strike execution**
-    - Likely logistics or weapons resupply elements
-    - Current direction and destination unknown
-- **Enemy forces are assessed to be on heightened alert posture**
-    - Increased air defense readiness expected
-    - Possible forward redeployment of additional SAM assets
-
-## 3. OPERATIONAL CONCLUSION
-- The strike has **severely degraded enemy airbase operations** at Shayrat.
-- **Enemy air defense capabilities remain a critical factor**, primarily the SA-11 site.
-- **Additional strike packages are required** to:
-  - Neutralize remaining SAM threats
-  - Interdict mobile logistics assets
-  - Prevent rapid runway repair and base reconstitution
-
-## 4. RECOMMENDED NEXT ACTIONS
-- **SEAD/DEAD tasking against SA-11**
-- **ISR tasking to track departing supply convoys**
-- **Follow-on strike against airbase repair assets**
-- **CAP reinforcement in expected enemy fighter corridors**
-
-## **2. Mission Overview**
+## **1. Mission Overview**
 - **Mission Date/Time:** 14. March 2008 1300Z / 1600L <correct info>
 - **Location:** Syria  
 - **Objective:** <insert info>
 - **Mission Commander:** <insert info>
 
-## **3. Flight Roster**
+## **2. Flight Roster**
 #### VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
@@ -77,8 +31,8 @@
 | Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           | 501       |                |
 | Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           | 501       |                | -->
 
-## **4. A/C Weapon Loadouts**
-#### 4.1 VFA-87 Golden Warriors Loadout 
+## **3. A/C Weapon Loadouts**
+#### 3.1 VFA-87 Golden Warriors Loadout 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
 | AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 2x AIM-120C (1+2) / 1x HARM (3+4)   | 2x AGM-154C   | AIM-9X         |
@@ -111,7 +65,7 @@
     - **AD:** 4S  
     - **FD:** 0S   -->
 
-## **5. Support Radio Frequency Table**
+## **4. Support Radio Frequency Table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------|----------|-----------|------------|--------------|------------------------|
 | CBG-5 (CVN-73)        | Warfighter   | 256.700 MHz   | AM       | 102X      | 331.0      | Ch. 2        | CBG-5 ATC              |
@@ -128,7 +82,7 @@
 | Tanker (KC-130)       | Shell        | 233.000 MHz   | AM       | 44Y       | -          | -            | Drogue                 |
 | Tanker (KC-135)       | Arco         | 236.600 MHz   | AM       | 48Y       | -          | -            | Probe                  |
 
-## **6. Squadron Radio Frequency Table**
+## **5. Squadron Radio Frequency Table**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
 |-----------------------|--------------|---------------|----------|--------------|---------------|----------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
@@ -138,7 +92,7 @@
 | 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
 | 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
 
-## **7. Flight Plan**
+## **6. Flight Plan**
 - **Weather Conditions:** 349° at 12 knots gusting, visibility 2, weather phenomenon: fog, broken clouds at 10k, 21k and 33k, 22 °C  <correct info>
 - **QNH:** 29.75 <correct info>
 - **T/O Time:** 0400Z / 0700L <correct info>
