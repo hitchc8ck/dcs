@@ -19,7 +19,7 @@
 - **Fuel storage and logistics depots destroyed**
     - Significant degradation of enemy sortie generation capability
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission data\images\shayrat_airbase_day1.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/missiondata\images\shayrat_airbase_day1.png)
 
 ### 1.3 Enemy Activity & Observations
 - **SA-11 (Buk) SAM site remains active**
