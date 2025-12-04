@@ -1,5 +1,6 @@
-## 1. SITUATION REPORT (SITREP) – POST-STRIKE ASSESSMENT
+## SITUATION REPORT (SITREP) – POST-STRIKE ASSESSMENTS
 
+## 1. Day 1 Report
 ### 1.1 Mission Outcome
 - **Mission 1 executed successfully**
 - **>50% of all planned targets were confirmed destroyed**
@@ -7,7 +8,6 @@
 - **100% of all friendly aircraft recovered safely to CVN-73**
 
 ### 1.2 Battle Damage Assessment (BDA)
-
 **Shayrat Airbase – Primary Strike Results:**
 - **Primary runway rendered non-operational**
     - Extensive structural damage observed
@@ -30,7 +30,7 @@
     - Increased air defense readiness expected
     - Possible forward redeployment of additional SAM assets
 
-## 3. OPERATIONAL CONCLUSION
+## 1.4 OPERATIONAL CONCLUSION
 - The strike has **severely degraded enemy airbase operations** at Shayrat.
 - **Enemy air defense capabilities remain a critical factor**, primarily the SA-11 site.
 - **Additional strike packages are required** to:
@@ -38,7 +38,7 @@
   - Interdict mobile logistics assets
   - Prevent rapid runway repair and base reconstitution
 
-## 4. RECOMMENDED NEXT ACTIONS
+## 1.5 RECOMMENDED NEXT ACTIONS
 - **SEAD/DEAD tasking against SA-11**
 - **ISR tasking to track departing supply convoys**
 - **Follow-on strike against airbase repair assets**

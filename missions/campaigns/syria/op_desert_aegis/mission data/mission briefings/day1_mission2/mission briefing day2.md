@@ -7,7 +7,7 @@
 - **Mission Commander:** <insert info>
 
 ## **2. Flight Roster**
-#### VFA-87 Golden Warriors 
+#### 2.1 VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
 | Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   |           | 401       | Flight Lead    | 
@@ -15,7 +15,7 @@
 | Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   |           | 403       |                |
 | Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           | 404       |                |
 
-<!-- #### 179th Bulldogs 
+<!-- #### 2.2 179th Bulldogs 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
 | Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | 201       | Flight Lead    | 
@@ -23,7 +23,7 @@
 | Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           | 202       |                |
 | Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           | 202       |                |
 
-#### 494th Panthers
+#### 2.3 494th Panthers
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
 | Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | 501       | Flight Lead    | 
@@ -43,7 +43,7 @@
     - **AD:** 4S
     - **FD:** 0S -->
 
-<!-- #### 179th Bulldogs
+<!-- 3.2 #### 179th Bulldogs
 | **Station 15** | **Station 14** | **Station 13** | **Station 12** | **Station 11** | **Station 10** | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
 |----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | AIM-120C       | FUEL BAG       | AIM-120C       | N/A            | MK84           | N/A            | NAVFLIR       | N/A           | LANTERN       | N/A           | N/A           | MK84          | AIM-120C      | FUEL BAG      | AIM-120C      |
@@ -54,7 +54,7 @@
     - **AD:** 4S  
     - **FD:** 0S  
 
-#### 494th Panthers
+#### 3.3 494th Panthers
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
 | AIM-120C      | AIM-120C      | MK84          | FUEL BAG      | ECM POD LONG  | FUEL BAG      | MK84          | AIM-120C      | AIM-120C       |
@@ -106,7 +106,7 @@
 - **Time on Station (TOS):** 0412Z / 0712L <correct info>
 - **Time on Target (TOT):** N/A <correct info>
 
-#### 7.1 VFA-87 Golden Warriors Waypoints 
+#### 6.1 VFA-87 Golden Warriors Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | RDVZ     | -                            | -                              | -             | -               |
@@ -120,7 +120,7 @@
 | #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
 | #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
 
-<!-- #### 7.2 179th Bulldogs Waypoints 
+<!-- #### 76.2 179th Bulldogs Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | RDVZ     | -                            | -                              | -             | -               |
@@ -134,7 +134,7 @@
 | #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
 | #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
 
-#### 7.3 494th Panthers Waypoints 
+#### 6.3 494th Panthers Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | RDVZ     | -                            | -                              | -             | -               |
@@ -152,7 +152,7 @@
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.cf
 
-## **8. Mission Phases**
+## **7. Mission Phases**
 ### **Phase 1:**
 - <insert info>
 
@@ -168,7 +168,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **Phase 5:**
 - <insert info>
 
-## **9. Target Information**
+## **8. Target Information**
 - **Target:** <insert info>
     - **Target Coordinates:** Lat Long Precise: <insert info>
 
@@ -176,12 +176,12 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Threat / Target Assessment:**
   - <insert info> 
 
-### **10. Satellite Picture**
+### **9. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day1.cf
 
-### **11. Enemy Threats**
+### **10. Enemy Threats**
 #### 11.1 Air Threats
 - **Mig-29**
 - **Mig-25**
@@ -192,10 +192,10 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **SA-15**
 - **AAA**
 
-## **12. Rules of Engagement (ROE)**
+## **11. Rules of Engagement (ROE)**
 - **Weapons Tight**
 - **Avoid collateral damage**
 
-## **13. Success Criteria**
+## **12. Success Criteria**
 - **75% of all flights return CVN-73 (CBG-5)**
 - **50% of all targets <insert info> are destroyed**
