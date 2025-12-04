@@ -93,18 +93,18 @@
 | 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
 
 ## **6. Flight Plan**
-- **Weather Conditions:** 349° at 12 knots gusting, visibility 2, weather phenomenon: fog, broken clouds at 10k, 21k and 33k, 22 °C  <correct info>
-- **QNH:** 29.75 <correct info>
-- **T/O Time:** 0400Z / 0700L <correct info>
+- **Weather Conditions:** 258° at 8 knots gusting, visibility 1, scatterd clouds at 18k and 20k and 32 °C
+- **QNH:** 29.69
+- **T/O Time:** 1320Z / 1620L
 - **Carrier Ops:**  
-    - **CASE III Takeoff** <correct info>
-    - **CASE I Recovery** <correct info>
-    - **Expected BRC:** 174° <correct info>
+    - **CASE I Takeoff**
+    - **CASE I Recovery**
+    - **Expected BRC:** 88°
 - **Expected Runway:**
-    - **RAF Akrotiri AFB:** 28 <correct info>
-    - **Ramat David AFB:** 33 <correct info>
-- **Time on Station (TOS):** 0412Z / 0712L <correct info>
-- **Time on Target (TOT):** N/A <correct info>
+    - **RAF Akrotiri AFB:** 10
+    - **Ramat David AFB:** 09
+- **Time on Station (TOS):** N/A
+- **Time on Target (TOT):** N/A
 
 #### 6.1 VFA-87 Golden Warriors Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
