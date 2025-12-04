@@ -1,7 +1,7 @@
 # **Mission Briefing: Operation Desert Aegis - Day 1 - Mission 2**
 
 ## **1. Mission Overview**
-- **Mission Date/Time:** 14. March 2008 1300Z / 1600L <correct info>
+- **Mission Date/Time:** 14. March 2008 1300Z / 1600L
 - **Location:** Syria  
 - **Objective:** <insert info>
 - **Mission Commander:** Lobo
@@ -10,8 +10,8 @@
 #### 2.1 VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   |           | 401       | Flight Lead    | 
-| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   |           | 402       |                |
+| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | Lobo      | 401       | Flight Lead    | 
+| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | hitchcock | 402       |                |
 | Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   |           | 403       |                |
 | Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           | 404       |                |
 
@@ -177,7 +177,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
   - <insert info> 
 
 ### **9. Satellite Picture**
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/khalkhalal_airbase.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day1.cf
 
