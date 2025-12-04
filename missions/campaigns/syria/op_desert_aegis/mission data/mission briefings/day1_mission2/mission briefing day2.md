@@ -4,7 +4,7 @@
 - **Mission Date/Time:** 14. March 2008 1300Z / 1600L <correct info>
 - **Location:** Syria  
 - **Objective:** <insert info>
-- **Mission Commander:** <insert info>
+- **Mission Commander:** Lobo
 
 ## **2. Flight Roster**
 #### 2.1 VFA-87 Golden Warriors 
