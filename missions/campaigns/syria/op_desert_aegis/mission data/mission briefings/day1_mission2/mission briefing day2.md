@@ -35,7 +35,7 @@
 #### 3.1 VFA-87 Golden Warriors Loadout 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 2x AIM-120C (1+2) / 1x HARM (3+4)   | 2x AGM-154C   | AIM-9X         |
+| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 1x HARM   | 2x AGM-154C   | AIM-9X         |
 
 <!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
@@ -154,19 +154,30 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 
 ## **7. Mission Phases**
 ### **Phase 1:**
-- <insert info>
+- CASE I from CVN-73 (WF)
+- FPAS climb angles 30
 
 ### **Phase 2:**
-- <insert info>
+- FORM UP en Route
 
 ### **Phase 3:**
-- <insert info>
+- Sign in with Focus on Pri 11
+- cross reference target assignments
+- FENCE
 
 ### **Phase 4:**
-- <insert info>
+- Proceed to RELEASE point via IP (20nm)
+- JSOW (PP) on assigned targets (SA-11 C&C, SR & launchers)
+- right hand orbit (x seconds)
+- HARM release PP (115 / SA-11, 119 / SA-15)
 
 ### **Phase 5:**
-- <insert info>
+- BDA if cloud layers allow
+- stay North/West of W5 Barrier
+
+### **Phase 6:**
+- Egress via W1 Fence
+- AAR optional (Texaco / Shell?)
 
 ## **8. Target Information**
 - **Target:** <insert info>
