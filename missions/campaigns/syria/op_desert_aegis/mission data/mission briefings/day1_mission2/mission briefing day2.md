@@ -10,10 +10,10 @@
 #### 2.1 VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | Lobo      | 401       | Flight Lead    | 
-| Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | hitchcock | 402       |                |
-| Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   |           | 403       |                |
-| Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           | 404       |                |
+| Joker 2         | F/A-18C      | Joker 2-1    | DEAD   | Lobo      | 401       | Flight Lead    | 
+| Joker 2         | F/A-18C      | Joker 2-2    | DEAD   | hitchcock | 402       |                |
+| Joker 2         | F/A-18C      | Joker 2-3    | DEAD   |           | 403       |                |
+| Joker 2         | F/A-18C      | Joker 2-4    | DEAD   |           | 404       |                |
 
 <!-- #### 2.2 179th Bulldogs 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
@@ -35,7 +35,7 @@
 #### 3.1 VFA-87 Golden Warriors Loadout 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 1x HARM   | 2x AGM-154C   | AIM-9X         |
+| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 1x AGM-88C   | 2x AGM-154C   | AIM-9X         |
 
 <!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
