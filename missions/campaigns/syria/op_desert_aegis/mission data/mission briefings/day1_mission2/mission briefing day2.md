@@ -8,28 +8,28 @@
 
 ## **2. Flight Roster**
 #### 2.1 VFA-87 Golden Warriors 
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Joker 2         | F/A-18C      | Joker 2-1    | DEAD   | Lobo      | 401       | Flight Lead    | 
-| Joker 2         | F/A-18C      | Joker 2-2    | DEAD   | hitchcock | 402       |                |
-| Joker 2         | F/A-18C      | Joker 2-3    | DEAD   |           | 403       |                |
-| Joker 2         | F/A-18C      | Joker 2-4    | DEAD   |           | 404       |                |
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|----------------|
+| Joker 2         | F/A-18C      | Joker 2-1    | DEAD   | Lobo      | Flight Lead    | 
+| Joker 2         | F/A-18C      | Joker 2-2    | DEAD   | hitchcock |                |
+| Joker 2         | F/A-18C      | Joker 2-3    | DEAD   |           |                |
+| Joker 2         | F/A-18C      | Joker 2-4    | DEAD   |           |                |
 
 <!-- #### 2.2 179th Bulldogs 
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | 201       | Flight Lead    | 
-| Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           | 202       |                |
-| Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           | 202       |                |
-| Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           | 202       |                |
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|----------------|
+| Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | Flight Lead    | 
+| Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           |                |
+| Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           |                |
+| Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           |                |
 
 #### 2.3 494th Panthers
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | 501       | Flight Lead    | 
-| Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           | 501       |                |
-| Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           | 501       |                |
-| Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           | 501       |                | -->
+| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
+|-----------------|--------------|--------------|----------|-----------|----------------|
+| Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | Flight Lead    | 
+| Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           |                |
+| Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           |                |
+| Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           |                | -->
 
 ## **3. A/C Weapon Loadouts**
 #### 3.1 VFA-87 Golden Warriors Loadout 
@@ -99,7 +99,7 @@
 - **Carrier Ops:**  
     - **CASE I Takeoff**
     - **CASE I Recovery**
-    - **Expected BRC:** 88°
+    - **Expected BRC:** 87°
 - **Expected Runway:**
     - **RAF Akrotiri AFB:** 10
     - **Ramat David AFB:** 09
