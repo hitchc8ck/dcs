@@ -35,7 +35,7 @@
 #### 3.1 VFA-87 Golden Warriors Loadout 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 1x AGM-88C   | 2x AGM-154C   | AIM-9X         |
+| AIM-9X        | 2x AGM-154C   | FPU-8A 330gal      | AIM-120C      | FPU-8A 330gal      | AN/ASQ-228        |  AGM-88C   | 2x AGM-154C   | AIM-9X         |
 
 <!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
