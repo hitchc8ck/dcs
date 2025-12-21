@@ -109,16 +109,14 @@
 #### 6.1 VFA-87 Golden Warriors Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
-| #1           | RDVZ     | -                            | -                              | -             | -               |
-| #2           | FENCE    | -                            | -                              | -             | -               |
-| #3           | IP       | -                            | -                              | -             | -               |
-| #4           | TGT      | N34°29'24.29" E 36°54'28.78" | MGRS GRID: 37 S CU 07909 18483 | 2638 feet     | -               |
-| #5           | EGR      | -                            | -                              | -             | -               |
-| #6           | FENCE    | -                            | -                              | -             | -               |
-| #7           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
-| #8           | AAR      | -                            | -                              | -             | Shell 21        |
-| #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
-| #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
+| #0           | HOME     | -                            | -                              | -             | - CRS 088       |
+| #1           | FENCE    | -                            | -                              | - 35000ft     | - CRS 088       |
+| #2           | IP       | -                            | -                              | - 35000ft     | - CRS 076 @ 15nm|   
+| #3           | RELEASE  | -                            | -                              | - 35000ft     | - CRS 076       |
+| #4           | TGT      | N E                          | MGRS GRID:                     |  feet         | - CRS 242       |
+| #5           | BARRIER  | -                            | -                              | -             | - CRS 271       |
+| #6           | DIV      | -                            | -                              | -             | - Ramat David AFB |        
+| #59          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
 
 <!-- #### 76.2 179th Bulldogs Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
@@ -155,10 +153,12 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ## **7. Mission Phases**
 ### **Phase 1:**
 - CASE I from CVN-73 (WF)
-- FPAS climb angles 30
+- FPAS CLAIM angles 30
 
 ### **Phase 2:**
 - FORM UP en Route
+- PUSH PRI11 Focus31
+- CLIMB angles 35
 
 ### **Phase 3:**
 - Sign in with Focus on Pri 11
@@ -166,9 +166,9 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - FENCE
 
 ### **Phase 4:**
-- Proceed to RELEASE point via IP (20nm)
+- Proceed to RELEASE point via IP (15nm)
 - JSOW (PP) on assigned targets (SA-11 C&C, SR & launchers)
-- right hand orbit (x seconds)
+- right hand orbit
 - HARM release PP (115 / SA-11, 119 / SA-15)
 
 ### **Phase 5:**
@@ -177,7 +177,8 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 
 ### **Phase 6:**
 - Egress via W1 Fence
-- AAR optional (Texaco / Shell?)
+- AAR @ Shell (optional)
+- PUSH PRI16 CVN-5
 
 ## **8. Target Information**
 - **Target:** <insert info>
@@ -209,4 +210,4 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 
 ## **12. Success Criteria**
 - **75% of all flights return CVN-73 (CBG-5)**
-- **50% of all targets <insert info> are destroyed**
+- **50% of all Air Defenses are destroyed**
