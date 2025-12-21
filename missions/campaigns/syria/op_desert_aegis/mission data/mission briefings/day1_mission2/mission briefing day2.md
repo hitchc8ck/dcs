@@ -3,17 +3,17 @@
 ## **1. Mission Overview**
 - **Mission Date/Time:** 14. March 2008 1300Z / 1600L
 - **Location:** Syria  
-- **Objective:** <insert info>
+- **Objective:** Destroy air defense systems at Khalkhalal Airbase
 - **Mission Commander:** Lobo
 
 ## **2. Flight Roster**
 #### 2.1 VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|----------------|
-| Joker 2         | F/A-18C      | Joker 2-1    | DEAD   | Lobo      | Flight Lead    | 
-| Joker 2         | F/A-18C      | Joker 2-2    | DEAD   | hitchcock |                |
-| Joker 2         | F/A-18C      | Joker 2-3    | DEAD   |           |                |
-| Joker 2         | F/A-18C      | Joker 2-4    | DEAD   |           |                |
+| Joker 2         | F/A-18C      | Joker 2-1    | DEAD     | Lobo      | Flight Lead    | 
+| Joker 2         | F/A-18C      | Joker 2-2    | DEAD     | hitchcock |                |
+| Joker 2         | F/A-18C      | Joker 2-3    | DEAD     |           |                |
+| Joker 2         | F/A-18C      | Joker 2-4    | DEAD     |           |                |
 
 <!-- #### 2.2 179th Bulldogs 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Notes**      |
@@ -35,7 +35,7 @@
 #### 3.1 VFA-87 Golden Warriors Loadout 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | 2x AGM-154C   | FPU-8A 330gal      | AIM-120C      | FPU-8A 330gal      | AN/ASQ-228        |  AGM-88C   | 2x AGM-154C   | AIM-9X         |
+| AIM-9X        | 2x AGM-154C   | FPU-8A        | AIM-120C      | FPU-8A        | AN/ASQ-228    |  1x AGM-88C   | 2x AGM-154C   | AIM-9X         |
 
 <!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
@@ -109,14 +109,14 @@
 #### 6.1 VFA-87 Golden Warriors Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
-| #0           | HOME     | -                            | -                              | -             | - CRS 088       |
-| #1           | FENCE    | -                            | -                              | - 35000ft     | - CRS 088       |
-| #2           | IP       | -                            | -                              | - 35000ft     | - CRS 076 @ 15nm|   
-| #3           | RELEASE  | -                            | -                              | - 35000ft     | - CRS 076       |
-| #4           | TGT      | N E                          | MGRS GRID:                     |  feet         | - CRS 242       |
-| #5           | BARRIER  | -                            | -                              | -             | - CRS 271       |
-| #6           | DIV      | -                            | -                              | -             | - Ramat David AFB |        
-| #59          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
+| #0           | HOME     | -                            | -                              |               | CRS 088       |
+| #1           | FENCE    | -                            | -                              | 35000ft       | CRS 088       |
+| #2           | IP       | -                            | -                              | 35000ft       | CRS 076 @ 15nm|   
+| #3           | RELEASE  | -                            | -                              | 35000ft       | CRS 076       |
+| #4           | TGT      | N 33°04'25" E 36°33'15"      | MGRS GRID: 37 S BS 71707 62112 | 2323ft        | CRS 242       |
+| #5           | BARRIER  | -                            | -                              | -             | CRS 271       |
+| #6           | DIV      | -                            | -                              | -             | Ramat David AFB |        
+| #59          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             |                |
 
 <!-- #### 76.2 179th Bulldogs Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
@@ -181,12 +181,22 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - PUSH PRI16 CVN-5
 
 ## **8. Target Information**
-- **Target:** <insert info>
-    - **Target Coordinates:** Lat Long Precise: <insert info>
-
-- **Strategic Importance:** <insert info>
-- **Threat / Target Assessment:**
-  - <insert info> 
+- **Target:** SA-11 C&C
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°05'18.46"   E 36°32'25.45"
+- **Target:** SA-11 SR
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°05'18.46"   E 36°32'25.45"
+- **Target:** SA-11 LN #1
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°04'33.53"   E 36°32'17.67"
+- **Target:** SA-11 LN #2
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°04'25.45"   E 36°32'24.33"
+- **Target:** SA-11 LN #3
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°04'08.33"   E 36°34'00.30"
+- **Target:** SA-11 LN #4
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°04'14.33"   E 36°34'07.40"
+- **Target:** SA-11 LN #5
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°04'26.90"   E 36°34'37.49"
+- **Target:** SA-11 LN #6
+    - **Target Coordinates:** Lat Long Precise: Lat Long Precise: N 33°04'33.00"   E 36°34'44.55"
 
 ### **9. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/khalkhalal_airbase.png)
@@ -205,9 +215,9 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **AAA**
 
 ## **11. Rules of Engagement (ROE)**
-- **Weapons Tight**
+- **Weapons hold**
 - **Avoid collateral damage**
 
 ## **12. Success Criteria**
 - **75% of all flights return CVN-73 (CBG-5)**
-- **50% of all Air Defenses are destroyed**
+- **50% of all air defenses are destroyed**
