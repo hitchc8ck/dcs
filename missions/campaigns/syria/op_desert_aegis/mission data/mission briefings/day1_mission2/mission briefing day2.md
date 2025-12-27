@@ -93,7 +93,7 @@
 | 179th Bulldogs        | Weasel 3     | 230.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
 
 ## **6. Flight Plan**
-- **Weather Conditions:** 258° at 8 knots gusting, visibility 10, scattered clouds at 18k and 20k and 32 °C
+- **Weather Conditions:** 258° at 8 knots gusting, visibility 10+, scattered clouds at 18k and 20k and 32 °C
 - **QNH:** 29.69
 - **T/O Time:** 1320Z / 1620L
 - **Carrier Ops:**  
