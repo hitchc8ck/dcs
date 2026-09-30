@@ -19,7 +19,7 @@ redIADS:addEarlyWarningRadarsByPrefix('red_ew')
 -- redIADS:addEarlyWarningRadarsByPrefix('red_awacs')
 
 --add all groups begining with group name 'SAM' to the IADS:
-redIADS:addSAMSitesByPrefix('red_sam')
+redIADS:addSAMSitesByPrefix('red_sam'):setGoLiveRangeInPercent(70)
 
 --add a command center:
 redCommandCenter = StaticObject.getByName('red_cc_1')

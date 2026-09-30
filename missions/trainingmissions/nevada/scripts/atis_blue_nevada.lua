@@ -1,0 +1,13 @@
+atis=ATIS:New(AIRBASE.Nevada.Nellis, 252.200, radio.modulation.AM)
+atis:SetRadioRelayUnitName("blue_atis_relay_nellis")
+atis:SetTowerFrequencies({128.000, 252.000})
+atis:SetTACAN(107)
+atis:ReportZuluTimeOnly() 
+atis:Start()
+
+atis2=ATIS:New(AIRBASE.Nevada.CechCreek, 251.600, radio.modulation.AM)
+atis2:SetRadioRelayUnitName("blue_atis_relay_cech_creek")
+atis2:SetTowerFrequencies({118.600, 251.300})
+atis2:SetTACAN(84)
+atis2:ReportZuluTimeOnly() 
+atis2:Start()
