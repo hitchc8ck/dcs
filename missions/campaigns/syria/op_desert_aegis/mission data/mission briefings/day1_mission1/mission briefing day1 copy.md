@@ -4,32 +4,12 @@
 - **NO INFO YET**
 
 ## **2. Mission Overview**
-- **Package #:**
-- **PKG-Mission:**
-- **Target Area:**
-
-
-- **Mission Commander:** hitchcock  
-
-## **3. Situation**
-- **Objective:** Combined Long Range Precision Strike with B-52H on Shayrat Airbase and provide air cover for B-52H
 - **Mission Date/Time:** 14. March 2008 0640Z / 0640L
 - **Location:** Syria  
+- **Objective:** Combined Long Range Precision Strike with B-52H on Shayrat Airbase and provide air cover for B-52H
+- **Mission Commander:** hitchcock  
 
-### **4. Threat Analysis**
-#### 4.1 Air-to-Air Threats:
-- **Mig-29**
-- **Mig-25**
-- **Mig-23**
-- **Mig-21**
-#### 4.2 Surface-to-Air Threats:
-- **SA-11**
-- **SA-15**
-- **AAA**
-
-
-
-## **5. Pilot Roster**
+## **3. Flight Roster**
 #### VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
@@ -54,7 +34,70 @@
 | Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           | 501       |                |
 | Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           | 501       |                | -->
 
-## **6. Flight Plan**
+## **4. A/C Weapon Loadouts**
+#### 4.1 VFA-87 Golden Warriors Loadout 
+| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
+| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 2x AIM-120C (1+2) / 1x HARM (3+4)   | 2x AGM-154C   | AIM-9X         |
+
+<!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
+    - **NOSE FUZE:** PLUGGED MXU-735  
+    - **TAIL FUZE:** FMU-152  
+    - **AD:** 4S
+    - **FD:** 0S -->
+
+<!-- #### 179th Bulldogs
+| **Station 15** | **Station 14** | **Station 13** | **Station 12** | **Station 11** | **Station 10** | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
+|----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| AIM-120C       | FUEL BAG       | AIM-120C       | N/A            | MK84           | N/A            | NAVFLIR       | N/A           | LANTERN       | N/A           | N/A           | MK84          | AIM-120C      | FUEL BAG      | AIM-120C      |
+
+- **MK84 UNGUIDED BOMB SETTINGS:**  
+    - **NOSE FUZE:** PLUGGED MXU-735  
+    - **TAIL FUZE:** FMU-152  
+    - **AD:** 4S  
+    - **FD:** 0S  
+
+#### 494th Panthers
+| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
+| AIM-120C      | AIM-120C      | MK84          | FUEL BAG      | ECM POD LONG  | FUEL BAG      | MK84          | AIM-120C      | AIM-120C       |
+
+- **MK84 UNGUIDED BOMB SETTINGS:**  
+    - **NOSE FUZE:** PLUGGED MXU-735  
+    - **TAIL FUZE:** FMU-152  
+    - **AD:** 4S  
+    - **FD:** 0S   -->
+
+## **5. Support Radio Frequency Table**
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
+|-----------------------|--------------|---------------|----------|-----------|------------|--------------|------------------------|
+| CBG-5 (CVN-73)        | Warfighter   | 256.700 MHz   | AM       | 102X      | 331.0      | Ch. 2        | CBG-5 ATC              |
+| CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400 MHz   | AM       | 103Y      | -          | -            | CBG-5 Rec. Tanker      |
+| CBG-8 (CVN-75)        | Lone Warrior | 282.300 MHz   | AM       | 104X      | 333.0      | Ch. 5        | CBG-8 ATC              |
+| CBG-8 (Rec. Tanker)   | Mauler       | 285.100 MHz   | AM       | 105Y      | -          | -            | CBG-8 Rec. Tanker      |
+| Akrotiri              | -            | 252.000 MHz   | AM       | 107X      | -          | 109.70       | Akrotiri AFB           |
+| Akrotiri ATIS         | -            | 252.200 MHz   | AM       | -         | -          | -            | Akrotiri AFB ATIS      |
+| Ramat David           | -            | 251.300 MHz   | AM       | 84X       | -          | 111.10       | Ramat David AFB        |
+| Ramat David ATIS      | -            | 251.600 MHz   | AM       | -         | -          | -            | Ramat David AFB ATIS   |
+| AWACS (E-2D)          | FOCUS        | 231.300 MHz   | AM       | -         | -          | -            | Airborne Control       |
+| AWACS (E-3)           | DARKSTAR     | 231.400 MHz   | AM       | -         | -          | -            | Airborne Control       |
+| Tanker (KC-135MPRS)   | Texaco       | 237.100 MHz   | AM       | 41Y       | -          | -            | Drogue                 |
+| Tanker (KC-130)       | Shell        | 233.000 MHz   | AM       | 44Y       | -          | -            | Drogue                 |
+| Tanker (KC-135)       | Arco         | 236.600 MHz   | AM       | 48Y       | -          | -            | Probe                  |
+
+## **6. Squadron Radio Frequency Table**
+| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
+|-----------------------|--------------|---------------|----------|--------------|---------------|----------------|------------------------|
+| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
+| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127          | 131/133       | 119/56         | VFA-87 Sting 5 Flight  |
+<!-- | 494th Panthers        | Dodge 3      | 224.000       | AM       | -            | -             | -              | 494th Dodge 3 Flight   |
+| 494th Panthers        | Dodge 6      | 225.000       | AM       | -            | -             | -              | 494th Dodge 6 Flight   |
+| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
+| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
+
+## **7. Flight Plan**
+- **Weather Conditions:** 349° at 12 knots gusting, visibility 2, weather phenomenon: fog, broken clouds at 10k, 21k and 33k, 22 °C  
+- **QNH:** 29.75
 - **T/O Time:** 0400Z / 0700L
 - **Carrier Ops:**  
     - **CASE III Takeoff**
@@ -66,7 +109,7 @@
 - **Time on Station (TOS):** 0412Z / 0712L
 - **Time on Target (TOT):** N/A
 
-#### 6.1 VFA-87 Golden Warriors Waypoints 
+#### 7.1 VFA-87 Golden Warriors Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | RDVZ     | -                            | -                              | -             | -               |
@@ -112,7 +155,7 @@
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.cf
 
-## **7. Mission Phases**
+## **8. Mission Phases**
 ### **Phase 1:**
 - **Case III takeoff from CVN-73 (WF)**
 - **FPAS climb to 30000 ft**
@@ -136,82 +179,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ### **Phase 5:**
 - **Expect Case I recovery on CVN-73 (WF)**
 
-## **8. Comm Ladder**
-| **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
-|-----------------------|--------------|---------------|----------|-----------|------------|--------------|------------------------|
-| CBG-5 (CVN-73)        | Warfighter   | 256.700 MHz   | AM       | 102X      | 331.0      | Ch. 2        | CBG-5 ATC              |
-| CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400 MHz   | AM       | 103Y      | -          | -            | CBG-5 Rec. Tanker      |
-| CBG-8 (CVN-75)        | Lone Warrior | 282.300 MHz   | AM       | 104X      | 333.0      | Ch. 5        | CBG-8 ATC              |
-| CBG-8 (Rec. Tanker)   | Mauler       | 285.100 MHz   | AM       | 105Y      | -          | -            | CBG-8 Rec. Tanker      |
-| Akrotiri              | -            | 252.000 MHz   | AM       | 107X      | -          | 109.70       | Akrotiri AFB           |
-| Akrotiri ATIS         | -            | 252.200 MHz   | AM       | -         | -          | -            | Akrotiri AFB ATIS      |
-| Ramat David           | -            | 251.300 MHz   | AM       | 84X       | -          | 111.10       | Ramat David AFB        |
-| Ramat David ATIS      | -            | 251.600 MHz   | AM       | -         | -          | -            | Ramat David AFB ATIS   |
-| AWACS (E-2D)          | FOCUS        | 231.300 MHz   | AM       | -         | -          | -            | Airborne Control       |
-| AWACS (E-3)           | DARKSTAR     | 231.400 MHz   | AM       | -         | -          | -            | Airborne Control       |
-| Tanker (KC-135MPRS)   | Texaco       | 237.100 MHz   | AM       | 41Y       | -          | -            | Drogue                 |
-| Tanker (KC-130)       | Shell        | 233.000 MHz   | AM       | 44Y       | -          | -            | Drogue                 |
-| Tanker (KC-135)       | Arco         | 236.600 MHz   | AM       | 48Y       | -          | -            | Probe                  |
-
-## **9. Squadron Radio Frequency Table**
-| **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
-|-----------------------|--------------|---------------|----------|--------------|---------------|----------------|------------------------|
-| VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
-| VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127          | 131/133       | 119/56         | VFA-87 Sting 5 Flight  |
-<!-- | 494th Panthers        | Dodge 3      | 224.000       | AM       | -            | -             | -              | 494th Dodge 3 Flight   |
-| 494th Panthers        | Dodge 6      | 225.000       | AM       | -            | -             | -              | 494th Dodge 6 Flight   |
-| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
-| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
-
-## **10. A/C Ordanance**
-#### 10.1 VFA-87 Golden Warriors Loadout 
-| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
-|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 2x AIM-120C (1+2) / 1x HARM (3+4)   | 2x AGM-154C   | AIM-9X         |
-
-<!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
-    - **NOSE FUZE:** PLUGGED MXU-735  
-    - **TAIL FUZE:** FMU-152  
-    - **AD:** 4S
-    - **FD:** 0S -->
-
-<!-- #### 179th Bulldogs
-| **Station 15** | **Station 14** | **Station 13** | **Station 12** | **Station 11** | **Station 10** | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
-|----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| AIM-120C       | FUEL BAG       | AIM-120C       | N/A            | MK84           | N/A            | NAVFLIR       | N/A           | LANTERN       | N/A           | N/A           | MK84          | AIM-120C      | FUEL BAG      | AIM-120C      |
-
-- **MK84 UNGUIDED BOMB SETTINGS:**  
-    - **NOSE FUZE:** PLUGGED MXU-735  
-    - **TAIL FUZE:** FMU-152  
-    - **AD:** 4S  
-    - **FD:** 0S  
-
-#### 494th Panthers
-| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
-|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-120C      | AIM-120C      | MK84          | FUEL BAG      | ECM POD LONG  | FUEL BAG      | MK84          | AIM-120C      | AIM-120C       |
-
-- **MK84 UNGUIDED BOMB SETTINGS:**  
-    - **NOSE FUZE:** PLUGGED MXU-735  
-    - **TAIL FUZE:** FMU-152  
-    - **AD:** 4S  
-    - **FD:** 0S   -->
-
-## ** 11. Weather:**
-- **Weather Conditions:** 349° at 12 knots gusting, visibility 2, weather phenomenon: fog, broken clouds at 10k, 21k and 33k, 22 °C  
-- **QNH:** 29.75
-- **Visibility:**
-- **Cloud Base:**
-- **Con Layer:**
-
-## **12. Support:**
-
-## **13. Rules of Engagement (ROE)**
-- **Weapons Tight**
-- **Avoid collateral damage**
-
-
-## **14. Target Information**
+## **9. Target Information**
 - **Target:** Runway of Shayrat Airbase TGT1
     - **Target Coordinates:** Lat Long Precise: N34°29'36.60" E36°53'49.95" at 2638 feet
 - **Target:** Runway of Shayrat Airbase TGT2
@@ -229,7 +197,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Target:** A/C Shelter of Shayrat Airbase TGT8
     - **Target Coordinates:** Lat Long Precise: N34°29'00.95" E36°55'18.43" at 2638 feet
 
-#### **14.1 Strategic Importance:** Resupply Airport 
+- **Strategic Importance:** Resupply Airport 
 - **Threat / Target Assessment:**
   - **SA-2** detected, with capabilities to detect incoming threats at long range.
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
@@ -237,12 +205,26 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
   - **Ammunition/Fuel/Weapon Storage**
   - Presence of ground-based artillery and heavy infantry.  
 
-### **15. Satellite Picture**
+### **10. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
 
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day1.cf
 
+### **11. Enemy Threats**
+#### 11.1 Air Threats
+- **Mig-29**
+- **Mig-25**
+- **Mig-23**
+- **Mig-21**
+#### 11.2 Ground Threats
+- **SA-11**
+- **SA-15**
+- **AAA**
 
-## **16. Success Criteria**
+## **12. Rules of Engagement (ROE)**
+- **Weapons Tight**
+- **Avoid collateral damage**
+
+## **13. Success Criteria**
 - **75% of all flights return CVN-73 (CBG-5)**
 - **50% of all targets at Shayrat are destroyed**

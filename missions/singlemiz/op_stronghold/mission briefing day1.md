@@ -1,4 +1,4 @@
-# **Mission Briefing: Operation Desert Aegis - Day 1 - Mission 1**
+# **Mission Briefing: Operation Stronghold**
 
 ## **1. SITREP Update**
 - **NO INFO YET**
@@ -7,22 +7,18 @@
 - **Package #:**
 - **PKG-Mission:**
 - **Target Area:**
-
-
-- **Mission Commander:** hitchcock  
+- **Mission Commander:** 
 
 ## **3. Situation**
-- **Objective:** Combined Long Range Precision Strike with B-52H on Shayrat Airbase and provide air cover for B-52H
+- **Objective:** Long Range Precision Strike on Militarybase
 - **Mission Date/Time:** 14. March 2008 0640Z / 0640L
-- **Location:** Syria  
+- **Location:** Persian Gulf
 
 ### **4. Threat Analysis**
 #### 4.1 Air-to-Air Threats:
 - **Mig-29**
-- **Mig-25**
-- **Mig-23**
-- **Mig-21**
 #### 4.2 Surface-to-Air Threats:
+- **SA-10**
 - **SA-11**
 - **SA-15**
 - **AAA**
