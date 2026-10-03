@@ -23,8 +23,6 @@
 - **SA-15**
 - **AAA**
 
-
-
 ## **5. Pilot Roster**
 #### VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
@@ -33,22 +31,6 @@
 | Joker 2         | F/A-18C      | Joker 2-2    | STRIKE   | Lobo      | 402       |                |
 | Joker 2         | F/A-18C      | Joker 2-3    | STRIKE   | Timbo     | 403       |                |
 | Joker 2         | F/A-18C      | Joker 2-4    | STRIKE   |           | 404       |                |
-
-<!-- #### 179th Bulldogs 
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Weasel 1        | F-16C        | Weasel 1-1   | STRIKE   |           | 201       | Flight Lead    | 
-| Weasel 1        | F-16C        | Weasel 1-2   | STRIKE   |           | 202       |                |
-| Weasel 1        | F-16C        | Weasel 1-3   | STRIKE   |           | 202       |                |
-| Weasel 1        | F-16C        | Weasel 1-4   | STRIKE   |           | 202       |                |
-
-#### 494th Panthers
-| **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
-|-----------------|--------------|--------------|----------|-----------|-----------|----------------|
-| Dodge 6         | F-15E        | Dodge 6-1    | STRIKE   |           | 501       | Flight Lead    | 
-| Dodge 6         | F-15E        | Dodge 6-2    | STRIKE   |           | 501       |                |
-| Dodge 6         | F-15E        | Dodge 6-3    | STRIKE   |           | 501       |                |
-| Dodge 6         | F-15E        | Dodge 6-4    | STRIKE   |           | 501       |                | -->
 
 ## **6. Flight Plan**
 - **T/O Time:** 0400Z / 0700L
@@ -75,34 +57,6 @@
 | #8           | AAR      | -                            | -                              | -             | Shell 21        |
 | #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
 | #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
-
-<!-- #### 7.2 179th Bulldogs Waypoints 
-| **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
-|--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
-| #1           | RDVZ     | -                            | -                              | -             | -               |
-| #2           | FENCE    | -                            | -                              | -             | -               |
-| #3           | IP       | -                            | -                              | -             | -               |
-| #4           | TGT      | N34°29'24.29" E 36°54'28.78" | MGRS GRID: 37 S CU 07909 18483 | 2638 feet     | -               |
-| #5           | EGR      | -                            | -                              | -             | -               |
-| #6           | FENCE    | -                            | -                              | -             | -               |
-| #7           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
-| #8           | AAR      | -                            | -                              | -             | Shell 21        |
-| #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
-| #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
-
-#### 7.3 494th Panthers Waypoints 
-| **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
-|--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
-| #1           | RDVZ     | -                            | -                              | -             | -               |
-| #2           | FENCE    | -                            | -                              | -             | -               |
-| #3           | IP       | -                            | -                              | -             | -               |
-| #4           | TGT      | N34°29'24.29" E 36°54'28.78" | MGRS GRID: 37 S CU 07909 18483 | 2638 feet     | -               |
-| #5           | EGR      | -                            | -                              | -             | -               |
-| #6           | FENCE    | -                            | -                              | -             | -               |
-| #7           | LND      | -                            | -                              | -             | CVN-73 (WF)     |
-| #8           | AAR      | -                            | -                              | -             | Shell 21        |
-| #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
-| #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               | -->
 
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.png)
 
@@ -154,44 +108,19 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 |-----------------------|--------------|---------------|----------|--------------|---------------|----------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
 | VFA-87 Golden Warriors| Sting 5      | 222.000       | AM       | 127          | 131/133       | 119/56         | VFA-87 Sting 5 Flight  |
-<!-- | 494th Panthers        | Dodge 3      | 224.000       | AM       | -            | -             | -              | 494th Dodge 3 Flight   |
-| 494th Panthers        | Dodge 6      | 225.000       | AM       | -            | -             | -              | 494th Dodge 6 Flight   |
-| 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
-| 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
+
 
 ## **10. A/C Ordanance**
 #### 10.1 VFA-87 Golden Warriors Loadout 
 | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-9X        | 2x AGM-154C   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 2x AIM-120C (1+2) / 1x HARM (3+4)   | 2x AGM-154C   | AIM-9X         |
+| AIM-9X        | 1x GBU-31   | FUEL BAG      | AIM-120C      | FUEL BAG      | ATFLIR        | 2x AIM-120C (1+2) / 1x HARM (3+4)   | 2x AGM-154C   | AIM-9X         |
 
-<!-- - **MK83 UNGUIDED BOMB SETTINGS:**  
+- **MK83 UNGUIDED BOMB SETTINGS:**  
     - **NOSE FUZE:** PLUGGED MXU-735  
     - **TAIL FUZE:** FMU-152  
     - **AD:** 4S
-    - **FD:** 0S -->
-
-<!-- #### 179th Bulldogs
-| **Station 15** | **Station 14** | **Station 13** | **Station 12** | **Station 11** | **Station 10** | **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1** |
-|----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| AIM-120C       | FUEL BAG       | AIM-120C       | N/A            | MK84           | N/A            | NAVFLIR       | N/A           | LANTERN       | N/A           | N/A           | MK84          | AIM-120C      | FUEL BAG      | AIM-120C      |
-
-- **MK84 UNGUIDED BOMB SETTINGS:**  
-    - **NOSE FUZE:** PLUGGED MXU-735  
-    - **TAIL FUZE:** FMU-152  
-    - **AD:** 4S  
-    - **FD:** 0S  
-
-#### 494th Panthers
-| **Station 9** | **Station 8** | **Station 7** | **Station 6** | **Station 5** | **Station 4** | **Station 3** | **Station 2** | **Station 1**  |
-|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----------------|
-| AIM-120C      | AIM-120C      | MK84          | FUEL BAG      | ECM POD LONG  | FUEL BAG      | MK84          | AIM-120C      | AIM-120C       |
-
-- **MK84 UNGUIDED BOMB SETTINGS:**  
-    - **NOSE FUZE:** PLUGGED MXU-735  
-    - **TAIL FUZE:** FMU-152  
-    - **AD:** 4S  
-    - **FD:** 0S   -->
+    - **FD:** 0S
 
 ## ** 11. Weather:**
 - **Weather Conditions:** 349° at 12 knots gusting, visibility 2, weather phenomenon: fog, broken clouds at 10k, 21k and 33k, 22 °C  
@@ -205,7 +134,6 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 ## **13. Rules of Engagement (ROE)**
 - **Weapons Tight**
 - **Avoid collateral damage**
-
 
 ## **14. Target Information**
 - **Target:** Runway of Shayrat Airbase TGT1
@@ -225,7 +153,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Target:** A/C Shelter of Shayrat Airbase TGT8
     - **Target Coordinates:** Lat Long Precise: N34°29'00.95" E36°55'18.43" at 2638 feet
 
-#### **14.1 Strategic Importance:** Resupply Airport 
+#### **14.1 Strategic Importance:**
 - **Threat / Target Assessment:**
   - **SA-2** detected, with capabilities to detect incoming threats at long range.
   - **SA-15 SAM system** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
