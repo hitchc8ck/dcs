@@ -7,8 +7,6 @@
 - **Package #:**
 - **PKG-Mission:**
 - **Target Area:**
-
-
 - **Mission Commander:** hitchcock  
 
 ## **3. Situation**
@@ -117,30 +115,26 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Case III takeoff from CVN-73 (WF)**
 - **FPAS climb to 30000 ft**
 - **Transition to rondevu waypoint at 30000 feet at M0.7**
-### **Phase 2:**
 - **Join-up at rondevu waypoint at 0707L / 0907Z with 3xB-52H at 30000 feet at M0.7**
 - **Transition to FENCE with B-52H's**
-### **Phase 3:**
+### **Phase 2:**
 - **B-52H will drop their AGM-86 ALCM 100NM from the target area**
 - **Climb to angels 35 and speed up to M0.8**
 - **Weapons deployment:**
     - **Runway (8 JSOW's)**
     - **A/C shelter (8 JSOW's)**
 - **(if engaged) Engage enemy air targets**
-### **Phase 4:**
+### **Phase 3:**
 - **Egress to WP5**
 - **Return to CVN-73 (WF) via WP6**
 - **(if required) AAR at Shell21**
 - **(if required) AAR at Bloodhound61**
 - **(if required) Divert to Ramat David AFB if required**
-### **Phase 5:**
 - **Expect Case I recovery on CVN-73 (WF)**
 
-## **8. Comm Ladder**
+## **8. Important Comms**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **TACAN** | **L4**     | **ICLS/ILS** | **Notes**              |
 |-----------------------|--------------|---------------|----------|-----------|------------|--------------|------------------------|
-| CBG-5 (CVN-73)        | Warfighter   | 256.700 MHz   | AM       | 102X      | 331.0      | Ch. 2        | CBG-5 ATC              |
-| CBG-5 (Rec. Tanker)   | Bloodhound   | 251.400 MHz   | AM       | 103Y      | -          | -            | CBG-5 Rec. Tanker      |
 | CBG-8 (CVN-75)        | Lone Warrior | 282.300 MHz   | AM       | 104X      | 333.0      | Ch. 5        | CBG-8 ATC              |
 | CBG-8 (Rec. Tanker)   | Mauler       | 285.100 MHz   | AM       | 105Y      | -          | -            | CBG-8 Rec. Tanker      |
 | Akrotiri              | -            | 252.000 MHz   | AM       | 107X      | -          | 109.70       | Akrotiri AFB           |
@@ -148,12 +142,12 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 | Ramat David           | -            | 251.300 MHz   | AM       | 84X       | -          | 111.10       | Ramat David AFB        |
 | Ramat David ATIS      | -            | 251.600 MHz   | AM       | -         | -          | -            | Ramat David AFB ATIS   |
 | AWACS (E-2D)          | FOCUS        | 231.300 MHz   | AM       | -         | -          | -            | Airborne Control       |
-| AWACS (E-3)           | DARKSTAR     | 231.400 MHz   | AM       | -         | -          | -            | Airborne Control       |
+| AWACS (E-3)           | DARKSTAR     | 231.600 MHz   | AM       | -         | -          | -            | Airborne Control       |
 | Tanker (KC-135MPRS)   | Texaco       | 237.100 MHz   | AM       | 41Y       | -          | -            | Drogue                 |
 | Tanker (KC-130)       | Shell        | 233.000 MHz   | AM       | 44Y       | -          | -            | Drogue                 |
 | Tanker (KC-135)       | Arco         | 236.600 MHz   | AM       | 48Y       | -          | -            | Probe                  |
 
-## **9. Squadron Radio Frequency Table**
+## **9. Squadron Radio Frequency's**
 | **Unit**              | **Callsign** | **Frequency** | **Mode** | **MIDS/L16** | **VOCA/VOCB** | **YARDSTICK**  | **Notes**              |
 |-----------------------|--------------|---------------|----------|--------------|---------------|----------------|------------------------|
 | VFA-87 Golden Warriors| Joker 2      | 221.000       | AM       | 127          | 131/132       | 118/55         | VFA-87 Joker 2 Flight  |
@@ -162,6 +156,20 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 | 494th Panthers        | Dodge 6      | 225.000       | AM       | -            | -             | -              | 494th Dodge 6 Flight   |
 | 179th Bulldogs        | Weasel 1     | 226.000       | AM       | -            | -             | -              | 179th Weasel 1 Flight  |
 | 179th Bulldogs        | Weasel 3     | 227.000       | AM       | -            | -             | -              | 179th Weasel 3 Flight  | -->
+
+#### **9.1 Squadron Radio Frequency Table**
+| **Radio-1 Channel** | **Frequency** | **Notes**   | **Radio-2 Channel** | **Frequency** | **Notes**      |
+|---------------------|---------------|-------------|---------------------|---------------|----------------|
+| 1                   | 123.123 MHz   |             | 1                   | 123.123 MHz   |                |       
+| 2                   | 282.300 MHz   | CBG-8 ATC   | 2                   | 241.000 MHz   | Joker 2 Flight |
+| 3                   | 231.300 MHz   | FOCUS       | 3                   | 242.000 MHz   | Sting 5 Flight |
+| 4                   | 231.600 MHz   | DARKSTAR    | 4                   |               |                |
+| 5                   | 237.100 MHz   | Texaco      | 5                   |               |                |
+| 6                   | 285.100 MHz   | Mauler      | 6                   |               |                |
+| 7                   | 251.300 MHz   | Divert RD   | 7                   |               |                |
+| 8                   | 251.600 MHz   | Divert ATIS | 8                   |               |                |
+| 9                   |               |             | 9                   |               |                |
+| 10                  |               |             | 10                  |               |                |
 
 ## **10. A/C Ordanance**
 #### 10.1 VFA-87 Golden Warriors Loadout 
@@ -244,5 +252,5 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 
 
 ## **16. Success Criteria**
-- **75% of all flights return CVN-73 (CBG-5)**
+- **100% of all flights return CVN-73 (CBG-5)**
 - **50% of all targets at Shayrat are destroyed**
