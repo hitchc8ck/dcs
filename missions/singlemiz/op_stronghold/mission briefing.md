@@ -5,7 +5,7 @@
 
 ## **2. Mission Overview**
 - **Package #: 6834**
-- **PKG-Mission: Strategic / Long-Range Strike
+- **PKG-Mission: Strategic / Long-Range Strike**
 - **Target Area: Iran MGRS GRID: 39 R WN 79318 66572**
 - **Mission Commander:**  
 
