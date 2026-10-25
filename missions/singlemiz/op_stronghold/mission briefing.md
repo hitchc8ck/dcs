@@ -154,7 +154,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
   - **AAA/SHORAD**
 
 ### **15. Satellite Picture**
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/singlemiz/op_stronghold/target_area.png)
 
 ## **16. Success Criteria**
 - **100% of all flights return CVN-73**
