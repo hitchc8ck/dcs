@@ -126,7 +126,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
     - **NOSE FUZE:** PLUGGED MXU-735  
     - **TAIL FUZE:** FMU-152  
     - **AD:** 4S
-    - **FD:** 0S 
+    - **FD:** 0S
 
 ## ** 11. Weather:**
 - **Weather Conditions:** 
