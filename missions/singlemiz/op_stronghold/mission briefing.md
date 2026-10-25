@@ -59,9 +59,9 @@
 | #9           | DIV      | -                            | -                              | -             | Ramat David AFB |
 | #10          | BULLS    | -                            | MGRS GRID: 36 S WC 86339 49252 | -             | -               |
 
-![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.png)
+![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/singlemiz/op_stronghold/op_stronghold_cf.png)
 
-https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.cf
+https://github.com/hitchc8ck/dcs/blob/main/missions/singlemiz/op_stronghold/op_stronghold.cf
 
 ## **7. Mission Phases**
 ### **Phase 1:**
