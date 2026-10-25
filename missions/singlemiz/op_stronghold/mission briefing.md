@@ -5,7 +5,7 @@
 
 ## **2. Mission Overview**
 - **Package #: 6834**
-- **PKG-Mission: Strike**
+- **PKG-Mission: Strategic / Long-Range Strike
 - **Target Area: Iran MGRS GRID: 39 R WN 79318 66572**
 - **Mission Commander:**  
 
@@ -151,13 +151,10 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
 - **Threat / Target Assessment:**
   - **SA-10** detected, with capabilities to detect incoming threats at long range.
   - **SA-11** detected, with capabilities to detect incoming threats at medium range.
-  - **SA-15** stationed for point defense, countering low-altitude threats and precision-guided munitions. 
   - **AAA/SHORAD**
 
 ### **15. Satellite Picture**
 ![Screenshot](https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/images/shayrat_airbase.png)
-
-https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/combatflite/desert_aegis_day1.cf
 
 ## **16. Success Criteria**
 - **100% of all flights return CVN-73**
