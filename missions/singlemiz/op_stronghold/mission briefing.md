@@ -26,7 +26,6 @@
 - **AAA**
 
 ## **5. Pilot Roster**
-#### VFA-87 Golden Warriors 
 | **Flight Name** | **A/C Type** | **Callsign** | **Role** | **Pilot** | **Modex** | **Notes**      |
 |-----------------|--------------|--------------|----------|-----------|-----------|----------------|
 | Joker 2         | F/A-18C      | Joker 2-1    | STRIKE   | hitchcock | 401       | Flight Lead    | 
@@ -46,7 +45,7 @@
 - **Time on Station (TOS):** N/A
 - **Time on Target (TOT):** N/A
 
-#### 6.1 VFA-87 Golden Warriors Waypoints 
+#### 6 Waypoints 
 | **Waypoint** | **Name** | **LAT/LONG**                 | **MGRS**                       | **Elevation** | **Notes**       |
 |--------------|----------|------------------------------|--------------------------------|---------------|-----------------|
 | #1           | RDVZ     | -                            | -                              | -             | -               |
@@ -65,22 +64,25 @@
 https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_aegis/mission%20data/mission%20briefings/day1/desert_aegis_day1.cf
 
 ## **7. Mission Phases**
-### **Phase 1: SEQ. 1**
+### **Phase 1:**
+- **Sequence 1**
 - **Case III takeoff from CVN-73 (WF)**
 - **FPAS climb to 30000 ft**
-- **Transition to WP2 at 30000 feet at M0.7 - join-up on the way**
-- **AAR at WP5**
+- **Transition to WP2 at 30000 feet - join-up on the way**
+- **AAR with Taxaco at WP5**
 - **Transition to WP8**
-### **Phase 2: SEQ. 2**
-- **Climb to angels 35 and speed up to M0.8**
+### **Phase 2:**
+- **Sequence 2**
+- **Climb to angels 35**
 - **Weapons deployment:**
     - **GBU-31/4 drop on 6 buildings**
 - **(if engaged) Engage enemy air targets**
 - **Egress back to WP8**
-### **Phase 3: SEQ. 3**
+### **Phase 3:**
+- **Sequence 3**
 - **Return to CVN-73 (WF)**
-- **(if required) AAR at WP5**
-- **(if required) AAR at Bloodhound61**
+- **(if required) AAR with Taxaco at WP5**
+- **(if required) AAR with NavyOne 6-1 (Recovery-Tanker)**
 - **(if required) Divert to Ramat David AFB if required**
 - **Expect Case I recovery on CVN-73 (WF)**
 
@@ -127,7 +129,7 @@ https://github.com/hitchc8ck/dcs/blob/main/missions/campaigns/syria/op_desert_ae
     - **FD:** 0S 
 
 ## ** 11. Weather:**
-- **Weather Conditions:** 349° at 12 knots gusting, visibility 2, weather phenomenon: fog, broken clouds at 10k, 21k and 33k, 22 °C  
+- **Weather Conditions:** 
 - **QNH:** 29.75
 - **Visibility:**
 - **Cloud Base:**
